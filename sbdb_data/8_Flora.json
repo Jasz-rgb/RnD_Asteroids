@@ -1,0 +1,220 @@
+{
+  "phys_par": [
+    {
+      "sigma": null,
+      "ref": "E2025-ME7",
+      "units": null,
+      "title": "absolute magnitude",
+      "name": "H",
+      "value": "6.61",
+      "notes": "IRAS observations used: 19",
+      "desc": "absolute magnitude (magnitude at 1 au from Sun and observer)"
+    },
+    {
+      "desc": "magnitude slope parameter used in the standard asteroid H/G magnitude law",
+      "notes": "Fit",
+      "value": "0.28",
+      "ref": "PDS3 (MPC 17257)",
+      "sigma": null,
+      "name": "G",
+      "units": null,
+      "title": "magnitude slope"
+    },
+    {
+      "sigma": "1.025",
+      "ref": "urn:nasa:pds:neowise_diameters_albedos::2.0[mainbelt] (http://adsabs.harvard.edu/abs/2014ApJ...791..121M)",
+      "title": "diameter",
+      "units": "km",
+      "name": "diameter",
+      "notes": null,
+      "value": "147.491",
+      "desc": "effective body diameter"
+    },
+    {
+      "name": "rot_per",
+      "title": "rotation period",
+      "units": "h",
+      "sigma": null,
+      "ref": "LCDB (Rev. 2023-October); Warner et al., 2009",
+      "desc": "body rotation period (synodic)",
+      "notes": "REFERENCE LIST:[Hollis, A.J.; Bembrick, C.S.; Dumont, M.; Miles, R. (1987) J. Brit. Astron. Assoc. 97, 220-223.], [Di Martino, M.; Zappala, V.; Cellino, A.; Barucci, M.A.; et al. (1989) Astron. Astrophys. 223, 352-360.], [Harris, A.W.; Young, J.W. (1989) Icarus 81, 314-364.], [Piironen, J.; Lagerkvist, C.-I.; Erikson, A.; Oja, T.; et al. (1998) Astron. Astrophys. Suppl. Ser. 128, 525-540.], [Torppa, J.; Kaasalainen, M.; Michalowski, T.; Kwiatkowski, T.; et al. (2003) Icarus 164, 346-383.], [Pilcher, F. (2009) Minor Planet Bull. 36, 133-136.], [Durech, J.; Kaasalainen, M.; Herald, D.; Dunham, D.; et al. (2011) Icarus 214, 652-670.], [Hanus, J.; Marchis, F.; Durech, J. (2013) Icarus 226, 1045-1057.], [Hanus, J.; Viikinkoski, M.; Marchis, F.; Durech, J.; et al (2017) Astron. Astrophys. 601, A114.], [Vernazza, P.; Ferrais, M.; Jorda, L.; Hanus, J.; et al. (2021) Astron. Astrophys 654, id. A56.]",
+      "value": "12.865"
+    },
+    {
+      "desc": "geometric albedo",
+      "value": "0.226",
+      "notes": null,
+      "sigma": "0.041",
+      "ref": "urn:nasa:pds:neowise_diameters_albedos::2.0[mainbelt] (http://adsabs.harvard.edu/abs/2014ApJ...791..121M)",
+      "name": "albedo",
+      "units": null,
+      "title": "geometric albedo"
+    },
+    {
+      "desc": "color index B-V magnitude difference",
+      "value": "0.885",
+      "notes": "#obs=9; phase (min.=8.07, mean=16.45, max.=32.13) deg.",
+      "name": "BV",
+      "units": null,
+      "title": "B-V",
+      "sigma": "0.015",
+      "ref": "EAR-A-5-DDR-UBV-MEAN-VALUES-V1.2"
+    },
+    {
+      "notes": "#obs=9; phase (min.=8.07, mean=17.27, max.=32.13) deg.",
+      "value": "0.489",
+      "desc": "color index U-B magnitude difference",
+      "sigma": "0.024",
+      "ref": "EAR-A-5-DDR-UBV-MEAN-VALUES-V1.2",
+      "units": null,
+      "title": "U-B",
+      "name": "UB"
+    },
+    {
+      "desc": "Tholen spectral taxonomic classification",
+      "notes": "used 7 color indices; used ground-based radiometric albedo",
+      "value": "S",
+      "name": "spec_T",
+      "title": "Tholen spectral type",
+      "units": null,
+      "ref": "EAR-A-5-DDR-TAXONOMY-V4.0",
+      "sigma": null
+    }
+  ],
+  "object": {
+    "spkid": "20000008",
+    "kind": "an",
+    "des": "8",
+    "neo": false,
+    "orbit_id": "152",
+    "prefix": null,
+    "orbit_class": {
+      "name": "Main-belt Asteroid",
+      "code": "MBA"
+    },
+    "shortname": "8 Flora",
+    "pha": false,
+    "fullname": "8 Flora (A847 UA)"
+  },
+  "signature": {
+    "source": "NASA/JPL Small-Body Database (SBDB) API",
+    "version": "1.3"
+  },
+  "orbit": {
+    "producer": "Otto Matic",
+    "comment": null,
+    "equinox": "J2000",
+    "not_valid_after": null,
+    "moid": "0.874",
+    "n_obs_used": 3564,
+    "orbit_id": "152",
+    "elements": [
+      {
+        "units": null,
+        "title": "eccentricity",
+        "label": "e",
+        "name": "e",
+        "value": "0.156",
+        "sigma": "4.6e-09"
+      },
+      {
+        "value": "2.2",
+        "sigma": "1.1e-09",
+        "name": "a",
+        "title": "semi-major axis",
+        "units": "au",
+        "label": "a"
+      },
+      {
+        "name": "q",
+        "title": "perihelion distance",
+        "label": "q",
+        "units": "au",
+        "value": "1.86",
+        "sigma": "1e-08"
+      },
+      {
+        "name": "i",
+        "title": "inclination; angle with respect to x-y ecliptic plane",
+        "label": "i",
+        "units": "deg",
+        "sigma": "3.9e-07",
+        "value": "5.89"
+      },
+      {
+        "value": "111",
+        "sigma": "3.5e-06",
+        "name": "om",
+        "title": "longitude of the ascending node",
+        "units": "deg",
+        "label": "node"
+      },
+      {
+        "value": "285",
+        "sigma": "4e-06",
+        "units": "deg",
+        "title": "argument of perihelion",
+        "label": "peri",
+        "name": "w"
+      },
+      {
+        "value": "199",
+        "sigma": "2.5e-06",
+        "title": "mean anomaly",
+        "units": "deg",
+        "label": "M",
+        "name": "ma"
+      },
+      {
+        "name": "tp",
+        "title": "time of perihelion passage",
+        "units": "TDB",
+        "label": "tp",
+        "sigma": "8.4e-06",
+        "value": "2461534.339"
+      },
+      {
+        "title": "sidereal orbital period",
+        "label": "period",
+        "units": "d",
+        "name": "per",
+        "value": "1190",
+        "sigma": "9.1e-07"
+      },
+      {
+        "units": "deg/d",
+        "title": "mean motion",
+        "label": "n",
+        "name": "n",
+        "sigma": "2.3e-10",
+        "value": "0.302"
+      },
+      {
+        "units": "au",
+        "title": "aphelion distance",
+        "label": "Q",
+        "name": "ad",
+        "value": "2.55",
+        "sigma": "1.3e-09"
+      }
+    ],
+    "moid_jup": "2.88",
+    "rms": "0.55",
+    "condition_code": "0",
+    "not_valid_before": null,
+    "last_obs": "2025-08-03",
+    "epoch": "2461000.5",
+    "source": "JPL",
+    "cov_epoch": "2457961.5",
+    "sb_used": "SB441-N16",
+    "soln_date": "2025-09-15 15:02:53",
+    "two_body": null,
+    "n_del_obs_used": null,
+    "t_jup": "3.642",
+    "model_pars": [],
+    "n_dop_obs_used": null,
+    "pe_used": "DE441",
+    "first_obs": "1847-10-27",
+    "data_arc": "64929"
+  }
+}

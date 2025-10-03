@@ -1,0 +1,220 @@
+{
+  "object": {
+    "neo": false,
+    "des": "145",
+    "kind": "an",
+    "orbit_class": {
+      "code": "MBA",
+      "name": "Main-belt Asteroid"
+    },
+    "pha": false,
+    "shortname": "145 Adeona",
+    "spkid": "20000145",
+    "prefix": null,
+    "fullname": "145 Adeona (A875 LB)",
+    "orbit_id": "133"
+  },
+  "phys_par": [
+    {
+      "sigma": null,
+      "title": "absolute magnitude",
+      "desc": "absolute magnitude (magnitude at 1 au from Sun and observer)",
+      "value": "8.42",
+      "name": "H",
+      "units": null,
+      "notes": "IRAS observations used: 10",
+      "ref": "E2025-MA1"
+    },
+    {
+      "ref": "urn:nasa:pds:neowise_diameters_albedos::2.0[mainbelt] (http://adsabs.harvard.edu/abs/2014ApJ...791..121M)",
+      "notes": null,
+      "units": "km",
+      "name": "diameter",
+      "value": "127.783",
+      "desc": "effective body diameter",
+      "title": "diameter",
+      "sigma": "0.355"
+    },
+    {
+      "notes": "REFERENCE LIST:[Stephens, R.D. (2009) Minor Planet Bull. 36, 59-62.], [Pilcher, F. (2010) Minor Planet Bull. 37, 148-149.], [Wang, Y.-B.; Xu, Y.; Fan, C.-B.; Liu, C.-Z. (2018). Astron. Nach. 339, 457-464.], [Warner, B.D. (2018) Minor Planet Bull. 45, 256-259.], [Podlewska-Gaca, E.; Marciniak, A.; Ali-Lagoa, V.; Bartczak, P.; et al. (2020) Astron. Astrophys. 638, id A11.], [Vernazza, P.; Ferrais, M.; Jorda, L.; Hanus, J.; et al. (2021) Astron. Astrophys 654, id. A56.], [Ferrais, M.; Vernazza, P.; Jorda, L.; Jehin, E.; et al. (2022) Minor Planet Bull. 49, 307-313.]",
+      "value": "15.071",
+      "units": "h",
+      "name": "rot_per",
+      "desc": "body rotation period (synodic)",
+      "sigma": null,
+      "title": "rotation period",
+      "ref": "LCDB (Rev. 2023-October); Warner et al., 2009"
+    },
+    {
+      "ref": "urn:nasa:pds:neowise_diameters_albedos::2.0[mainbelt] (http://adsabs.harvard.edu/abs/2014ApJ...791..121M)",
+      "title": "geometric albedo",
+      "sigma": "0.010",
+      "desc": "geometric albedo",
+      "value": "0.061",
+      "units": null,
+      "name": "albedo",
+      "notes": null
+    },
+    {
+      "ref": "EAR-A-5-DDR-UBV-MEAN-VALUES-V1.2",
+      "name": "BV",
+      "units": null,
+      "value": "0.701",
+      "notes": "#obs=4; phase (min.=6.88, mean=14.31, max.=24.13) deg.",
+      "title": "B-V",
+      "sigma": "0.019",
+      "desc": "color index B-V magnitude difference"
+    },
+    {
+      "notes": "#obs=4; phase (min.=6.88, mean=14.31, max.=24.13) deg.",
+      "name": "UB",
+      "units": null,
+      "value": "0.352",
+      "desc": "color index U-B magnitude difference",
+      "title": "U-B",
+      "sigma": "0.018",
+      "ref": "EAR-A-5-DDR-UBV-MEAN-VALUES-V1.2"
+    },
+    {
+      "ref": "EAR-A-5-DDR-TAXONOMY-V4.0",
+      "sigma": null,
+      "title": "Tholen spectral type",
+      "desc": "Tholen spectral taxonomic classification",
+      "units": null,
+      "name": "spec_T",
+      "value": "C",
+      "notes": "used 7 color indices"
+    },
+    {
+      "ref": "EAR-A-5-DDR-TAXONOMY-V4.0",
+      "sigma": null,
+      "title": "SMASSII spectral type",
+      "desc": "SMASSII spectral taxonomic classification",
+      "value": "Ch",
+      "name": "spec_B",
+      "units": null,
+      "notes": "based on a high-resolution spectrum by Xu et al. (1995) or Bus and Binzel (2002)"
+    }
+  ],
+  "orbit": {
+    "moid": "1.31",
+    "epoch": "2461000.5",
+    "producer": "Otto Matic",
+    "not_valid_after": null,
+    "two_body": null,
+    "comment": null,
+    "data_arc": "54857",
+    "sb_used": "SB441-N16",
+    "cov_epoch": "2458425.5",
+    "source": "JPL",
+    "n_obs_used": 11569,
+    "not_valid_before": null,
+    "n_del_obs_used": null,
+    "model_pars": [],
+    "condition_code": "0",
+    "elements": [
+      {
+        "sigma": "2.6e-09",
+        "title": "eccentricity",
+        "value": "0.147",
+        "name": "e",
+        "units": null,
+        "label": "e"
+      },
+      {
+        "label": "a",
+        "name": "a",
+        "units": "au",
+        "value": "2.67",
+        "sigma": "2.3e-09",
+        "title": "semi-major axis"
+      },
+      {
+        "title": "perihelion distance",
+        "sigma": "6.2e-09",
+        "value": "2.28",
+        "units": "au",
+        "name": "q",
+        "label": "q"
+      },
+      {
+        "label": "i",
+        "name": "i",
+        "units": "deg",
+        "value": "12.6",
+        "sigma": "2.1e-07",
+        "title": "inclination; angle with respect to x-y ecliptic plane"
+      },
+      {
+        "sigma": "6e-07",
+        "title": "longitude of the ascending node",
+        "value": "77.3",
+        "units": "deg",
+        "name": "om",
+        "label": "node"
+      },
+      {
+        "sigma": "1.1e-06",
+        "title": "argument of perihelion",
+        "units": "deg",
+        "name": "w",
+        "value": "45.3",
+        "label": "peri"
+      },
+      {
+        "title": "mean anomaly",
+        "sigma": "1e-06",
+        "value": "279",
+        "units": "deg",
+        "name": "ma",
+        "label": "M"
+      },
+      {
+        "label": "tp",
+        "sigma": "4.9e-06",
+        "title": "time of perihelion passage",
+        "value": "2461357.952",
+        "name": "tp",
+        "units": "TDB"
+      },
+      {
+        "label": "period",
+        "title": "sidereal orbital period",
+        "sigma": "2.1e-06",
+        "value": "1590",
+        "units": "d",
+        "name": "per"
+      },
+      {
+        "value": "0.226",
+        "name": "n",
+        "units": "deg/d",
+        "title": "mean motion",
+        "sigma": "2.9e-10",
+        "label": "n"
+      },
+      {
+        "name": "ad",
+        "units": "au",
+        "value": "3.06",
+        "sigma": "2.7e-09",
+        "title": "aphelion distance",
+        "label": "Q"
+      }
+    ],
+    "n_dop_obs_used": null,
+    "last_obs": "2025-08-13",
+    "moid_jup": "2.13",
+    "pe_used": "DE441",
+    "equinox": "J2000",
+    "soln_date": "2025-09-15 15:08:33",
+    "rms": "0.24",
+    "orbit_id": "133",
+    "first_obs": "1875-06-04",
+    "t_jup": "3.331"
+  },
+  "signature": {
+    "version": "1.3",
+    "source": "NASA/JPL Small-Body Database (SBDB) API"
+  }
+}

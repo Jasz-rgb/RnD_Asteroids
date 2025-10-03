@@ -1,0 +1,210 @@
+{
+  "object": {
+    "fullname": "(2020 CD3)",
+    "prefix": null,
+    "orbit_class": {
+      "code": "APO",
+      "name": "Apollo"
+    },
+    "kind": "au",
+    "pha": false,
+    "neo": true,
+    "spkid": "54000953",
+    "des": "2020 CD3",
+    "orbit_id": "27"
+  },
+  "phys_par": [
+    {
+      "title": "absolute magnitude",
+      "ref": "E2022C16",
+      "desc": "absolute magnitude (magnitude at 1 au from Sun and observer)",
+      "notes": "autocmod 2.8",
+      "value": "31.74",
+      "sigma": ".34008",
+      "units": null,
+      "name": "H"
+    }
+  ],
+  "orbit": {
+    "comment": null,
+    "soln_date": "2021-06-25 15:07:42",
+    "source": "JPL",
+    "rms": "0.64",
+    "last_obs": "2020-05-20",
+    "n_dop_obs_used": null,
+    "producer": "Otto Matic",
+    "moid_jup": "3.92",
+    "t_jup": "5.946",
+    "elements": [
+      {
+        "label": "e",
+        "units": null,
+        "title": "eccentricity",
+        "sigma": "5.3e-08",
+        "name": "e",
+        "value": "0.0124"
+      },
+      {
+        "label": "a",
+        "units": "au",
+        "title": "semi-major axis",
+        "sigma": "2.5e-08",
+        "value": "1.03",
+        "name": "a"
+      },
+      {
+        "sigma": "8e-08",
+        "name": "q",
+        "value": "1.02",
+        "label": "q",
+        "units": "au",
+        "title": "perihelion distance"
+      },
+      {
+        "label": "i",
+        "title": "inclination; angle with respect to x-y ecliptic plane",
+        "units": "deg",
+        "sigma": "1.2e-07",
+        "name": "i",
+        "value": "0.634"
+      },
+      {
+        "title": "longitude of the ascending node",
+        "units": "deg",
+        "label": "node",
+        "name": "om",
+        "value": "82.2",
+        "sigma": "6.9e-05"
+      },
+      {
+        "sigma": "0.00013",
+        "name": "w",
+        "value": "50",
+        "label": "peri",
+        "units": "deg",
+        "title": "argument of perihelion"
+      },
+      {
+        "title": "mean anomaly",
+        "units": "deg",
+        "label": "M",
+        "name": "ma",
+        "value": "204",
+        "sigma": "9.9e-05"
+      },
+      {
+        "value": "2461165.647",
+        "name": "tp",
+        "sigma": "0.00011",
+        "units": "TDB",
+        "title": "time of perihelion passage",
+        "label": "tp"
+      },
+      {
+        "name": "per",
+        "value": "381",
+        "sigma": "1.4e-05",
+        "units": "d",
+        "title": "sidereal orbital period",
+        "label": "period"
+      },
+      {
+        "sigma": "3.5e-08",
+        "value": "0.944",
+        "name": "n",
+        "label": "n",
+        "title": "mean motion",
+        "units": "deg/d"
+      },
+      {
+        "sigma": "2.6e-08",
+        "name": "ad",
+        "value": "1.04",
+        "label": "Q",
+        "title": "aphelion distance",
+        "units": "au"
+      }
+    ],
+    "n_del_obs_used": null,
+    "data_arc": "742",
+    "moid": "0.0194",
+    "pe_used": "DE441",
+    "orbit_id": "27",
+    "cov_epoch": "2458914.5",
+    "n_obs_used": 128,
+    "sb_used": "SB441-N16",
+    "condition_code": "0",
+    "not_valid_after": null,
+    "first_obs": "2018-05-09",
+    "epoch": "2461000.5",
+    "model_pars": [
+      {
+        "n": 1,
+        "name": "A1",
+        "units": "au/d^2",
+        "kind": "EST",
+        "sigma": "2.503E-12",
+        "value": "1.357e-10",
+        "desc": "non-gravitational radial acceleration parameter",
+        "title": "non-grav. radial accel."
+      },
+      {
+        "title": "normalizing factor",
+        "desc": "normalizing factor [default 0.1112620426]",
+        "value": "1.",
+        "kind": "SET",
+        "sigma": null,
+        "units": null,
+        "name": "ALN",
+        "n": 0
+      },
+      {
+        "value": "0.",
+        "kind": "SET",
+        "sigma": null,
+        "title": "non-grav. model exp. k",
+        "desc": "non-grav. model constant, exponent k [default 4.6142]",
+        "name": "NK",
+        "n": 0,
+        "units": null
+      },
+      {
+        "desc": "non-grav. model constant, exponent m [default 2.15]",
+        "title": "non-grav. model exp. m",
+        "sigma": null,
+        "kind": "SET",
+        "value": "2.",
+        "units": null,
+        "n": 0,
+        "name": "NM"
+      },
+      {
+        "title": "non-grav. model exp. n",
+        "desc": "non-grav. model constant, exponent n [default 5.093]",
+        "value": "0.",
+        "kind": "SET",
+        "sigma": null,
+        "units": null,
+        "name": "NN",
+        "n": 0
+      },
+      {
+        "units": "au",
+        "n": 0,
+        "name": "R0",
+        "desc": "normalizing distance, au [default 2.808 au]",
+        "title": "normalizing distance",
+        "sigma": null,
+        "kind": "SET",
+        "value": "1."
+      }
+    ],
+    "not_valid_before": null,
+    "two_body": null,
+    "equinox": "J2000"
+  },
+  "signature": {
+    "source": "NASA/JPL Small-Body Database (SBDB) API",
+    "version": "1.3"
+  }
+}

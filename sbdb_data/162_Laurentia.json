@@ -1,0 +1,220 @@
+{
+  "orbit": {
+    "t_jup": "3.214",
+    "moid_jup": "1.47",
+    "producer": "Otto Matic",
+    "n_dop_obs_used": null,
+    "last_obs": "2025-08-09",
+    "rms": "0.25",
+    "source": "JPL",
+    "soln_date": "2025-09-15 15:09:27",
+    "comment": null,
+    "equinox": "J2000",
+    "two_body": null,
+    "not_valid_before": null,
+    "model_pars": [],
+    "epoch": "2461000.5",
+    "not_valid_after": null,
+    "first_obs": "1876-04-24",
+    "condition_code": "0",
+    "sb_used": "SB441-N16",
+    "n_obs_used": 9891,
+    "orbit_id": "81",
+    "cov_epoch": "2457411.5",
+    "pe_used": "DE441",
+    "moid": "1.48",
+    "data_arc": "54528",
+    "n_del_obs_used": null,
+    "elements": [
+      {
+        "title": "eccentricity",
+        "units": null,
+        "label": "e",
+        "name": "e",
+        "value": "0.183",
+        "sigma": "1.5e-09"
+      },
+      {
+        "units": "au",
+        "title": "semi-major axis",
+        "label": "a",
+        "value": "3.01",
+        "name": "a",
+        "sigma": "2.3e-09"
+      },
+      {
+        "name": "q",
+        "value": "2.46",
+        "sigma": "3.6e-09",
+        "units": "au",
+        "title": "perihelion distance",
+        "label": "q"
+      },
+      {
+        "value": "6.09",
+        "name": "i",
+        "sigma": "1e-07",
+        "units": "deg",
+        "title": "inclination; angle with respect to x-y ecliptic plane",
+        "label": "i"
+      },
+      {
+        "label": "node",
+        "units": "deg",
+        "title": "longitude of the ascending node",
+        "sigma": "8.1e-07",
+        "name": "om",
+        "value": "35.4"
+      },
+      {
+        "sigma": "9.3e-07",
+        "name": "w",
+        "value": "116",
+        "label": "peri",
+        "title": "argument of perihelion",
+        "units": "deg"
+      },
+      {
+        "units": "deg",
+        "title": "mean anomaly",
+        "label": "M",
+        "value": "220",
+        "name": "ma",
+        "sigma": "7.1e-07"
+      },
+      {
+        "title": "time of perihelion passage",
+        "units": "TDB",
+        "label": "tp",
+        "name": "tp",
+        "value": "2461741.836",
+        "sigma": "4.5e-06"
+      },
+      {
+        "title": "sidereal orbital period",
+        "units": "d",
+        "label": "period",
+        "value": "1910",
+        "name": "per",
+        "sigma": "2.2e-06"
+      },
+      {
+        "label": "n",
+        "units": "deg/d",
+        "title": "mean motion",
+        "sigma": "2.1e-10",
+        "value": "0.188",
+        "name": "n"
+      },
+      {
+        "sigma": "2.7e-09",
+        "name": "ad",
+        "value": "3.57",
+        "label": "Q",
+        "title": "aphelion distance",
+        "units": "au"
+      }
+    ]
+  },
+  "signature": {
+    "source": "NASA/JPL Small-Body Database (SBDB) API",
+    "version": "1.3"
+  },
+  "object": {
+    "des": "162",
+    "shortname": "162 Laurentia",
+    "orbit_id": "81",
+    "spkid": "20000162",
+    "kind": "an",
+    "neo": false,
+    "pha": false,
+    "prefix": null,
+    "fullname": "162 Laurentia (A876 HB)",
+    "orbit_class": {
+      "name": "Main-belt Asteroid",
+      "code": "MBA"
+    }
+  },
+  "phys_par": [
+    {
+      "sigma": null,
+      "notes": "IRAS observations used: 12",
+      "value": "9.11",
+      "desc": "absolute magnitude (magnitude at 1 au from Sun and observer)",
+      "title": "absolute magnitude",
+      "ref": "E2025-OD2",
+      "name": "H",
+      "units": null
+    },
+    {
+      "value": "97.021",
+      "notes": null,
+      "sigma": "0.493",
+      "title": "diameter",
+      "ref": "urn:nasa:pds:neowise_diameters_albedos::2.0[mainbelt] (http://adsabs.harvard.edu/abs/2014ApJ...791..121M)",
+      "desc": "effective body diameter",
+      "name": "diameter",
+      "units": "km"
+    },
+    {
+      "name": "rot_per",
+      "units": "h",
+      "notes": "REFERENCE LIST:[Piironen, J.; Bowell, E.; Erikson, A.; Magnusson, P. (1994) Astron. Astrophys. Suppl. Ser. 106, 587-595.], [Behrend, R. (2002) Observatoire de Geneve web site, http://obswww.unige.ch/~behrend/page_cou.html], [Behrend, R. (2005) Observatoire de Geneve web site, http://obswww.unige.ch/~behrend/page_cou.html], [Oey, J.; Krajewski, R. (2008) Minor Planet Bull. 35, 47-48.], [Hanus, J.; Durech, J.; Broz, M.; Warner, B.D.; et al. (2011) Astron. Astrophys. 530, A134.], [Waszczak, A.; Chang, C.-K.; Ofeck, E.O.; Laher, F.; et al. (2015) Astron. J. 150, A75.], [Martikainen, J.; Muinonen, K.; Penttila, A.; Cellino, A.; Wang, X.-B. (2021) Astron. Astrophys. 649, A98.]",
+      "value": "11.8686",
+      "sigma": null,
+      "ref": "LCDB (Rev. 2023-October); Warner et al., 2009",
+      "title": "rotation period",
+      "desc": "body rotation period (synodic)"
+    },
+    {
+      "ref": "urn:nasa:pds:neowise_diameters_albedos::2.0[mainbelt] (http://adsabs.harvard.edu/abs/2012ApJ...759L...8M)",
+      "title": "geometric albedo",
+      "desc": "geometric albedo",
+      "notes": null,
+      "value": "0.051",
+      "sigma": "0.006",
+      "units": null,
+      "name": "albedo"
+    },
+    {
+      "name": "BV",
+      "units": null,
+      "value": "0.747",
+      "notes": "#obs=6; phase (min.=4.08, mean=7.16, max.=10.96) deg.",
+      "sigma": "0.044",
+      "ref": "EAR-A-5-DDR-UBV-MEAN-VALUES-V1.2",
+      "title": "B-V",
+      "desc": "color index B-V magnitude difference"
+    },
+    {
+      "value": "0.374",
+      "notes": "#obs=6; phase (min.=4.08, mean=7.16, max.=10.96) deg.",
+      "sigma": "0.045",
+      "ref": "EAR-A-5-DDR-UBV-MEAN-VALUES-V1.2",
+      "title": "U-B",
+      "desc": "color index U-B magnitude difference",
+      "name": "UB",
+      "units": null
+    },
+    {
+      "value": "STU",
+      "notes": "used 2 color indices",
+      "sigma": null,
+      "title": "Tholen spectral type",
+      "ref": "EAR-A-5-DDR-TAXONOMY-V4.0",
+      "desc": "Tholen spectral taxonomic classification",
+      "name": "spec_T",
+      "units": null
+    },
+    {
+      "ref": "EAR-A-5-DDR-TAXONOMY-V4.0",
+      "title": "SMASSII spectral type",
+      "desc": "SMASSII spectral taxonomic classification",
+      "value": "Ch",
+      "notes": "based on a high-resolution spectrum by Xu et al. (1995) or Bus and Binzel (2002)",
+      "sigma": null,
+      "units": null,
+      "name": "spec_B"
+    }
+  ]
+}

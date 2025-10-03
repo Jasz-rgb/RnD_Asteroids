@@ -1,0 +1,230 @@
+{
+  "orbit": {
+    "equinox": "J2000",
+    "two_body": null,
+    "not_valid_before": null,
+    "model_pars": [],
+    "not_valid_after": null,
+    "epoch": "2461000.5",
+    "first_obs": "1849-05-26",
+    "condition_code": "0",
+    "sb_used": "SB441-N16",
+    "n_obs_used": 5130,
+    "cov_epoch": "2458286.5",
+    "orbit_id": "124",
+    "pe_used": "DE441",
+    "moid": "1.8",
+    "data_arc": "64360",
+    "n_del_obs_used": null,
+    "elements": [
+      {
+        "label": "e",
+        "title": "eccentricity",
+        "units": null,
+        "sigma": "4.3e-09",
+        "name": "e",
+        "value": "0.108"
+      },
+      {
+        "units": "au",
+        "title": "semi-major axis",
+        "label": "a",
+        "name": "a",
+        "value": "3.15",
+        "sigma": "2.4e-09"
+      },
+      {
+        "sigma": "1.3e-08",
+        "name": "q",
+        "value": "2.81",
+        "label": "q",
+        "units": "au",
+        "title": "perihelion distance"
+      },
+      {
+        "units": "deg",
+        "title": "inclination; angle with respect to x-y ecliptic plane",
+        "label": "i",
+        "value": "3.83",
+        "name": "i",
+        "sigma": "3.8e-07"
+      },
+      {
+        "title": "longitude of the ascending node",
+        "units": "deg",
+        "label": "node",
+        "value": "283",
+        "name": "om",
+        "sigma": "5.3e-06"
+      },
+      {
+        "label": "peri",
+        "title": "argument of perihelion",
+        "units": "deg",
+        "sigma": "5.6e-06",
+        "value": "313",
+        "name": "w"
+      },
+      {
+        "title": "mean anomaly",
+        "units": "deg",
+        "label": "M",
+        "value": "217",
+        "name": "ma",
+        "sigma": "2.1e-06"
+      },
+      {
+        "sigma": "1.3e-05",
+        "value": "2461812.468",
+        "name": "tp",
+        "label": "tp",
+        "title": "time of perihelion passage",
+        "units": "TDB"
+      },
+      {
+        "units": "d",
+        "title": "sidereal orbital period",
+        "label": "period",
+        "value": "2040",
+        "name": "per",
+        "sigma": "2.3e-06"
+      },
+      {
+        "sigma": "2e-10",
+        "value": "0.176",
+        "name": "n",
+        "label": "n",
+        "units": "deg/d",
+        "title": "mean motion"
+      },
+      {
+        "title": "aphelion distance",
+        "units": "au",
+        "label": "Q",
+        "name": "ad",
+        "value": "3.49",
+        "sigma": "2.6e-09"
+      }
+    ],
+    "t_jup": "3.196",
+    "moid_jup": "1.54",
+    "producer": "Otto Matic",
+    "n_dop_obs_used": null,
+    "last_obs": "2025-08-11",
+    "rms": "0.48",
+    "source": "JPL",
+    "soln_date": "2025-09-15 15:02:52",
+    "comment": null
+  },
+  "signature": {
+    "source": "NASA/JPL Small-Body Database (SBDB) API",
+    "version": "1.3"
+  },
+  "object": {
+    "pha": false,
+    "neo": false,
+    "kind": "an",
+    "orbit_class": {
+      "code": "MBA",
+      "name": "Main-belt Asteroid"
+    },
+    "fullname": "10 Hygiea (A849 GA)",
+    "prefix": null,
+    "orbit_id": "124",
+    "shortname": "10 Hygiea",
+    "des": "10",
+    "spkid": "20000010"
+  },
+  "phys_par": [
+    {
+      "name": "H",
+      "units": null,
+      "sigma": null,
+      "value": "5.65",
+      "notes": "IRAS observations used: 22",
+      "desc": "absolute magnitude (magnitude at 1 au from Sun and observer)",
+      "ref": "E2025B29",
+      "title": "absolute magnitude"
+    },
+    {
+      "ref": "IRAS-A-FPA-3-RDR-IMPS-V6.0",
+      "title": "diameter",
+      "desc": "effective body diameter",
+      "notes": "IRAS observations used: 22",
+      "value": "407.12",
+      "sigma": "6.8",
+      "units": "km",
+      "name": "diameter"
+    },
+    {
+      "units": "km^3/s^2",
+      "name": "GM",
+      "ref": "Scholl et al., A&A, v.179, p.311, 1987",
+      "title": "GM",
+      "desc": "standard gravitational parameter: product of the mass (M) and gravitational constant (G)",
+      "value": "7.",
+      "notes": null,
+      "sigma": null
+    },
+    {
+      "units": "h",
+      "name": "rot_per",
+      "desc": "body rotation period (synodic)",
+      "title": "rotation period",
+      "ref": "LCDB (Rev. 2023-October); Warner et al., 2009",
+      "sigma": null,
+      "value": "13.828",
+      "notes": "REFERENCE LIST:[Pilcher, F. (2020) Minor Planet Bull. 47, 133-135.], [Vernazza, P.; Jorda, L.; Sevecek, P.; Broz, M.; et al. (2020) Nature Astronomy 4, 136-141.], [Ferrais, M.; Jehin, E.; Vernazza, P.; Jorda, L.; et al. (2021) Minor Planet Bull. 48, 166-167.], [Vernazza, P.; Ferrais, M.; Jorda, L.; Hanus, J.; et al. (2021) Astron. Astrophys 654, id. A56.]"
+    },
+    {
+      "name": "albedo",
+      "units": null,
+      "value": "0.0717",
+      "notes": "IRAS observations used: 22",
+      "sigma": "0.002",
+      "title": "geometric albedo",
+      "ref": "IRAS-A-FPA-3-RDR-IMPS-V6.0",
+      "desc": "geometric albedo"
+    },
+    {
+      "units": null,
+      "name": "BV",
+      "ref": "EAR-A-5-DDR-UBV-MEAN-VALUES-V1.2",
+      "title": "B-V",
+      "desc": "color index B-V magnitude difference",
+      "value": "0.696",
+      "notes": "#obs=11; phase (min.=4.77, mean=10.97, max.=18.25) deg.",
+      "sigma": "0.020"
+    },
+    {
+      "name": "UB",
+      "units": null,
+      "value": "0.351",
+      "notes": "#obs=11; phase (min.=4.77, mean=10.97, max.=18.25) deg.",
+      "sigma": "0.034",
+      "title": "U-B",
+      "ref": "EAR-A-5-DDR-UBV-MEAN-VALUES-V1.2",
+      "desc": "color index U-B magnitude difference"
+    },
+    {
+      "units": null,
+      "name": "spec_T",
+      "desc": "Tholen spectral taxonomic classification",
+      "ref": "EAR-A-5-DDR-TAXONOMY-V4.0",
+      "title": "Tholen spectral type",
+      "sigma": null,
+      "value": "C",
+      "notes": "used 7 color indices; used ground-based radiometric albedo"
+    },
+    {
+      "units": null,
+      "name": "spec_B",
+      "desc": "SMASSII spectral taxonomic classification",
+      "title": "SMASSII spectral type",
+      "ref": "EAR-A-5-DDR-TAXONOMY-V4.0",
+      "sigma": null,
+      "notes": "based on a high-resolution spectrum by Xu et al. (1995) or Bus and Binzel (2002)",
+      "value": "C"
+    }
+  ]
+}

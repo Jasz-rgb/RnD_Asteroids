@@ -1,0 +1,220 @@
+{
+  "phys_par": [
+    {
+      "units": null,
+      "name": "H",
+      "desc": "absolute magnitude (magnitude at 1 au from Sun and observer)",
+      "ref": "E2024S44",
+      "title": "absolute magnitude",
+      "sigma": null,
+      "notes": null,
+      "value": "6.54"
+    },
+    {
+      "sigma": null,
+      "value": "152",
+      "notes": "Yeomans E-mail 2001-Apr-04",
+      "desc": "effective body diameter",
+      "ref": "Dunham occult. list: Dunham 1998: 167x139 km",
+      "title": "diameter",
+      "name": "diameter",
+      "units": "km"
+    },
+    {
+      "name": "rot_per",
+      "units": "h",
+      "sigma": null,
+      "notes": "REFERENCE LIST:[Bel'skaya, I.N.; Dovgopol, A.N.; Erikson, A.; Lagerkvist, C.-I.; Oja, T. (1993) Astron. Astrophys. Suppl. Ser. 101, 507-511.], [Pilcher, F. (2009) Minor Planet Bull. 36, 133-136.], [Hanus, J.; Durech, J.; Broz, M.; Warner, B.D.; et al. (2011) Astron. Astrophys. 530, A134.], [Aymami, J.M. (2012) Minor Planet Bull. 39, 179-181.], [Hanus, J.; Marchis, F.; Durech, J. (2013) Icarus 226, 1045-1057.], [Viikinkoski, M.; Hanus, J.; Kaasalainen, M.; Marchis, F.; Durech, J. (2017) Astron. Astrophys. 607, A117.], [Podlewska-Gaca, E.; Marciniak, A.; Ali-Lagoa, V.; Bartczak, P.; et al. (2020) Astron. Astrophys. 638, id A11.], [Martikainen, J.; Muinonen, K.; Penttila, A.; Cellino, A.; Wang, X.-B. (2021) Astron. Astrophys. 649, A98.]",
+      "value": "15.028",
+      "desc": "body rotation period (synodic)",
+      "ref": "LCDB (Rev. 2023-October); Warner et al., 2009",
+      "title": "rotation period"
+    },
+    {
+      "name": "albedo",
+      "units": null,
+      "notes": "TRIAD quality code 3",
+      "value": "0.159",
+      "sigma": null,
+      "ref": "EAR-A-5-DDR-ALBEDOS-V1.0:TRIAD",
+      "title": "geometric albedo",
+      "desc": "geometric albedo"
+    },
+    {
+      "desc": "color index B-V magnitude difference",
+      "ref": "EAR-A-5-DDR-UBV-MEAN-VALUES-V1.2",
+      "title": "B-V",
+      "sigma": "0.018",
+      "value": "0.833",
+      "notes": "#obs=13; phase (min.=1.04, mean=8.54, max.=23.04) deg.",
+      "units": null,
+      "name": "BV"
+    },
+    {
+      "value": "0.388",
+      "notes": "#obs=10; phase (min.=1.04, mean=8.02, max.=23.04) deg.",
+      "sigma": "0.031",
+      "title": "U-B",
+      "ref": "EAR-A-5-DDR-UBV-MEAN-VALUES-V1.2",
+      "desc": "color index U-B magnitude difference",
+      "name": "UB",
+      "units": null
+    },
+    {
+      "ref": "EAR-A-5-DDR-TAXONOMY-V4.0",
+      "title": "Tholen spectral type",
+      "desc": "Tholen spectral taxonomic classification",
+      "value": "S",
+      "notes": "used 7 color indices; used ground-based radiometric albedo",
+      "sigma": null,
+      "units": null,
+      "name": "spec_T"
+    },
+    {
+      "units": null,
+      "name": "spec_B",
+      "desc": "SMASSII spectral taxonomic classification",
+      "ref": "EAR-A-5-DDR-TAXONOMY-V4.0",
+      "title": "SMASSII spectral type",
+      "sigma": null,
+      "value": "S",
+      "notes": "based on a high-resolution spectrum by Xu et al. (1995) or Bus and Binzel (2002)"
+    }
+  ],
+  "object": {
+    "fullname": "14 Irene (A851 KA)",
+    "prefix": null,
+    "orbit_class": {
+      "name": "Main-belt Asteroid",
+      "code": "MBA"
+    },
+    "kind": "an",
+    "neo": false,
+    "pha": false,
+    "spkid": "20000014",
+    "shortname": "14 Irene",
+    "des": "14",
+    "orbit_id": "116"
+  },
+  "signature": {
+    "source": "NASA/JPL Small-Body Database (SBDB) API",
+    "version": "1.3"
+  },
+  "orbit": {
+    "moid": "1.19",
+    "elements": [
+      {
+        "name": "e",
+        "value": "0.163",
+        "sigma": "3.7e-09",
+        "title": "eccentricity",
+        "units": null,
+        "label": "e"
+      },
+      {
+        "label": "a",
+        "units": "au",
+        "title": "semi-major axis",
+        "sigma": "1.6e-09",
+        "value": "2.59",
+        "name": "a"
+      },
+      {
+        "title": "perihelion distance",
+        "units": "au",
+        "label": "q",
+        "value": "2.17",
+        "name": "q",
+        "sigma": "9.7e-09"
+      },
+      {
+        "units": "deg",
+        "title": "inclination; angle with respect to x-y ecliptic plane",
+        "label": "i",
+        "value": "9.13",
+        "name": "i",
+        "sigma": "2.9e-07"
+      },
+      {
+        "units": "deg",
+        "title": "longitude of the ascending node",
+        "label": "node",
+        "name": "om",
+        "value": "86",
+        "sigma": "2.4e-06"
+      },
+      {
+        "sigma": "2.6e-06",
+        "value": "98.3",
+        "name": "w",
+        "label": "peri",
+        "title": "argument of perihelion",
+        "units": "deg"
+      },
+      {
+        "label": "M",
+        "units": "deg",
+        "title": "mean anomaly",
+        "sigma": "1.3e-06",
+        "value": "12.9",
+        "name": "ma"
+      },
+      {
+        "name": "tp",
+        "value": "2460945.902",
+        "sigma": "5.5e-06",
+        "units": "TDB",
+        "title": "time of perihelion passage",
+        "label": "tp"
+      },
+      {
+        "sigma": "1.4e-06",
+        "value": "1520",
+        "name": "per",
+        "label": "period",
+        "title": "sidereal orbital period",
+        "units": "d"
+      },
+      {
+        "label": "n",
+        "title": "mean motion",
+        "units": "deg/d",
+        "sigma": "2.2e-10",
+        "name": "n",
+        "value": "0.237"
+      },
+      {
+        "sigma": "1.8e-09",
+        "value": "3.01",
+        "name": "ad",
+        "label": "Q",
+        "units": "au",
+        "title": "aphelion distance"
+      }
+    ],
+    "n_del_obs_used": null,
+    "data_arc": "63559",
+    "cov_epoch": "2457774.5",
+    "orbit_id": "116",
+    "n_obs_used": 3687,
+    "pe_used": "DE441",
+    "condition_code": "0",
+    "first_obs": "1851-05-20",
+    "not_valid_after": null,
+    "epoch": "2461000.5",
+    "sb_used": "SB441-N16",
+    "two_body": null,
+    "equinox": "J2000",
+    "model_pars": [],
+    "not_valid_before": null,
+    "comment": null,
+    "source": "JPL",
+    "last_obs": "2025-05-26",
+    "rms": "0.53",
+    "soln_date": "2025-08-02 15:08:00",
+    "t_jup": "3.385",
+    "n_dop_obs_used": null,
+    "producer": "Otto Matic",
+    "moid_jup": "2.02"
+  }
+}

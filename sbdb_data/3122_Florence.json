@@ -1,0 +1,190 @@
+{
+  "phys_par": [
+    {
+      "name": "H",
+      "title": "absolute magnitude",
+      "units": null,
+      "ref": "E2024-XU9",
+      "sigma": null,
+      "desc": "absolute magnitude (magnitude at 1 au from Sun and observer)",
+      "value": "14.08",
+      "notes": null
+    },
+    {
+      "desc": "effective body diameter",
+      "notes": "based on assumed medium albedo (0.15)",
+      "value": "4.9",
+      "name": "diameter",
+      "units": "km",
+      "title": "diameter",
+      "ref": "Hazards due to Comets and Asteroids (1994), Ed. T. Gehrels, pp.540-543",
+      "sigma": null
+    },
+    {
+      "sigma": null,
+      "ref": "LCDB (Rev. 2023-October); Warner et al., 2009",
+      "title": "rotation period",
+      "units": "h",
+      "name": "rot_per",
+      "value": "2.3581",
+      "notes": "REFERENCE LIST:[Pravec, P.; Wolf, M.; Sarounova, L. (1998) Icarus 136, 124-153.], [Pravec, P.; Wolf, M.; Sarounova, L. (2002) http://www.asu.cas.cz/~ppravec/neo.htm], [Pravec, P.; Wolf, M.; Sarounova, L. (2003) http://www.asu.cas.cz/~ppravec/neo.htm], [Behrend, R. (2010) Observatoire de Geneve web site, http://obswww.unige.ch/~behrend/page_cou.html], [Elenin, L.; Molotov, I. (2012) Minor Planet Bull. 39, 101-102.], [Linder, T.; Sampson, R.; Holmes, R. (2013) Minor Planet Bull. 40, 4-6.], [Warner, B.D. (2016) Minor Planet Bull. 43, 240-250.], [Behrend, R. (2017) Observatoire de Geneve web site, http://obswww.unige.ch/~behrend/page_cou.html], [Benner, L.A.M.; Naidu, S.; Brozovic, M.; Chodas, P. (2017) https://cneos.jpl.nasa.gov/news/news199.html], [Stone, G. (2017) Posting on CALL web site: https://minplanobs.org/MPInfo/php/call.php], [Franco, L.; Bacci, P.; Maestripieri, M.; Baj, G.; et al. (2018) Minor Planet Bull. 45, 174-177.], [Klinglesmith III, D.A.; Hendrickx, S. (2018) Minor Planet Bull. 45, 61-63.], [Rodrigo, O.: Fornas, G.; Arce, E.; Mas, V.; et al. (2018) Minor Planet Bull. 45, 120-121.], [Tomassini, A.; Scardella, M.; Franceschini, F.; Pierri, F. (2018) Minor Planet Bull. 45, 11-13.], [Warner, B.D. (2018) Minor Planet Bull. 45, 19-34.], [Abrams, N.S.; Bieryla, A.; Gomez, S.; Huang, J.; et al. (2020) Minor Planet Bull. 47, 3-4.], [Ferrais, M.; Jehin, E.; Moulane, Y.; Pozuelos, Francisco J.; et al. (2020) Minor Planet Bull. 47, 21-22.], [Nunez-Lopez, R.; Loera-Gonzalez, P.; Saucedo, J.C.; Olguin, L.; et al. (2020) Minor Planet Bull. 47, 89-90.], [Warner, B.D. (2023) Minor Planet Bull. 50, 217-221.]",
+      "desc": "body rotation period (synodic)"
+    },
+    {
+      "sigma": "0.049",
+      "ref": "urn:nasa:pds:neowise_diameters_albedos::2.0[neos] (http://adsabs.harvard.edu/abs/2011ApJ...743..156M)",
+      "name": "albedo",
+      "units": null,
+      "title": "geometric albedo",
+      "desc": "geometric albedo",
+      "value": "0.231",
+      "notes": null
+    },
+    {
+      "notes": "based on a high-resolution spectrum by Xu et al. (1995) or Bus and Binzel (2002)",
+      "value": "S",
+      "desc": "SMASSII spectral taxonomic classification",
+      "title": "SMASSII spectral type",
+      "units": null,
+      "name": "spec_B",
+      "ref": "EAR-A-5-DDR-TAXONOMY-V4.0",
+      "sigma": null
+    }
+  ],
+  "signature": {
+    "source": "NASA/JPL Small-Body Database (SBDB) API",
+    "version": "1.3"
+  },
+  "object": {
+    "orbit_class": {
+      "name": "Amor",
+      "code": "AMO"
+    },
+    "pha": true,
+    "fullname": "3122 Florence (1981 ET3)",
+    "shortname": "3122 Florence",
+    "kind": "an",
+    "neo": true,
+    "des": "3122",
+    "spkid": "20003122",
+    "prefix": null,
+    "orbit_id": "984"
+  },
+  "orbit": {
+    "producer": "Otto Matic",
+    "comment": null,
+    "equinox": "J2000",
+    "orbit_id": "984",
+    "n_obs_used": 9973,
+    "moid": "0.0436",
+    "not_valid_after": null,
+    "moid_jup": "2.99",
+    "elements": [
+      {
+        "name": "e",
+        "units": null,
+        "title": "eccentricity",
+        "label": "e",
+        "sigma": "6e-10",
+        "value": "0.423"
+      },
+      {
+        "name": "a",
+        "title": "semi-major axis",
+        "label": "a",
+        "units": "au",
+        "value": "1.77",
+        "sigma": "4.4e-10"
+      },
+      {
+        "value": "1.02",
+        "sigma": "1.1e-09",
+        "name": "q",
+        "title": "perihelion distance",
+        "units": "au",
+        "label": "q"
+      },
+      {
+        "name": "i",
+        "units": "deg",
+        "title": "inclination; angle with respect to x-y ecliptic plane",
+        "label": "i",
+        "sigma": "5.3e-08",
+        "value": "22.1"
+      },
+      {
+        "units": "deg",
+        "title": "longitude of the ascending node",
+        "label": "node",
+        "name": "om",
+        "sigma": "1.5e-07",
+        "value": "336"
+      },
+      {
+        "label": "peri",
+        "title": "argument of perihelion",
+        "units": "deg",
+        "name": "w",
+        "sigma": "1.7e-07",
+        "value": "27.9"
+      },
+      {
+        "value": "168",
+        "sigma": "5.2e-07",
+        "name": "ma",
+        "label": "M",
+        "title": "mean anomaly",
+        "units": "deg"
+      },
+      {
+        "sigma": "1.1e-06",
+        "value": "2460598.878",
+        "label": "tp",
+        "title": "time of perihelion passage",
+        "units": "TDB",
+        "name": "tp"
+      },
+      {
+        "name": "per",
+        "title": "sidereal orbital period",
+        "units": "d",
+        "label": "period",
+        "value": "859",
+        "sigma": "3.2e-07"
+      },
+      {
+        "name": "n",
+        "title": "mean motion",
+        "units": "deg/d",
+        "label": "n",
+        "sigma": "1.6e-10",
+        "value": "0.419"
+      },
+      {
+        "title": "aphelion distance",
+        "units": "au",
+        "label": "Q",
+        "name": "ad",
+        "sigma": "6.3e-10",
+        "value": "2.52"
+      }
+    ],
+    "condition_code": "0",
+    "rms": "0.29",
+    "epoch": "2461000.5",
+    "last_obs": "2025-05-22",
+    "not_valid_before": null,
+    "cov_epoch": "2458314.5",
+    "source": "JPL",
+    "soln_date": "2025-09-25 06:55:18",
+    "two_body": null,
+    "sb_used": "SB441-N16",
+    "t_jup": "3.920",
+    "n_del_obs_used": 6,
+    "pe_used": "DE441",
+    "n_dop_obs_used": 0,
+    "model_pars": [],
+    "first_obs": "1979-03-09",
+    "data_arc": "16876"
+  }
+}

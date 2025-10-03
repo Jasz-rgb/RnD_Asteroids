@@ -1,0 +1,14 @@
+C:\Users\JASMINE\Desktop\RnD_asteroid\Asteroid\bin\Debug\net8.0\Asteroid.exe
+C:\Users\JASMINE\Desktop\RnD_asteroid\Asteroid\bin\Debug\net8.0\Asteroid.deps.json
+C:\Users\JASMINE\Desktop\RnD_asteroid\Asteroid\bin\Debug\net8.0\Asteroid.runtimeconfig.json
+C:\Users\JASMINE\Desktop\RnD_asteroid\Asteroid\bin\Debug\net8.0\Asteroid.dll
+C:\Users\JASMINE\Desktop\RnD_asteroid\Asteroid\bin\Debug\net8.0\Asteroid.pdb
+C:\Users\JASMINE\Desktop\RnD_asteroid\Asteroid\obj\Debug\net8.0\Asteroid.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JASMINE\Desktop\RnD_asteroid\Asteroid\obj\Debug\net8.0\Asteroid.AssemblyInfoInputs.cache
+C:\Users\JASMINE\Desktop\RnD_asteroid\Asteroid\obj\Debug\net8.0\Asteroid.AssemblyInfo.cs
+C:\Users\JASMINE\Desktop\RnD_asteroid\Asteroid\obj\Debug\net8.0\Asteroid.csproj.CoreCompileInputs.cache
+C:\Users\JASMINE\Desktop\RnD_asteroid\Asteroid\obj\Debug\net8.0\Asteroid.dll
+C:\Users\JASMINE\Desktop\RnD_asteroid\Asteroid\obj\Debug\net8.0\refint\Asteroid.dll
+C:\Users\JASMINE\Desktop\RnD_asteroid\Asteroid\obj\Debug\net8.0\Asteroid.pdb
+C:\Users\JASMINE\Desktop\RnD_asteroid\Asteroid\obj\Debug\net8.0\Asteroid.genruntimeconfig.cache
+C:\Users\JASMINE\Desktop\RnD_asteroid\Asteroid\obj\Debug\net8.0\ref\Asteroid.dll

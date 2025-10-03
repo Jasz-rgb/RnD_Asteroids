@@ -1,0 +1,180 @@
+{
+  "phys_par": [
+    {
+      "units": null,
+      "title": "absolute magnitude",
+      "name": "H",
+      "ref": "E2025-QB1",
+      "sigma": null,
+      "notes": null,
+      "value": "16.00",
+      "desc": "absolute magnitude (magnitude at 1 au from Sun and observer)"
+    },
+    {
+      "sigma": null,
+      "ref": "Oberst et al., 2001, Icarus, 153:16-23",
+      "name": "extent",
+      "units": "km",
+      "title": "extent",
+      "desc": "tri(or bi)-axial body dimensions",
+      "notes": null,
+      "value": "2.1x1.0x1.0"
+    },
+    {
+      "units": "h",
+      "title": "rotation period",
+      "name": "rot_per",
+      "ref": "LCDB (Rev. 2023-October); Warner et al., 2009",
+      "sigma": null,
+      "value": "226.4",
+      "notes": "[Result based on less than full coverage, so that the period may be wrong by 30 percent or so.]  REFERENCE LIST:[Di Martino, M.; Oberst, J.; Mottola, S.; DS1 Science Team (1999) Bull. Amer. Astron. Soc. 31, 1131.], [Oberst, J.; Mottola, S.; Di Martino, M.; Hicks, M.; et al. (2001) Icarus 153, 16-23.]",
+      "desc": "body rotation period (synodic)"
+    },
+    {
+      "notes": null,
+      "value": "Q",
+      "desc": "SMASSII spectral taxonomic classification",
+      "ref": "Binzel et al. (2001) Icarus 151, 139-149",
+      "sigma": null,
+      "units": null,
+      "title": "SMASSII spectral type",
+      "name": "spec_B"
+    }
+  ],
+  "signature": {
+    "source": "NASA/JPL Small-Body Database (SBDB) API",
+    "version": "1.3"
+  },
+  "object": {
+    "fullname": "9969 Braille (1992 KD)",
+    "pha": false,
+    "shortname": "9969 Braille",
+    "orbit_class": {
+      "name": "Mars-crossing Asteroid",
+      "code": "MCA"
+    },
+    "prefix": null,
+    "orbit_id": "82",
+    "des": "9969",
+    "neo": false,
+    "kind": "an",
+    "spkid": "20009969"
+  },
+  "orbit": {
+    "data_arc": "11581",
+    "first_obs": "1992-05-27",
+    "n_dop_obs_used": null,
+    "model_pars": [],
+    "pe_used": "DE441",
+    "t_jup": "3.281",
+    "n_del_obs_used": null,
+    "two_body": null,
+    "soln_date": "2024-04-17 15:46:22",
+    "sb_used": "SB441-N16",
+    "source": "JPL",
+    "cov_epoch": "2457797.5",
+    "epoch": "2461000.5",
+    "last_obs": "2024-02-10",
+    "not_valid_before": null,
+    "rms": "0.59",
+    "condition_code": "0",
+    "elements": [
+      {
+        "title": "eccentricity",
+        "label": "e",
+        "units": null,
+        "name": "e",
+        "sigma": "2.3e-09",
+        "value": "0.434"
+      },
+      {
+        "label": "a",
+        "title": "semi-major axis",
+        "units": "au",
+        "name": "a",
+        "value": "2.34",
+        "sigma": "3.2e-09"
+      },
+      {
+        "sigma": "5.2e-09",
+        "value": "1.32",
+        "name": "q",
+        "label": "q",
+        "title": "perihelion distance",
+        "units": "au"
+      },
+      {
+        "value": "29",
+        "sigma": "2.2e-07",
+        "title": "inclination; angle with respect to x-y ecliptic plane",
+        "units": "deg",
+        "label": "i",
+        "name": "i"
+      },
+      {
+        "value": "242",
+        "sigma": "7.8e-07",
+        "units": "deg",
+        "title": "longitude of the ascending node",
+        "label": "node",
+        "name": "om"
+      },
+      {
+        "sigma": "8.2e-07",
+        "value": "356",
+        "name": "w",
+        "units": "deg",
+        "title": "argument of perihelion",
+        "label": "peri"
+      },
+      {
+        "sigma": "2.1e-06",
+        "value": "123",
+        "name": "ma",
+        "title": "mean anomaly",
+        "units": "deg",
+        "label": "M"
+      },
+      {
+        "value": "2460555.477",
+        "sigma": "6.6e-06",
+        "name": "tp",
+        "title": "time of perihelion passage",
+        "label": "tp",
+        "units": "TDB"
+      },
+      {
+        "name": "per",
+        "title": "sidereal orbital period",
+        "label": "period",
+        "units": "d",
+        "sigma": "2.7e-06",
+        "value": "1310"
+      },
+      {
+        "value": "0.275",
+        "sigma": "5.7e-10",
+        "title": "mean motion",
+        "label": "n",
+        "units": "deg/d",
+        "name": "n"
+      },
+      {
+        "value": "3.36",
+        "sigma": "4.6e-09",
+        "name": "ad",
+        "units": "au",
+        "title": "aphelion distance",
+        "label": "Q"
+      }
+    ],
+    "moid_jup": "1.67",
+    "moid": "0.311",
+    "not_valid_after": null,
+    "orbit_id": "82",
+    "n_obs_used": 675,
+    "equinox": "J2000",
+    "comment": null,
+    "producer": "Otto Matic"
+  }
+}

@@ -1,0 +1,160 @@
+{
+  "phys_par": [
+    {
+      "ref": "E2025R45",
+      "title": "absolute magnitude",
+      "desc": "absolute magnitude (magnitude at 1 au from Sun and observer)",
+      "notes": null,
+      "value": "0.14",
+      "sigma": null,
+      "units": null,
+      "name": "H"
+    },
+    {
+      "value": "3.9154",
+      "notes": "REFERENCE LIST:[Rabinowitz, D.L.; Barkume, K.; Brown, M.E.; Roe, H.; et al. (2006) Astrophys. J. 639, 1238-1251.], [Rabinowitz, D.L.; Schaefer, B.E.; Tourtellotte, S.W. (2007) Astron. J. 133, 26-43.], [Lellouch, E.; Kiss, C.; Santos-Sanz, P.; Muller, T.G.; et al. (2010) Astron. Astrophys. 518, L147.], [Thirouin, A.; Ortiz, J.L.; Duffard, R.; Santos-Sanz, P.; et al. (2010) Astron. Astrophys. 522, A93.], [Behrend, R. (2011) Observatoire de Geneve web site, http://obswww.unige.ch/~behrend/page_cou.html], [Behrend, R. (2014) Observatoire de Geneve web site, http://obswww.unige.ch/~behrend/page_cou.html], [Lockwood, A.C.; Brown, M.E.; Stansberry, J. (2014) Earth, Moon, and Planets 111, 127-37.], [Clark, M. (2016) Minor Planet Bull. 43, 2-5.], [Behrend, R. (2017) Observatoire de Geneve web site, http://obswww.unige.ch/~behrend/page_cou.html], [Ortiz, J.L.; Santos-Sanz, P.; Sicardy, B.; Benedetti-Rossi, G.; et al. (2017) Nature 550, 219-223.]",
+      "sigma": null,
+      "ref": "LCDB (Rev. 2023-October); Warner et al., 2009",
+      "title": "rotation period",
+      "desc": "body rotation period (synodic)",
+      "name": "rot_per",
+      "units": "h"
+    }
+  ],
+  "object": {
+    "orbit_id": "128",
+    "shortname": "136108 Haumea",
+    "des": "136108",
+    "spkid": "20136108",
+    "neo": false,
+    "pha": false,
+    "kind": "an",
+    "orbit_class": {
+      "name": "TransNeptunian Object",
+      "code": "TNO"
+    },
+    "fullname": "136108 Haumea (2003 EL61)",
+    "prefix": null
+  },
+  "signature": {
+    "source": "NASA/JPL Small-Body Database (SBDB) API",
+    "version": "1.3"
+  },
+  "orbit": {
+    "comment": null,
+    "source": "JPL",
+    "rms": "0.26",
+    "last_obs": "2025-09-04",
+    "soln_date": "2025-09-16 12:18:55",
+    "t_jup": "5.090",
+    "moid_jup": "30",
+    "n_dop_obs_used": null,
+    "producer": "Otto Matic",
+    "moid": "33.7",
+    "n_del_obs_used": null,
+    "data_arc": "25734",
+    "elements": [
+      {
+        "value": "0.196",
+        "name": "e",
+        "sigma": "1.2e-06",
+        "title": "eccentricity",
+        "units": null,
+        "label": "e"
+      },
+      {
+        "name": "a",
+        "value": "43",
+        "sigma": "4.1e-05",
+        "units": "au",
+        "title": "semi-major axis",
+        "label": "a"
+      },
+      {
+        "sigma": "6.4e-05",
+        "name": "q",
+        "value": "34.6",
+        "label": "q",
+        "units": "au",
+        "title": "perihelion distance"
+      },
+      {
+        "sigma": "1.2e-06",
+        "value": "28.2",
+        "name": "i",
+        "label": "i",
+        "title": "inclination; angle with respect to x-y ecliptic plane",
+        "units": "deg"
+      },
+      {
+        "title": "longitude of the ascending node",
+        "units": "deg",
+        "label": "node",
+        "name": "om",
+        "value": "122",
+        "sigma": "1.8e-05"
+      },
+      {
+        "sigma": "0.00071",
+        "value": "241",
+        "name": "w",
+        "label": "peri",
+        "title": "argument of perihelion",
+        "units": "deg"
+      },
+      {
+        "sigma": "0.001",
+        "value": "222",
+        "name": "ma",
+        "label": "M",
+        "title": "mean anomaly",
+        "units": "deg"
+      },
+      {
+        "sigma": "0.28",
+        "name": "tp",
+        "value": "2500394.371",
+        "label": "tp",
+        "units": "TDB",
+        "title": "time of perihelion passage"
+      },
+      {
+        "label": "period",
+        "units": "d",
+        "title": "sidereal orbital period",
+        "sigma": "0.15",
+        "name": "per",
+        "value": "103000"
+      },
+      {
+        "value": "0.00349",
+        "name": "n",
+        "sigma": "4.9e-09",
+        "title": "mean motion",
+        "units": "deg/d",
+        "label": "n"
+      },
+      {
+        "units": "au",
+        "title": "aphelion distance",
+        "label": "Q",
+        "name": "ad",
+        "value": "51.4",
+        "sigma": "4.9e-05"
+      }
+    ],
+    "n_obs_used": 6517,
+    "orbit_id": "128",
+    "cov_epoch": "2458535.5",
+    "pe_used": "DE441",
+    "first_obs": "1955-03-22",
+    "not_valid_after": null,
+    "epoch": "2461000.5",
+    "condition_code": "1",
+    "sb_used": "SB441-N16",
+    "equinox": "J2000",
+    "two_body": null,
+    "model_pars": [],
+    "not_valid_before": null
+  }
+}
