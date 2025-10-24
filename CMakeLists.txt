@@ -27,7 +27,7 @@ find_package(glad CONFIG REQUIRED)
 add_executable(AsteroidSim
     src/main.cpp
     src/glad.c           # glad.c is in src
-)
+ "src/shader.h")
 
 # Include directories
 target_include_directories(AsteroidSim PRIVATE
