@@ -1,50 +1,45 @@
 cmake_minimum_required(VERSION 3.22)
 project(AsteroidSim VERSION 1.0 LANGUAGES CXX)
 
-# Set C++ standard
 set(CMAKE_CXX_STANDARD 17)
 set(CMAKE_CXX_STANDARD_REQUIRED ON)
 
-# Force 64-bit build
 if(NOT CMAKE_SIZEOF_VOID_P EQUAL 8)
     message(FATAL_ERROR "This project requires a 64-bit build")
 endif()
 
-# Use vcpkg toolchain automatically if not set
-if(NOT DEFINED CMAKE_TOOLCHAIN_FILE)
-    if(DEFINED ENV{VCPKG_ROOT})
-        set(CMAKE_TOOLCHAIN_FILE "$ENV{VCPKG_ROOT}/scripts/buildsystems/vcpkg.cmake" CACHE STRING "")
-    else()
-        message(FATAL_ERROR "Please set VCPKG_ROOT environment variable or define CMAKE_TOOLCHAIN_FILE")
-    endif()
-endif()
-
-# Find packages installed via vcpkg
-find_package(glfw3 CONFIG REQUIRED)
-find_package(glad CONFIG REQUIRED)
+set(GLEW_INCLUDE_DIR "C:/Users/JASMINE/Desktop/Project1")
+set(GLEW_LIB_DIR     "C:/Users/JASMINE/Desktop/Project1/lib")
+set(GLFW_INCLUDE_DIR "C:/Users/JASMINE/Desktop/RnD_asteroid/external/glfw/include")
+set(NLOHMANN_INCLUDE_DIR "C:/Users/JASMINE/Desktop/RnD_asteroid/external/nlohmann")
 
 # Add executable
 add_executable(AsteroidSim
     src/main.cpp
-    src/glad.c           # glad.c is in src
- "src/shader.h")
+    src/shader.cpp
+    src/shader.h
+    src/glad.c       
+)
 
 # Include directories
 target_include_directories(AsteroidSim PRIVATE
-    external/glad        # glad.h is here
+    ${GLEW_INCLUDE_DIR}          # GLEW
+    ${GLFW_INCLUDE_DIR}          # GLFW
+    ${NLOHMANN_INCLUDE_DIR}      # nlohmann/json
+    external                     # other local includes
+    external/glad
 )
 
-# Link libraries
+link_directories(${GLEW_LIB_DIR})
+
 target_link_libraries(AsteroidSim PRIVATE
-    glfw
-    glad::glad
-    opengl32
+    glew32        # GLEW
+    glfw3         # GLFW
+    opengl32      # Windows OpenGL
 )
 
-# Enable multi-configuration support
 set_property(TARGET AsteroidSim PROPERTY VS_DEBUGGER_WORKING_DIRECTORY "${CMAKE_SOURCE_DIR}")
 
-# Specify output directories per configuration
 set_target_properties(AsteroidSim PROPERTIES
     RUNTIME_OUTPUT_DIRECTORY_DEBUG "${CMAKE_BINARY_DIR}/Debug"
     RUNTIME_OUTPUT_DIRECTORY_RELEASE "${CMAKE_BINARY_DIR}/Release"
