@@ -1,5 +1,34 @@
-# Visual Studio cache
+# Visual Studio
 .vs/
-*.db
-*.ipch
+*.vcxproj.user
+
+# Build folders
+build/
+out/
+x64/
+Debug/
+Release/
+libs/
+*.dll
+*.lib
+# CMake
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+*.ninja
+.ninja_*
+
+# Compiled files
+*.obj
+*.exe
+*.pdb
+*.ilk
+
+# Python
+venv/
+.venv/
+__pycache__/
+
+# Generated data
+results/
 data/

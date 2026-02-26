@@ -58,7 +58,7 @@
 58 Concordia
 59 Elpis
 60 Echo
-61 Danaë
+61 Danae
 62 Erato
 63 Ausonia
 64 Angelina
@@ -293,7 +293,7 @@
 293 Brasilia
 294 Felicia
 295 Theresia
-296 Phaëtusa
+296 Phaetusa
 297 Caecilia
 298 Baptistina
 299 Thora
@@ -366,7 +366,7 @@
 366 Vincentina
 367 Amicitia
 368 Haidea
-369 Aëria
+369 Aeria
 370 Modestia
 371 Bohemia
 372 Palma
@@ -399,9 +399,9 @@
 399 Persephone
 400 Ducrosa
 401 Ottilia
-402 Chloë
+402 Chloe
 403 Cyane
-404 Arsinoë
+404 Arsinoe
 405 Thia
 406 Erna
 407 Arachne
@@ -418,7 +418,7 @@
 418 Alemannia
 419 Aurelia
 420 Bertholda
-421 Zähringia
+421 Zahringia
 422 Berolina
 423 Diotima
 424 Gratia
@@ -603,7 +603,7 @@
 603 Timandra
 604 Tekmessa
 605 Juvisia
-606 Brangäne
+606 Brangane
 607 Jenny
 608 Adolfine
 609 Fulvia
@@ -652,9 +652,9 @@
 652 Jubilatrix
 653 Berenike
 654 Zelinda
-655 Briseïs
+655 Briseis
 656 Beagle
-657 Gunlöd
+657 Gunlod
 658 Asteria
 659 Nestor
 660 Crescentia
@@ -700,7 +700,7 @@
 700 Auravictrix
 701 Oriola
 702 Alauda
-703 Noëmi
+703 Noemi
 704 Interamnia
 705 Erminia
 706 Hirundo
@@ -723,7 +723,7 @@
 723 Hammonia
 724 Hapag
 725 Amanda
-726 Joëlla
+726 Joella
 727 Nipponia
 728 Leonisis
 729 Watsonia
@@ -745,10 +745,10 @@
 745 Mauritia
 746 Marlu
 747 Winchester
-748 Simeïsa
+748 Simeisa
 749 Malzovia
 750 Oskar
-751 Faïna
+751 Faina
 752 Sulamitis
 753 Tiflis
 754 Malabar
@@ -772,7 +772,7 @@
 772 Tanete
 773 Irmintraud
 774 Armor
-775 Lumière
+775 Lumiere
 776 Berbericia
 777 Gutemberga
 778 Theobalda
@@ -803,7 +803,7 @@
 803 Picka
 804 Hispania
 805 Hormuthia
-806 Gyldénia
+806 Gyldenia
 807 Ceraskia
 808 Merxia
 809 Lundia
@@ -842,7 +842,7 @@
 842 Kerstin
 843 Nicolaia
 844 Leontina
-845 Naëma
+845 Naema
 846 Lipperta
 847 Agnia
 848 Inna
@@ -855,10 +855,10 @@
 855 Newcombia
 856 Backlunda
 857 Glasenappia
-858 El Djezaïr
-859 Bouzaréah
+858 El Djezair
+859 Bouzareah
 860 Ursina
-861 Aïda
+861 Aida
 862 Franzia
 863 Benkoela
 864 Aase
@@ -874,7 +874,7 @@
 874 Rotraut
 875 Nymphe
 876 Scott
-877 Walküre
+877 Walkure
 878 Mildred
 879 Ricarda
 880 Herba
@@ -931,7 +931,7 @@
 931 Whittemora
 932 Hooveria
 933 Susi
-934 Thüringia
+934 Thuringia
 935 Clivia
 936 Kunigunde
 937 Bethgea
@@ -943,7 +943,7 @@
 943 Begonia
 944 Hidalgo
 945 Barcelona
-946 Poësia
+946 Poesia
 947 Monterosa
 948 Jucunda
 949 Hel
@@ -959,7 +959,7 @@
 959 Arne
 960 Birgit
 961 Gunnie
-962 Aslög
+962 Aslog
 963 Iduberga
 964 Subamara
 965 Angelica
@@ -1134,7 +1134,7 @@
 1134 Kepler
 1135 Colchis
 1136 Mercedes
-1137 Raïssa
+1137 Raissa
 1138 Attica
 1139 Atami
 1140 Crimea
@@ -1152,7 +1152,7 @@
 1152 Pawona
 1153 Wallenbergia
 1154 Astronomia
-1155 Aënna
+1155 Aenna
 1156 Kira
 1157 Arabia
 1158 Luda
@@ -1169,7 +1169,7 @@
 1169 Alwine
 1170 Siva
 1171 Rusthawelia
-1172 Äneas
+1172 Aneas
 1173 Anchises
 1174 Marmara
 1175 Margo
@@ -1233,8 +1233,8 @@
 1233 Kobresia
 1234 Elyna
 1235 Schorria
-1236 Thaïs
-1237 Geneviève
+1236 Thais
+1237 Genevieve
 1238 Predappia
 1239 Queteleta
 1240 Centenaria
@@ -1254,9 +1254,9 @@
 1254 Erfordia
 1255 Schilowa
 1256 Normannia
-1257 Móra
+1257 Mora
 1258 Sicilia
-1259 Ógyalla
+1259 Ogyalla
 1260 Walhalla
 1261 Legia
 1262 Sniadeckia
@@ -1286,14 +1286,14 @@
 1286 Banachiewicza
 1287 Lorcia
 1288 Santa
-1289 Kutaïssi
+1289 Kutaissi
 1290 Albertine
 1291 Phryne
 1292 Luce
 1293 Sonja
 1294 Antwerpia
 1295 Deflotte
-1296 Andrée
+1296 Andree
 1297 Quadea
 1298 Nocturna
 1299 Mertona
@@ -1336,9 +1336,9 @@
 1336 Zeelandia
 1337 Gerarda
 1338 Duponta
-1339 Désagneauxa
+1339 Desagneauxa
 1340 Yvette
-1341 Edmée
+1341 Edmee
 1342 Brabantia
 1343 Nicole
 1344 Caubeta
@@ -1404,14 +1404,14 @@
 1404 Ajax
 1405 Sibelius
 1406 Komppa
-1407 Lindelöf
+1407 Lindelof
 1408 Trusanda
 1409 Isko
 1410 Margret
 1411 Brauna
 1412 Lagrula
 1413 Roucarie
-1414 Jérôme
+1414 Jerome
 1415 Malautra
 1416 Renauxa
 1417 Walinskia
@@ -1419,7 +1419,7 @@
 1419 Danzig
 1420 Radcliffe
 1421 Esperanto
-1422 Strömgrenia
+1422 Stromgrenia
 1423 Jose
 1424 Sundmania
 1425 Tuorla
@@ -1443,12 +1443,12 @@
 1443 Ruppina
 1444 Pannonia
 1445 Konkolya
-1446 Sillanpää
+1446 Sillanpaa
 1447 Utra
 1448 Lindbladia
 1449 Virtanen
 1450 Raimonda
-1451 Granö
+1451 Grano
 1452 Hunnia
 1453 Fennia
 1454 Kalevala
@@ -1463,7 +1463,7 @@
 1463 Nordenmarkia
 1464 Armisticia
 1465 Autonoma
-1466 Mündleria
+1466 Mundleria
 1467 Mashona
 1468 Zomba
 1469 Linzia
@@ -1478,7 +1478,7 @@
 1478 Vihuri
 1479 Inkeri
 1480 Aunus
-1481 Tübingia
+1481 Tubingia
 1482 Sebastiana
 1483 Hakoila
 1484 Postrema
@@ -1497,7 +1497,7 @@
 1497 Tampere
 1498 Lahti
 1499 Pori
-1500 Jyväskylä
+1500 Jyvaskyla
 1501 Baade
 1502 Arenda
 1503 Kuopio
@@ -1508,9 +1508,9 @@
 1508 Kemi
 1509 Esclangona
 1510 Charlois
-1511 Daléra
+1511 Dalera
 1512 Oulu
-1513 Mátra
+1513 Matra
 1514 Ricouxa
 1515 Perrotin
 1516 Henry
@@ -1518,32 +1518,32 @@
 1518 Rovaniemi
 1519 Kajaani
 1520 Imatra
-1521 Seinäjoki
+1521 Seinajoki
 1522 Kokkola
-1523 Pieksämäki
+1523 Pieksamaki
 1524 Joensuu
 1525 Savonlinna
 1526 Mikkeli
 1527 Malmquista
 1528 Conrada
 1529 Oterma
-1530 Rantaseppä
+1530 Rantaseppa
 1531 Hartmut
 1532 Inari
 1533 Saimaa
-1534 Näsi
-1535 Päijänne
+1534 Nasi
+1535 Paijanne
 1536 Pielinen
 1537 Transylvania
 1538 Detre
 1539 Borrelly
 1540 Kevola
 1541 Estonia
-1542 Schalén
+1542 Schalen
 1543 Bourgeois
 1544 Vinterhansenia
-1545 Thernöe
-1546 Izsák
+1545 Thernoe
+1546 Izsak
 1547 Nele
 1548 Palomaa
 1549 Mikko
@@ -1555,14 +1555,14 @@
 1555 Dejan
 1556 Wingolfia
 1557 Roehla
-1558 Järnefelt
+1558 Jarnefelt
 1559 Kustaanheimo
 1560 Strattonia
 1561 Fricke
 1562 Gondolatsch
-1563 Noël
+1563 Noel
 1564 Srbija
-1565 Lemaître
+1565 Lemaitre
 1566 Icarus
 1567 Alikoski
 1568 Aisleen
@@ -1570,7 +1570,7 @@
 1570 Brunonia
 1571 Cesco
 1572 Posnania
-1573 Väisälä
+1573 Vaisala
 1574 Meyer
 1575 Winifred
 1576 Fabiola
@@ -1605,7 +1605,7 @@
 1605 Milankovitch
 1606 Jekhovsky
 1607 Mavis
-1608 Muñoz
+1608 Munoz
 1609 Brenda
 1610 Mirnaya
 1611 Beyer
@@ -1629,7 +1629,7 @@
 1629 Pecker
 1630 Milet
 1631 Kopff
-1632 Sieböhme
+1632 Siebohme
 1633 Chimay
 1634 Ndola
 1635 Bohrmann
@@ -1649,10 +1649,10 @@
 1649 Fabre
 1650 Heckmann
 1651 Behrens
-1652 Hergé
+1652 Herge
 1653 Yakhontovia
 1654 Bojeva
-1655 Comas Solá
+1655 Comas Sola
 1656 Suomi
 1657 Roemera
 1658 Innes
@@ -1681,7 +1681,7 @@
 1681 Steinmetz
 1682 Karel
 1683 Castafiore
-1684 Iguassú
+1684 Iguassu
 1685 Toro
 1686 De Sitter
 1687 Glarona
@@ -1705,7 +1705,7 @@
 1705 Tapio
 1706 Dieckvoss
 1707 Chantal
-1708 Pólit
+1708 Polit
 1709 Ukraina
 1710 Gothard
 1711 Sandrine
@@ -1775,8 +1775,8 @@
 1775 Zimmerwald
 1776 Kuiper
 1777 Gehrels
-1778 Alfvén
-1779 Paraná
+1778 Alfven
+1779 Parana
 1780 Kippes
 1781 Van Biesbroeck
 1782 Schneller
@@ -1846,19 +1846,19 @@
 1846 Bengt
 1847 Stobbe
 1848 Delvaux
-1849 Kresák
+1849 Kresak
 1850 Kohoutek
 1851 Lacroute
 1852 Carpenter
 1853 McElroy
 1854 Skvortsov
 1855 Korolev
-1856 Ružena
+1856 Ruzena
 1857 Parchomenko
 1858 Lobachevskij
 1859 Kovalevskaya
 1860 Barbarossa
-1861 Komenský
+1861 Komensky
 1862 Apollo
 1863 Antinous
 1864 Daedalus
@@ -1912,7 +1912,7 @@
 1912 Anubis
 1913 Sekanina
 1914 Hartbeespoortdam
-1915 Quetzálcoatl
+1915 Quetzalcoatl
 1916 Boreas
 1917 Cuyo
 1918 Aiguillon
@@ -1928,7 +1928,7 @@
 1928 Summa
 1929 Kollaa
 1930 Lucifer
-1931 Čapek
+1931 Capek
 1932 Jansky
 1933 Tinchen
 1934 Jeffers
@@ -1941,10 +1941,10 @@
 1941 Wild
 1942 Jablunka
 1943 Anteros
-1944 Günter
+1944 Gunter
 1945 Wesselink
 1946 Walraven
-1947 Iso-Heikkilä
+1947 Iso-Heikkila
 1948 Kampala
 1949 Messina
 1950 Wempe
@@ -2018,7 +2018,7 @@
 2018 Schuster
 2019 van Albada
 2020 Ukko
-2021 Poincaré
+2021 Poincare
 2022 West
 2023 Asaph
 2024 McLaughlin
@@ -2052,10 +2052,10 @@
 2052 Tamriko
 2053 Nuki
 2054 Gawain
-2055 Dvořák
+2055 Dvorak
 2056 Nancy
 2057 Rosemary
-2058 Róka
+2058 Roka
 2059 Baboquivari
 2060 Chiron
 2061 Anza
@@ -2070,7 +2070,7 @@
 2070 Humason
 2071 Nadezhda
 2072 Kosmodemyanskaya
-2073 Janáček
+2073 Janacek
 2074 Shoemaker
 2075 Martinez
 2076 Levin
@@ -2078,7 +2078,7 @@
 2078 Nanking
 2079 Jacchia
 2080 Jihlava
-2081 Sázava
+2081 Sazava
 2082 Galahad
 2083 Smither
 2084 Okayama
@@ -2093,10 +2093,10 @@
 2093 Genichesk
 2094 Magnitka
 2095 Parsifal
-2096 Väinö
+2096 Vaino
 2097 Galle
 2098 Zyskin
-2099 Öpik
+2099 Opik
 2100 Ra-Shalom
 2101 Adonis
 2102 Tantalus
@@ -2156,7 +2156,7 @@
 2156 Kate
 2157 Ashbrook
 2158 Tietjen
-2159 Kukkamäki
+2159 Kukkamaki
 2160 Spitzer
 2161 Grissom
 2162 Anhui
@@ -2192,11 +2192,11 @@
 2192 Pyatigoriya
 2193 Jackson
 2194 Arpola
-2195 Tengström
+2195 Tengstrom
 2196 Ellicott
 2197 Shanghai
 2198 Ceplecha
-2199 Kleť
+2199 Klet
 2200 Pasadena
 2201 Oljato
 2202 Pele
@@ -2240,7 +2240,7 @@
 2240 Tsai
 2241 Alcathous
 2242 Balaton
-2243 Lönnrot
+2243 Lonnrot
 2244 Tesla
 2245 Hekatostos
 2246 Bowell
@@ -2253,7 +2253,7 @@
 2253 Espinette
 2254 Requiem
 2255 Qinghai
-2256 Wiśniewski
+2256 Wisniewski
 2257 Kaarina
 2258 Viipuri
 2259 Sofievka
@@ -2275,11 +2275,11 @@
 2275 Cuitlahuac
 2276 Warck
 2277 Moreau
-2278 Götz
+2278 Gotz
 2279 Barto
 2280 Kunikov
 2281 Biela
-2282 Andrés Bello
+2282 Andres Bello
 2283 Bunke
 2284 San Juan
 2285 Ron Helin
@@ -2318,7 +2318,7 @@
 2318 Lubarsky
 2319 Aristides
 2320 Blarney
-2321 Lužnice
+2321 Luznice
 2322 Kitt Peak
 2323 Zverev
 2324 Janice
@@ -2334,7 +2334,7 @@
 2334 Cuffey
 2335 James
 2336 Xinjiang
-2337 Boubín
+2337 Boubin
 2338 Bokhan
 2339 Anacreon
 2340 Hathor
@@ -2342,12 +2342,12 @@
 2342 Lebedev
 2343 Siding Spring
 2344 Xizang
-2345 Fučik
+2345 Fucik
 2346 Lilio
 2347 Vinata
 2348 Michkovitch
 2349 Kurchenko
-2350 von Lüde
+2350 von Lude
 2351 O'Higgins
 2352 Kurchatov
 2353 Alva
@@ -2387,7 +2387,7 @@
 2387 Xi'an
 2388 Gase
 2389 Dibaj
-2390 Nežárka
+2390 Nezarka
 2391 Tomita
 2392 Jonathan Murray
 2393 Suzuki
@@ -2400,7 +2400,7 @@
 2400 Derevskaya
 2401 Aehlita
 2402 Satpaev
-2403 Šumava
+2403 Sumava
 2404 Antarctica
 2405 Welch
 2406 Orelskaya
@@ -2417,7 +2417,7 @@
 2417 McVittie
 2418 Voskovec-Werich
 2419 Moldavia
-2420 Čiurlionis
+2420 Ciurlionis
 2421 Nininger
 2422 Perovskaya
 2423 Ibarruri
@@ -2426,7 +2426,7 @@
 2426 Simonov
 2427 Kobzar
 2428 Kamenyar
-2429 Schürer
+2429 Schurer
 2430 Bruce Helin
 2431 Skovoroda
 2432 Soomana
@@ -2461,7 +2461,7 @@
 2461 Clavel
 2462 Nehalennia
 2463 Sterpin
-2464 Nordenskiöld
+2464 Nordenskiold
 2465 Wilson
 2466 Golson
 2467 Kollontai
@@ -2476,14 +2476,14 @@
 2476 Andersen
 2477 Biryukov
 2478 Tokai
-2479 Sodankylä
+2479 Sodankyla
 2480 Papanov
-2481 Bürgi
+2481 Burgi
 2482 Perkin
 2483 Guinevere
 2484 Parenago
 2485 Scheffler
-2486 Metsähovi
+2486 Metsahovi
 2487 Juhani
 2488 Bryan
 2489 Suvorov
@@ -2510,7 +2510,7 @@
 2510 Shandong
 2511 Patterson
 2512 Tavastia
-2513 Baetslé
+2513 Baetsle
 2514 Taiyuan
 2515 Gansu
 2516 Roman
@@ -2532,7 +2532,7 @@
 2532 Sutton
 2533 Fechtig
 2534 Houzeau
-2535 Hämeenlinna
+2535 Hameenlinna
 2536 Kozyrev
 2537 Gilmore
 2538 Vanderlinden
@@ -2562,7 +2562,7 @@
 2562 Chaliapin
 2563 Boyarchuk
 2564 Kayala
-2565 Grögler
+2565 Grogler
 2566 Kirghizia
 2567 Elba
 2568 Maksutov
@@ -2575,7 +2575,7 @@
 2575 Bulgaria
 2576 Yesenin
 2577 Litva
-2578 Saint-Exupéry
+2578 Saint-Exupery
 2579 Spartacus
 2580 Smilevskia
 2581 Radegundis
@@ -2587,7 +2587,7 @@
 2587 Gardner
 2588 Flavia
 2589 Daniel
-2590 Mourão
+2590 Mourao
 2591 Dworetsky
 2592 Hunan
 2593 Buryatia
@@ -2596,7 +2596,7 @@
 2596 Vainu Bappu
 2597 Arthur
 2598 Merlin
-2599 Veselí
+2599 Veseli
 2600 Lumme
 2601 Bologna
 2602 Moore
@@ -2610,13 +2610,13 @@
 2610 Tuva
 2611 Boyce
 2612 Kathryn
-2613 Plzeň
+2613 Plzen
 2614 Torrence
 2615 Saito
 2616 Lesya
 2617 Jiangxi
 2618 Coonabarabran
-2619 Skalnaté Pleso
+2619 Skalnate Pleso
 2620 Santana
 2621 Goto
 2622 Bolzano
@@ -2637,9 +2637,9 @@
 2637 Bobrovnikoff
 2638 Gadolin
 2639 Gox
-2640 Hällström
+2640 Hallstrom
 2641 Lipschutz
-2642 Vésale
+2642 Vesale
 2643 Bernhard
 2644 Victor Jara
 2645 Daphne Plane
@@ -2658,7 +2658,7 @@
 2658 Gingerich
 2659 Millis
 2660 Wasserman
-2661 Bydžovský
+2661 Bydzovsky
 2662 Kandinsky
 2663 Miltiades
 2664 Everhart
@@ -2669,7 +2669,7 @@
 2669 Shostakovich
 2670 Chuvashia
 2671 Abkhazia
-2672 Písek
+2672 Pisek
 2673 Lossignol
 2674 Pandarus
 2675 Tolkien
@@ -2703,7 +2703,7 @@
 2703 Rodari
 2704 Julian Loewe
 2705 Wu
-2706 Borovský
+2706 Borovsky
 2707 Ueferji
 2708 Burns
 2709 Sagan
@@ -2731,7 +2731,7 @@
 2731 Cucula
 2732 Witt
 2733 Hamina
-2734 Hašek
+2734 Hasek
 2735 Ellen
 2736 Ops
 2737 Kotka
@@ -2744,7 +2744,7 @@
 2744 Birgitta
 2745 San Martin
 2746 Hissao
-2747 Český Krumlov
+2747 Cesky Krumlov
 2748 Patrick Gene
 2749 Walterhorn
 2750 Loviisa
@@ -2801,16 +2801,16 @@
 2801 Huygens
 2802 Weisell
 2803 Vilho
-2804 Yrjö
+2804 Yrjo
 2805 Kalle
 2806 Graz
 2807 Karl Marx
 2808 Belgrano
 2809 Vernadskij
 2810 Lev Tolstoj
-2811 Střemchoví
+2811 Stremchovi
 2812 Scaltriti
-2813 Zappalà
+2813 Zappala
 2814 Vieira
 2815 Soma
 2816 Pien
@@ -2839,11 +2839,11 @@
 2839 Annette
 2840 Kallavesi
 2841 Puijo
-2842 Unsöld
+2842 Unsold
 2843 Yeti
 2844 Hess
 2845 Franklinken
-2846 Ylppö
+2846 Ylppo
 2847 Parvati
 2848 ASP
 2849 Shklovskij
@@ -2853,7 +2853,7 @@
 2853 Harvill
 2854 Rawson
 2855 Bastian
-2856 Röser
+2856 Roser
 2857 NOT
 2858 Carlosporter
 2859 Paganini
@@ -2864,7 +2864,7 @@
 2864 Soderblom
 2865 Laurel
 2866 Hardy
-2867 Šteins
+2867 Steins
 2868 Upupa
 2869 Nepryadva
 2870 Haupt
@@ -2894,10 +2894,10 @@
 2894 Kakhovka
 2895 Memnon
 2896 Preiss
-2897 Ole Römer
+2897 Ole Romer
 2898 Neuvo
 2899 Runrun Shaw
-2900 Luboš Perek
+2900 Lubos Perek
 2901 Bagehot
 2902 Westerlund
 2903 Zhuhai
@@ -2911,7 +2911,7 @@
 2911 Miahelena
 2912 Lapalma
 2913 Horta
-2914 Glärnisch
+2914 Glarnisch
 2915 Moskvina
 2916 Voronveliya
 2917 Sawyer Hogg
@@ -2933,7 +2933,7 @@
 2933 Amber
 2934 Aristophanes
 2935 Naerum
-2936 Nechvíle
+2936 Nechvile
 2937 Gibbs
 2938 Hopi
 2939 Coconino
@@ -3000,7 +3000,7 @@
 3000 Leonardo
 3001 Michelangelo
 3002 Delasalle
-3003 Konček
+3003 Koncek
 3004 Knud
 3005 Pervictoralex
 3006 Livadia
@@ -3014,7 +3014,7 @@
 3014 Huangsushu
 3015 Candy
 3016 Meuse
-3017 Petrovič
+3017 Petrovic
 3018 Godiva
 3019 Kulin
 3020 Naudts
@@ -3043,7 +3043,7 @@
 3043 San Diego
 3044 Saltykov
 3045 Alois
-3046 Molière
+3046 Moliere
 3047 Goethe
 3048 Guangzhou
 3049 Kuzbass
@@ -3054,7 +3054,7 @@
 3054 Strugatskia
 3055 Annapavlova
 3056 INAG
-3057 Mälaren
+3057 Malaren
 3058 Delmary
 3059 Pryor
 3060 Delcano
@@ -3078,7 +3078,7 @@
 3078 Horrocks
 3079 Schiller
 3080 Moisseiev
-3081 Martinůboh
+3081 Martinuboh
 3082 Dzhalil
 3083 OAFA
 3084 Kondratyuk
@@ -3093,7 +3093,7 @@
 3093 Bergholz
 3094 Chukokkala
 3095 Omarkhayyam
-3096 Bezruč
+3096 Bezruc
 3097 Tacitus
 3098 van Sprang
 3099 Hergenrother
@@ -3101,7 +3101,7 @@
 3101 Goldberger
 3102 Krok
 3103 Eger
-3104 Dürer
+3104 Durer
 3105 Stumpff
 3106 Morabito
 3107 Weaver
@@ -3165,7 +3165,7 @@
 3165 Mikawa
 3166 Klondike
 3167 Babcock
-3168 Lomnický Štít
+3168 Lomnicky Stit
 3169 Ostro
 3170 Dzhanibekov
 3171 Wangshouguan
@@ -3230,7 +3230,7 @@
 3230 Vampilov
 3231 Mila
 3232 Brest
-3233 Krišbarons
+3233 Krisbarons
 3234 Hergiani
 3235 Melchior
 3236 Strand
@@ -3254,7 +3254,7 @@
 3254 Bus
 3255 Tholen
 3256 Daguerre
-3257 Hanzlík
+3257 Hanzlik
 3258 Somnium
 3259 Brownlee
 3260 Vizbor
@@ -3275,9 +3275,9 @@
 3275 Oberndorfer
 3276 Porta Coeli
 3277 Aaronson
-3278 Běhounek
+3278 Behounek
 3279 Solon
-3280 Grétry
+3280 Gretry
 3281 Maupertuis
 3282 Spencer Jones
 3283 Skorina
@@ -3334,7 +3334,7 @@
 3334 Somov
 3335 Quanzhou
 3336 Grygar
-3337 Miloš
+3337 Milos
 3338 Richter
 3339 Treshnikov
 3340 Yinhai
@@ -3363,7 +3363,7 @@
 3363 Bowen
 3364 Zdenka
 3365 Rechlice
-3366 Gödel
+3366 Godel
 3367 Alex
 3368 Duncombe
 3369 Freuchen
@@ -3390,12 +3390,12 @@
 3390 Demanet
 3391 Sinon
 3392 Setouchi
-3393 Štúr
+3393 Stur
 3394 Banno
 3395 Jitka
 3396 Muazzez
 3397 Leyla
-3398 Stättmayer
+3398 Stattmayer
 3399 Kobzon
 3400 Aotearoa
 3401 Vanphilos
@@ -3421,10 +3421,10 @@
 3421 Yangchenning
 3422 Reid
 3423 Slouka
-3424 Nušl
+3424 Nusl
 3425 Hurukawa
 3426 Seki
-3427 Szentmártoni
+3427 Szentmartoni
 3428 Roberts
 3429 Chuvaev
 3430 Bradfield
@@ -3487,7 +3487,7 @@
 3487 Edgeworth
 3488 Brahic
 3489 Lottie
-3490 Šolc
+3490 Solc
 3491 Fridolin
 3492 Petra-Pepi
 3493 Stepanov
@@ -3530,7 +3530,7 @@
 3530	Hammel
 3531	Fuyuno
 3532	Tracie
-3533	Krýlov
+3533	Krylov
 3534	Sachs
 3535	Ditte
 3536	Schleicher
@@ -3560,7 +3560,7 @@
 3560	Chenqian
 3561	Devine
 3562	Ignatius
-3563	Krüger
+3563	Kruger
 3564	Talthybius
 3565	Ojima
 3566	Levitan
@@ -3568,7 +3568,7 @@
 3568	Egorov
 3569	Veblen
 3570	Wuyeesun
-3571	Milanštefánik
+3571	Milanstefanik
 3572	Leogoldberg
 3573	Holmberg
 3574	Rudaux
@@ -3600,7 +3600,7 @@
 3600	Georgahm
 3601	Velikhov
 3602	Lazzaro
-3603	Gajdušek
+3603	Gajdusek
 3604	Berkhuijsen
 3605	Davy
 3606	Pohjola
@@ -3625,7 +3625,7 @@
 3625	Fracastoro
 3626	Ohsaki
 3627	Sayers
-3628	Božněmcová
+3628	Boznemcova
 3629	Lebedinskij
 3630	Abington
 3631	Sigyn
@@ -3633,7 +3633,7 @@
 3633	Mira
 3634	Iwan
 3635	Kreutz
-3636	Pajdušáková
+3636	Pajdusakova
 3637	O'Meara
 3638	Davis
 3639	Weidenschilling
@@ -3641,7 +3641,7 @@
 3641	Demyan
 3642	Daryavis
 3643	Tienchang
-3644	Košice
+3644	Kosice
 3645	Fabini
 3646	Aduatiques
 3647	Dermott
@@ -3652,9 +3652,9 @@
 3652	Kodaira
 3653	Klimishin
 3654	AAS
-3655	Eprée
+3655	Epree
 3656	Hemingway
-3657	Sechí
+3657	Sechi
 3658	Feldman
 3659	Belish
 3660	Lazarev
@@ -3671,7 +3671,7 @@
 3671	Dionysus
 3672	Stevedberg
 3673	Levy
-3674	Erbisbühl
+3674	Erbisbuhl
 3675	Kemstach
 3676	Hahn
 3677	Magnusson
@@ -3684,7 +3684,7 @@
 3684	Berry
 3685	Derdenye
 3686	Antoku
-3687	Kušin
+3687	Kusin
 3688	Navajo
 3689	Yeates
 3690	Deklajaz
@@ -3698,13 +3698,13 @@
 3698	Manning
 3699	Weihaupt
 3700	Geowilliams
-3701	Purkyňe
+3701	Purkyne
 3702	Harvard
 3703	Volkonskaya
 3704	Gaoshiqi
 3705	Hotellasilla
 3706	Pforzheim
-3707	Schröter
+3707	Schroter
 3708	Kenstarr
 3709	Machon
 3710	Bogoslovskij
@@ -3712,7 +3712,7 @@
 3712	Kraft
 3713	Pieters
 3714	Kenrussell
-3715	Štohl
+3715	Stohl
 3716	Petzval
 3717	Thronton
 3718	Kennethsmth
@@ -3726,13 +3726,13 @@
 3726	Johnadams
 3727	Maxhell
 3728	IRAS
-3729	Empiré
+3729	Empire
 3730	Hurban
 3731	Hancock
-3732	Vávra
+3732	Vavra
 3733	Yoshitomo
 3734	Waland
-3735	Třeboň
+3735	Trebon
 3736	Rokoske
 3737	Dudo
 3738	Hirst
@@ -3743,7 +3743,7 @@
 3743	Pauljanoschek
 3744	Horn-d'Arturo
 3745	Teta
-3746	Fysén
+3746	Fysen
 3747	Belinskij
 3748	Tatum
 3749	Balam
@@ -3752,9 +3752,9 @@
 3752	Camillo
 3753	Cruithne
 3754	Zarubajev
-3755	Émigré
+3755	Emigre
 3756	Ruscannon
-3757	Hämmerle
+3757	Hammerle
 3758	Karttunen
 3759	Kinoshita
 3760	Poutanen
@@ -3793,7 +3793,7 @@
 3793	Leonteus
 3794	Sthenelos
 3795	Nigel
-3796	Lénard
+3796	Lenard
 3797	Ching-Sung Yu
 3798	de Jager
 3799	Novgorod
@@ -3812,7 +3812,7 @@
 3812	Lidaksum
 3813	Fortov
 3814	Hoshi-no-mura
-3815	König
+3815	Konig
 3816	Chugainov
 3817	Lencarter
 3818	Gorlitsa
@@ -3823,8 +3823,8 @@
 3823	Yorii
 3824	Brendalee
 3825	Hupingxiao
-3826	Königer
-3827	Zdeněkhlavka
+3826	Koniger
+3827	Zdenekhlavka
 3828	Hoshino
 3829	Gunma
 3830	Trelleborg
@@ -3847,7 +3847,7 @@
 3847	Krinov
 3848	Analucia
 3849	Incidentia
-3850	Pelléas
+3850	Pelleas
 3851	Alhambra
 3852	Glennford
 3853	Castelfranco
@@ -3856,18 +3856,18 @@
 3856	Lutsk
 3857	Svyatogor
 3858	Dorchester
-3859	Börngen
+3859	Borngen
 3860	Plovdiv
 3861	Lorenz
 3862	Agekian
 3863	Gilyarovskij
-3864	Søren
+3864	Sren
 3865	Lindbloom
 3866	Langley
 3867	Shiretoko
 3868	Mendoza
 3869	Evgeniya
-3870	Mayré
+3870	Mayre
 3871	Reiz
 3872	Akirafujii
 3873	Roddy
@@ -3887,9 +3887,9 @@
 3887	Zimmerman
 3888	Hoyt
 3889	Menshikov
-3890	Dezső
+3890	Dezso
 3891	Werner
-3892	Dezső
+3892	Dezso
 3893	De Reys
 3894	Williamcooke
 3895	Erlingmo
@@ -3897,7 +3897,7 @@
 3897	Louhi
 3898	Curlewis
 3899	Wingen
-3900	Knežević
+3900	Knezevic
 3901	Nenner
 3902	Huni
 3903	Kliment Ohridski
@@ -3928,7 +3928,7 @@
 3928	Randa
 3929	Cantrill
 3930	Vasilev
-3931	Vlachyně
+3931	Vlachyne
 3932	Edshay
 3933	Portugal
 3934	Tovka
@@ -3963,7 +3963,7 @@
 3963	Paradzhanov
 3964	Danilevskij
 3965	Konopleva
-3966	Chačapuri
+3966	Chacapuri
 3967	Shekhtelia
 3968	Koptelov
 3969	Rossi
@@ -3975,13 +3975,13 @@
 3975	Verdi
 3976	Lise
 3977	Filla
-3978	Klepešta
+3978	Klepesta
 3979	Brorsen
 3980	Hviezdoslav
 3981	Stodola
 3982	Kastel'
 3983	Sakiko
-3984	Chōsokabe
+3984	Chosokabe
 3985	Raybatson
 3986	Wirt
 3987	Wujek
@@ -4001,7 +4001,7 @@
 4001	Ptolemaeus
 4002	Shinagawa
 4003	Schumann
-4004	Évola
+4004	Evola
 4005	Durrell
 4006	Sandler
 4007	Euryalos
@@ -4020,7 +4020,7 @@
 4020	Dominique
 4021	Dancey
 4022	Nonna
-4023	Jarník
+4023	Jarnik
 4024	Ronan
 4025	Dello
 4026	Degas
@@ -4028,9 +4028,9 @@
 4028	Panchenko
 4029	Bridges
 4030	Archedona
-4031	Müller
+4031	Muller
 4032	Chaoui
-4033	Kōsei
+4033	Kosei
 4034	Vishnu
 4035	Thestor
 4036	Whitehouse
@@ -4041,7 +4041,7 @@
 4041	Miyamotoyohko
 4042	Owharu
 4043	Pericles
-4044	Erikhøg
+4044	Erikhg
 4045	Tengmo
 4046	Pilcher
 4047	Temple
@@ -4053,7 +4053,7 @@
 4053	Crossoz
 4054	Turnov
 4055	Magellan
-4056	Tengströmia
+4056	Tengstromia
 4057	Serein
 4058	Cecilgreen
 4059	Balder
@@ -4073,7 +4073,7 @@
 4073	Ruianzhongxue
 4074	Sharkov
 4075	Sviridov
-4076	Dörffel
+4076	Dorffel
 4077	Asuka
 4078	Polakis
 4079	Britten
@@ -4084,17 +4084,17 @@
 4084	Hollis
 4085	Weir
 4086	Podalirius
-4087	Pártka
+4087	Partka
 4088	Baggesen
 4089	Trubitsyn
-4090	Říšehvězd
+4090	Risehvezd
 4091	Lowe
 4092	Tyr
 4093	Bennett
 4094	Aoshima
 4095	Ishizuchisan
 4096	Kushiro
-4097	Célesta
+4097	Celesta
 4098	Thraen
 4099	Grossman
 4100	Sumiko
@@ -4131,7 +4131,7 @@
 4131	Stasik
 4132	Bartok
 4133	Heureka
-4134	Schütz
+4134	Schutz
 4135	Svetlanov
 4136	Artmane
 4137	Krasko
@@ -4178,7 +4178,7 @@
 4178	Mufasa
 4179	Toutatis
 4180	Anaxagoras
-4181	Křemže
+4181	Kremze
 4182	Mount Locke
 4183	Cuno
 4184	Berdyayev
@@ -4207,7 +4207,7 @@
 4207	Chernova
 4208	Kiselev
 4209	Briggs
-4210	Iselín
+4210	Iselin
 4211	Rosniblett
 4212	Sansyu-Asuke
 4213	Njord
@@ -4225,7 +4225,7 @@
 4225	Tunjing
 4226	Damiaan
 4227	Kaiserman
-4228	Ñancul
+4228	Nancul
 4229	Plevitskaya
 4230	van den Bergh
 4231	Fireman
@@ -4246,22 +4246,22 @@
 4246	Telemann
 4247	Grahamsmith
 4248	Ranald
-4249	Křiváň
+4249	Krivan
 4250	Perun
 4251	Kavasch
 4252	Godwin
 4253	Markarthur
-4254	Kamél
+4254	Kamel
 4255	Kokusai
 4256	Kagamigawa
 4257	Ubasti
 4258	Ryazanov
-4259	Kōka
+4259	Koka
 4260	Kyan
 4261	Gekko
 4262	DeVorkin
-4263	Ångström
-4264	Karlštejn
+4263	Angstrom
+4264	Karlstejn
 4265	Kani
 4266	Vaky
 4267	Basner
@@ -4274,17 +4274,17 @@
 4274	Karaman
 4275	Koptelov
 4276	Clifford
-4277	Kasaï
+4277	Kasai
 4278	Harvey
 4279	Perestrello
 4280	Simonenko
 4281	Pounds
 4282	Endate
-4283	Stöffler
+4283	Stoffler
 4284	Kaho
 4285	Hulkko
 4286	Rubtsov
-4287	Třískala
+4287	Triskala
 4288	Tokyotech
 4289	Biwako
 4290	Trekkies
@@ -4295,7 +4295,7 @@
 4295	Wisse
 4296	van Woerkom
 4297	Eichhorn
-4298	Jorgenúnez
+4298	Jorgenunez
 4299	Wiechert
 4300	Marg Edmondson
 4301	Orwell
@@ -4306,8 +4306,8 @@
 4306	Dunaevskij
 4307	Cherepashchuk
 4308	Magarach
-4309	Rodó
-4310	Strömholm
+4309	Rodo
+4310	Stromholm
 4311	Zguridi
 4312	Knacke
 4313	Bouffon
@@ -4316,7 +4316,7 @@
 4316	Babinkova
 4317	Garibaldi
 4318	Batalov
-4319	Émola
+4319	Emola
 4320	Jarosewich
 4321	Ekaterinburg
 4322	Billjackson
@@ -4326,7 +4326,7 @@
 4326	McNally
 4327	Reidy
 4328	Valina
-4329	Miró
+4329	Miro
 4330	Vivaldi
 4331	Hubbard
 4332	Milton
@@ -4346,7 +4346,7 @@
 4346	Whitney
 4347	Reger
 4348	Poulydamas
-4349	Tibúrcio
+4349	Tiburcio
 4350	Shigetmori
 4351	Nobuhisa
 4352	Kyoto
@@ -4360,7 +4360,7 @@
 4360	Xuyi
 4361	Nezhdanova
 4362	Carlwirtz
-4363	Kopálová
+4363	Kopalova
 4364	Shkodrov
 4365	Ivanova
 4366	Venikagan
@@ -4383,7 +4383,7 @@
 4383	Suruga
 4384	Tsuboi
 4385	Fukuoka
-4386	Lüst
+4386	Lust
 4387	Tanaka
 4388	Kiyomori
 4389	Duda
@@ -4394,7 +4394,7 @@
 4394	Fritzheide
 4395	Danbrice
 4396	Gressmann
-4397	Jalšovszky
+4397	Jalsovszky
 4398	Chiara
 4399	Ashizuri
 4400	Bagryana
@@ -4405,7 +4405,7 @@
 4405	Otava
 4406	Mahler
 4407	Taihaku
-4408	Zlatá Koruna
+4408	Zlata Koruna
 4409	Kissling
 4410	Kamuimintara
 4411	Kochibunkyo
@@ -4424,7 +4424,7 @@
 4424	Arkhipova
 4425	Bilk
 4426	Kuthumi
-4427	Schrödinger
+4427	Schrodinger
 4428	Ueland
 4429	Chinmoy
 4430	Govorukhin
@@ -4437,12 +4437,12 @@
 4437	Yaroshenko
 4438	Sykes
 4439	Nothard
-4440	Tchantchès
+4440	Tchantches
 4441	Toshie
 4442	Hanamaki
 4443	Kuwayama
-4444	Éngels
-4445	Jiménez
+4444	Engels
+4445	Jimenez
 4446	Carolyn
 4447	Kirov
 4448	Phobos
@@ -4471,7 +4471,7 @@
 4471	Graculus
 4472	Navashin
 4473	Sears
-4474	Procházka
+4474	Prochazka
 4475	Voitkevich
 4476	Bernstein
 4477	Kelley
@@ -4479,8 +4479,8 @@
 4479	Charlieparker
 4480	Boxwood
 4481	Herbelin
-4482	Frèrebasile
-4483	Petöfi
+4482	Frerebasile
+4483	Petofi
 4484	Sif
 4485	Radonezhskij
 4486	Mithra
@@ -4520,7 +4520,7 @@
 4520	Dovzhenko
 4521	Akimov
 4522	Schlicht
-4523	Nesvorný
+4523	Nesvorny
 4524	Barklajdetolli
 4525	Kadlubowska
 4526	Konko
@@ -4564,17 +4564,17 @@
 4564	Schiaparelli
 4565	Grossman
 4566	Chaonis
-4567	Bečvář
+4567	Becvar
 4568	Menkaure
 4569	Nagata
 4570	Runcorn
 4571	Grumiaux
 4572	Bragado
-4573	Piešťany
+4573	Piestany
 4574	Yoshinaka
 4575	Broman
 4576	Yanotoyohkanei
-4577	Aikizōno
+4577	Aikizono
 4578	Kurashiki
 4579	Puccini
 4580	Child
@@ -4587,7 +4587,7 @@
 4587	Rees
 4588	Wislicenus
 4589	McDowell
-4590	Kołakowski
+4590	Koakowski
 4591	Bryantsev
 4592	Starkov
 4593	Reipurth
@@ -4597,7 +4597,7 @@
 4597	Consolmagno
 4598	Coradini
 4599	Fidschi
-4600	Hühn
+4600	Huhn
 4601	Ludkewycz
 4602	Heudier
 4603	Bertaud
@@ -4610,7 +4610,7 @@
 4610	Krazov
 4611	Vulkaneifel
 4612	Greenstein
-4613	Sâdeau
+4613	Sadeau
 4614	Masamura
 4615	Zinner
 4616	Batalov
@@ -4666,7 +4666,7 @@
 4666	Hoenes
 4667	Roblero
 4668	Rayna
-4669	Høder
+4669	Hder
 4670	Yoshinobu
 4671	Norfolk
 4672	Saler
@@ -4713,7 +4713,7 @@
 4713	Talmadge
 4714	Toyohiro
 4715	Sutoku
-4716	Éric
+4716	Eric
 4717	Kaneko
 4718	Arnamagnusson
 4719	Burnaby
@@ -4756,7 +4756,7 @@
 4756	Asaramas
 4757	Liselotte
 4758	Hermosilla
-4759	Åretta
+4759	Aretta
 4760	Jia-xiang
 4761	Udebro
 4762	Dobrynya
@@ -4778,7 +4778,7 @@
 4778	Fuss
 4779	Zaborowski
 4780	Polina
-4781	Sládkovič
+4781	Sladkovic
 4782	Hanse
 4783	Wasson
 4784	Samcarin
@@ -4787,7 +4787,7 @@
 4787	Zhongshoushan
 4788	Pinsky
 4789	Spratt
-4790	Petrpokorný
+4790	Petrpokorny
 4791	Iphidamas
 4792	Lycaon
 4793	Slessor
@@ -4807,7 +4807,7 @@
 4807	Noboru
 4808	Ballaero
 4809	Robertball
-4810	Vepřová
+4810	Veprova
 4811	Semashko
 4812	Hakuhou
 4813	Terebizh
@@ -4837,10 +4837,10 @@
 4837	Nakanoshima
 4838	Billmclaughlin
 4839	Daisetsuzan
-4840	Cánton
+4840	Canton
 4841	Manjiro
 4842	Atsushi
-4843	Mégantic
+4843	Megantic
 4844	Matsuyama
 4845	Tsubetsu
 4846	Tuthmosis
@@ -4856,9 +4856,9 @@
 4856	Seaborg
 4857	Altgamia
 4858	Egeria
-4859	Řehoř
+4859	Rehor
 4860	Gubbio
-4861	Lemaître
+4861	Lemaitre
 4862	Loke
 4863	Yasutani
 4864	Cagnoli
@@ -4881,7 +4881,7 @@
 4881	Keldysh
 4882	Divari
 4883	Preah Pithu
-4884	Dénes
+4884	Denes
 4885	Grange
 4886	Takeuchi
 4887	Takihiroi
@@ -4898,7 +4898,7 @@
 4898	Nishiizumi
 4899	Candace
 4900	Maymelou
-4901	Sâdeau
+4901	Sadeau
 4902	Tesauro
 4903	Ichikawa
 4904	Makio
@@ -4931,7 +4931,7 @@
 4931	Tomsk
 4932	Texstapa
 4933	Wakatake
-4934	Rhôneranger
+4934	Rhoneranger
 4935	Maslachkova
 4936	Butakov
 4937	Celsia
@@ -4950,7 +4950,7 @@
 4950	House
 4951	Enzomora
 4952	Kibeshimahou
-4953	Tōsajinn
+4953	Tosajinn
 4954	Eric
 4955	Newcomb
 4956	Goldschmidt
@@ -4963,7 +4963,7 @@
 4963	Kanroku
 4964	Kourovka
 4965	Tottori
-4966	Éric
+4966	Eric
 4967	Glia
 4968	Suzamur
 4969	Reid
@@ -5016,7 +5016,7 @@
 5016	Migirenko
 5017	Tenmu
 5018	Tenchi
-5019	Émilegallo
+5019	Emilegallo
 5020	Asimov
 5021	Krylania
 5022	Roccapalumba
@@ -5028,7 +5028,7 @@
 5028	Kahn
 5029	Ireland
 5030	Firth
-5031	Švejcar
+5031	Svejcar
 5032	Hitchcock
 5033	Mistral
 5034	Epekto
@@ -5065,7 +5065,7 @@
 5065	Kiral
 5066	Tjugum
 5067	Occidental
-5068	Kríček
+5068	Kricek
 5069	Tokeidai
 5070	Arai
 5071	Vasilev
@@ -5086,7 +5086,7 @@
 5086	Dizy
 5087	Emel'yanov
 5088	Tancredi
-5089	Nádherná
+5089	Nadherna
 5090	Wyeth
 5091	Iainbanks
 5092	Manerbe
@@ -5095,17 +5095,17 @@
 5095	Escalante
 5096	Luzin
 5097	Axford
-5098	Íke
+5098	Ike
 5099	Svaton
 5100	Pasachoff
 5101 Akhmerov
 5102 Benfranklin
-5103 Diviš
+5103 Divis
 5104 Skripnichenko
 5105 Westerhout
 5106 Mortensen
 5107 Laurenbacall
-5108 Lübeck
+5108 Lubeck
 5109 Robertmiller
 5110 Belgirate
 5111 Jacliff
@@ -5113,7 +5113,7 @@
 5113 Kohno
 5114 Yezo
 5115 Frimout
-5116 Korsør
+5116 Korsr
 5117 Mokotoyama
 5118 Elnapoul
 5119 Imbrius
@@ -5181,7 +5181,7 @@
 5181 SURF
 5182 Bray
 5183 Robyn
-5184 Cavaillé-Coll
+5184 Cavaille-Coll
 5185 Alerossi
 5186 Donalu
 5187 Domon
@@ -5191,7 +5191,7 @@
 5191 Paddack
 5192 Yabuki
 5193 Tanakawataru
-5194 Böttger
+5194 Bottger
 5195 Kaendler
 5196 Bustelli
 5197 Rottmann
@@ -5202,12 +5202,12 @@
 5202 Charleseliot
 5203 Pavarotti
 5204 Herakleitos
-5205 Servián
+5205 Servian
 5206 Kodomonomori
 5207 Hearnshaw
 5208 Royer
 5209 Oloosson
-5210 Saint-Saëns
+5210 Saint-Saens
 5211 Stevenson
 5212 Celiacruz
 5213 Takahashi
@@ -5225,7 +5225,7 @@
 5225 Loral
 5226 Pollack
 5227 Bocacara
-5228 Máca
+5228 Maca
 5229 Irurita
 5230 Asahina
 5231 Verne
@@ -5257,7 +5257,7 @@
 5257 Laogonus
 5258 Rhoeo
 5259 Epeigeus
-5260 Philvéron
+5260 Philveron
 5261 Eureka
 5262 Brucegoldberg
 5263 Arrius
@@ -5265,7 +5265,7 @@
 5265 Schadow
 5266 Rauch
 5267 Zegmott
-5268 Černohorský
+5268 Cernohorsky
 5269 Paustovskij
 5270 Kakabadze
 5271 Kaylamaya
@@ -5304,7 +5304,7 @@
 5304 Bazhenov
 5305 Bernievolz
 5306 Fangfen
-5307 Paul-André
+5307 Paul-Andre
 5308 Hutchison
 5309 MacPherson
 5310 Papike
@@ -5312,7 +5312,7 @@
 5312 Schott
 5313 Nunes
 5314 Wilkickia
-5315 Balʹmont
+5315 Balmont
 5316 Filatov
 5317 Verolacqua
 5318 Dientzenhofer
@@ -5350,7 +5350,7 @@
 5350 Epetersen
 5351 Diderot
 5352 Fujita
-5353 Baillié
+5353 Baillie
 5354 Hisayo
 5355 Akihiro
 5356 Neagari
@@ -5361,7 +5361,7 @@
 5361 Goncharov
 5362 Johnyoung
 5363 Kupka
-5364 Christophschäfer
+5364 Christophschafer
 5365 Fievez
 5366 Rhianjones
 5367 Sollenberger
@@ -5405,7 +5405,7 @@
 5405 Neverland
 5406 Jonjoseph
 5407 
-5408 Thé
+5408 The
 5409 Saale
 5410 Spivakov
 5411 Liia
@@ -5420,9 +5420,9 @@
 5420 Jancis
 5421 Ulanova
 5422 Hodgkin
-5423 Horahořejš
+5423 Horahorejs
 5424 Covington
-5425 Vojtěch
+5425 Vojtech
 5426 Sharp
 5427 Jensmartin
 5428
@@ -5457,7 +5457,7 @@
 5457 Queen's
 5458 Aizman
 5459 Saraburger
-5460 Tsénaatʼaʼí
+5460 Tsenaatai
 5461 Autumn
 5462
 5463 Danwelcher
@@ -5500,7 +5500,7 @@
 5509 Rennsteig
 5511 Cloanthus
 5513 Yukio
-5514 Karelraška
+5514 Karelraska
 5515 Naderi
 5516 Jawilliamson
 5517 Johnerogers
@@ -5533,7 +5533,7 @@
 5548 Thosharriot
 5549 Bobstefanik
 5551 Glikson
-5552 Studnička
+5552 Studnicka
 5553 Chodas
 5554 Keesey
 5555 Wimberly
@@ -5561,7 +5561,7 @@
 5579 Uhlherr
 5580 Sharidake
 5581 Mitsuko
-5583 Braunerová
+5583 Braunerova
 5584 Izenberg
 5585 Parks
 5588 Jennabelle
@@ -5606,7 +5606,7 @@
 5636 Jacobson
 5637 Gyas
 5638 Deikoon
-5639 Ćuk
+5639 Cuk
 5640 Yoshino
 5641 McCleese
 5642 Bobbywilliams
@@ -5652,10 +5652,10 @@
 5686 Chiyonoura
 5687 Yamamotoshinobu
 5688 Kleewyck
-5689 Rhön
+5689 Rhon
 5691 Fredwatson
 5692 Shirao
-5694 Berényi
+5694 Berenyi
 5695 Remillieux
 5696 Ibsen
 5697 Arrhenius
@@ -5679,11 +5679,11 @@
 5716 Pickard
 5717 Damir
 5718 Roykerr
-5719 Křižík
+5719 Krizik
 5720 Halweaver
 5722 Johnscherrer
 5723 Hudson
-5725 Nördlingen
+5725 Nordlingen
 5726 Rubin
 5727 Pierobenvenuti
 5728 Umbertobenvenuti
@@ -5706,12 +5706,12 @@
 5751 Zao
 5753 Yoshidatadahiko
 5756 Wassenbergh
-5757 Tichá
+5757 Ticha
 5758 Brunini
 5759 Zoshchenko
 5760 Mittlefehldt
 5761 Andreivanov
-5762 Wänke
+5762 Wanke
 5763 Williamtobin
 5765 Izett
 5766 Carmelofalco
@@ -5748,12 +5748,12 @@
 5800 Pollock
 5801 Vasarely
 5802 Casteldelpiano
-5803 Ötzi
+5803 Otzi
 5804 Bambinidipraga
 5805 Glasgow
 5806 Archieroy
 5807 Mshatka
-5808 Babelʹ
+5808 Babel
 5809 Kulibin
 5811 Keck
 5812 Jayewinkler
@@ -5783,7 +5783,7 @@
 5840 Raybrown
 5841 Stone
 5842 Cancelli
-5844 Chlupáč
+5844 Chlupac
 5845 Davidbrewster
 5846 Hessen
 5847 Wakiya
@@ -5826,19 +5826,19 @@
 5891 Gehrig
 5892 Milesdavis
 5893 Coltrane
-5894 Telč
-5895 Žbirka
+5894 Telc
+5895 Zbirka
 5896 Narrenschiff
-5897 Novotná
+5897 Novotna
 5899 Jedicke
 5900 Jensen
 5902 Talima
-5904 Württemberg
+5904 Wurttemberg
 5905 Johnson
 5907 Rhigmus
 5908 Aichi
 5909 Nagoya
-5910 Zátopek
+5910 Zatopek
 5912 Oyatoshiyuki
 5914 Kathywhaler
 5915 Yoshihiro
@@ -5848,7 +5848,7 @@
 5922 Shouichi
 5923 Liedeke
 5924 Teruo
-5926 Schönfeld
+5926 Schonfeld
 5927 Krogh
 5928 Pindarus
 5929 Manzano
@@ -5859,7 +5859,7 @@
 5934 Mats
 5935 Ostankino
 5936 Khadzhinov
-5937 Lodén
+5937 Loden
 5938 Keller
 5939 Toshimayeda
 5940 Feliksobolev
@@ -5868,7 +5868,7 @@
 5943 Lovi
 5944 Utesov
 5945 Roachapproach
-5946 Hrozný
+5946 Hrozny
 5947 Bonnie
 5948 Longo
 5950 Leukippos
@@ -5913,7 +5913,7 @@
 5995 Saint-Aignan
 5996 Julioangel
 5997 Dirac
-5998 Sitenský
+5998 Sitensky
 5999 Plescia
 6000 United Nations
 6001 Thales
@@ -5941,7 +5941,7 @@
 6030 Zolensky
 6031 Ryokan
 6032 Nobel
-6035 Citlaltépetl
+6035 Citlaltepetl
 6036 Weinberg
 6039 Parmenides
 6041 Juterkilian
@@ -5961,7 +5961,7 @@
 6060 Doudleby
 6062 Vespa
 6063 Jason
-6064 Holašovice
+6064 Holasovice
 6065 Chesneau
 6066 Hendricks
 6068 Brandenburg
@@ -5969,7 +5969,7 @@
 6070 Rheinland
 6071 Sakitama
 6072 Hooghoudt
-6073 Tähtiseuraursa
+6073 Tahtiseuraursa
 6074 Bechtereva
 6075 Zajtsev
 6076 Plavec
@@ -5982,7 +5982,7 @@
 6083 Janeirabloom
 6084 Bascom
 6085 Fraethi
-6086 Vrchlický
+6086 Vrchlicky
 6087 Lupo
 6088 Hoshigakubo
 6089 Izumi
@@ -6031,7 +6031,7 @@
 6135 Billowen
 6136 Gryphon
 6137 Johnfletcher
-6138 Miguelhernández
+6138 Miguelhernandez
 6139 Naomi
 6140 Kubokawa
 6141 Durda
@@ -6041,8 +6041,8 @@
 6145 Riemenschneider
 6146 Adamkrafft
 6147 Straub
-6148 Ignazgünther
-6149 Pelčák
+6148 Ignazgunther
+6149 Pelcak
 6150 Neukum
 6151 Viget
 6152 Empedocles
@@ -6052,12 +6052,12 @@
 6156 Dall
 6157 Prey
 6158 Shosanbetsu
-6159 Andréseloy
+6159 Andreseloy
 6160 Minakata
 6161 Vojno-Yasenetsky
 6162 Prokhorov
 6163 Reimers
-6164 Gerhardmüller
+6164 Gerhardmuller
 6165 Frolova
 6166 Univsima
 6167 Narmanskij
@@ -6070,7 +6070,7 @@
 6174 Polybius
 6175 Cori
 6176 Horrigan
-6177 Fécamp
+6177 Fecamp
 6179 Brett
 6180 Bystritskaya
 6181 Bobweber
@@ -6081,7 +6081,7 @@
 6186 Zenon
 6187 Kagura
 6188 Robertpepin
-6189 Völk
+6189 Volk
 6190 Rennes
 6191 Eades
 6192 Javiergorosabel
@@ -6151,7 +6151,7 @@
 6260 Kelsey
 6261 Chione
 6262 Javid
-6263 Druckmüller
+6263 Druckmuller
 6266 Letzel
 6267 Rozhen
 6268 Versailles
@@ -6189,12 +6189,12 @@
 6308 Ebisuzaki
 6309 Elsschot
 6310 Jankonke
-6311 Porubčan
+6311 Porubcan
 6312 Robheinlein
 6313 Tsurutani
 6314 Reigber
 6315 Barabash
-6316 Méndez
+6316 Mendez
 6317 Dreyfus
 6318 Cronkite
 6319 Beregovoj
@@ -6218,7 +6218,7 @@
 6345 Hideo
 6346 Syukumeguri
 6349 Acapulco
-6350 Schlüter
+6350 Schluter
 6351 Neumann
 6352 Schlaun
 6353 Semper
@@ -6279,7 +6279,7 @@
 6422 Akagi
 6423 Harunasan
 6424 Ando
-6426 Vanýsek
+6426 Vanysek
 6428 Barlach
 6429 Brancusi
 6432 Temirkanov
@@ -6288,10 +6288,10 @@
 6435 Daveross
 6436 Coco
 6437 Stroganov
-6438 Suárez
+6438 Suarez
 6439 Tirol
 6440 Ransome
-6441 Milenajesenská
+6441 Milenajesenska
 6442 Salzburg
 6443 Harpalion
 6444 Ryuzin
@@ -6300,10 +6300,10 @@
 6447 Terrycole
 6449 Kudara
 6450 Masahikohayashi
-6451 Kärnten
+6451 Karnten
 6452 Johneuller
 6456 Golombek
-6457 Kremsmünster
+6457 Kremsmunster
 6458 Nouda
 6459 Hidesan
 6460 Bassano
@@ -6327,7 +6327,7 @@
 6480 Scarlatti
 6481 Tenzing
 6482 Steiermark
-6483 Nikolajvasilʹev
+6483 Nikolajvasilev
 6484 Barthibbs
 6485 Wendeesther
 6486 Anitahill
@@ -6344,7 +6344,7 @@
 6504 Lehmbruck
 6505 Muzzio
 6506 Klausheide
-6508 Rolčík
+6508 Rolcik
 6509 Giovannipratesi
 6510 Tarry
 6511 Furmanov
@@ -6384,7 +6384,7 @@
 6546 Kaye
 6547 Vasilkarazin
 6549 Skryabin
-6550 Parléř
+6550 Parler
 6552 Higginson
 6553 Seehaus
 6554 Takatsuguyoshida
@@ -6475,7 +6475,7 @@
 6650 Morimoto
 6651 Rogervenable
 6653 Feininger
-6654 Luleå
+6654 Lulea
 6655 Nagahama
 6656 Yokota
 6657 Otukyo
@@ -6486,14 +6486,14 @@
 6663 Tatebayashi
 6664 Tennyo
 6665 Kagawa
-6666 Frö
+6666 Fro
 6667 Sannaimura
 6669 Obi
 6670 Wallach
 6671 Concari
 6672 Corot
 6673 Degas
-6674 Cézanne
+6674 Cezanne
 6675 Sisley
 6676 Monet
 6677 Renoir
@@ -6510,13 +6510,13 @@
 6689 Floss
 6690 Messick
 6691 Trussoni
-6692 Antonínholý
+6692 Antoninholy
 6695 Barrettduff
 6696 Eubanks
 6697 Celentano
 6698 Malhotra
 6699 Igaueno
-6700 Kubišová
+6700 Kubisova
 6701 Warhol
 6705 Rinaketty
 6707 Shigeru
@@ -6526,10 +6526,10 @@
 6711 Holliman
 6712 Hornstein
 6713 Coggie
-6714 Montréal
+6714 Montreal
 6715 Sheldonmarks
 6717 Antal
-6718 Beiglböck
+6718 Beiglbock
 6719 Gallaj
 6720 Gifu
 6721 Minamiawaji
@@ -6545,7 +6545,7 @@
 6736 Marchare
 6737 Okabayashi
 6738 Tanabe
-6739 Tärendö
+6739 Tarendo
 6740 Goff
 6741 Liyuan
 6742 Biandepei
@@ -6561,7 +6561,7 @@
 6752 Ashley
 6753 Fursenko
 6754 Burdenko
-6755 Solovʹyanenko
+6755 Solovyanenko
 6756 Williamfeldman
 6757 Addibischoff
 6758 Jesseowens
@@ -6593,21 +6593,21 @@
 6792 Akiyamatakashi
 6793 Palazzolo
 6794 Masuisakura
-6795 Örnsköldsvik
+6795 Ornskoldsvik
 6796 Sundsvall
-6797 Östersund
+6797 Ostersund
 6798 Couperin
 6799 Citfiftythree
 6800 Saragamine
-6801 Střekov
-6802 Černovice
+6801 Strekov
+6802 Cernovice
 6804 Maruseppu
 6805 Abstracta
 6806 Kaufmann
-6807 Brünnow
+6807 Brunnow
 6808 Plantin
 6809 Sakuma
-6810 Juanclariá
+6810 Juanclaria
 6811 Kashcheev
 6812 Robertnelson
 6813 Amandahendrix
@@ -6619,7 +6619,7 @@
 6819 McGarvey
 6820 Buil
 6821 Ranevskaya
-6822 Horálek
+6822 Horalek
 6824 Mallory
 6825 Irvine
 6826 Lavoisier
@@ -6725,7 +6725,7 @@
 6948 Gounelle
 6949 Zissell
 6950 Simonek
-6952 Niccolò
+6952 Niccolo
 6953 Davepierce
 6954 Potemkin
 6955 Ekaterina
@@ -6801,7 +6801,7 @@
 7042 Carver
 7043 Godart
 7046 Reshetnev
-7047 Lundström
+7047 Lundstrom
 7048 Chaussidon
 7049 Meibom
 7051 Sean
@@ -6809,10 +6809,10 @@
 7054 Brehm
 7055 Fabiopagan
 7056 Kierkegaard
-7057 Al-Fārābī
-7058 Al-Ṭūsī
+7057 Al-Farabi
+7058 Al-Tusi
 7059 Van Dokkum
-7060 Al-ʻIjliya
+7060 Al-Ijliya
 7061 Pieri
 7062 Meslier
 7063 Johnmichell
@@ -6825,9 +6825,9 @@
 7073 Rudbelia
 7074 Muckea
 7075 Sadovnichij
-7076 Divnýjanko
+7076 Divnyjanko
 7077 Shermanschultz
-7078 Unojönsson
+7078 Unojonsson
 7079 Baghdad
 7081 Ludibunda
 7082 La Serena
@@ -6842,7 +6842,7 @@
 7095 Lamettrie
 7096 Napier
 7097 Yatsuka
-7098 Réaumur
+7098 Reaumur
 7099 Feuerbach
 7100 Martin Luther
 7101 Haritina
@@ -6932,7 +6932,7 @@
 7201 Kuritariku
 7202 Kigoshi
 7203 Sigeki
-7204 Ondřejov
+7204 Ondrejov
 7205 Sadanori
 7206 Shiki
 7207 Hammurabi
@@ -6946,7 +6946,7 @@
 7215 Gerhard
 7216 Ishkov
 7217 Dacke
-7218 Skácel
+7218 Skacel
 7219 Satterwhite
 7220 Philnicholson
 7221 Sallaba
@@ -6970,7 +6970,7 @@
 7242 Okyudo
 7244 Villa-Lobos
 7247 Robertstirling
-7248 Älvsjö
+7248 Alvsjo
 7250 Kinoshita
 7251 Kuwabara
 7252 Kakegawa
@@ -6985,7 +6985,7 @@
 7262 Sofue
 7263 Takayamada
 7264 Hirohatanaka
-7265 Edithmüller
+7265 Edithmuller
 7266 Trefftz
 7267 Victormeen
 7268 Chigorin
@@ -7038,7 +7038,7 @@
 7327 Crawford
 7328 Casanova
 7329 Bettadotto
-7330 Annelemaître
+7330 Annelemaitre
 7331 Balindblad
 7332 Ponrepo
 7333 Bec-Borsenberger
@@ -7062,7 +7062,7 @@
 7361 Endres
 7362 Rogerbyrd
 7363 Esquibel
-7364 Otonkučera
+7364 Otonkucera
 7365 Sejong
 7366 Agata
 7367 Giotto
@@ -7094,7 +7094,7 @@
 7399 Somme
 7400 Lenau
 7401 Toynbee
-7403 Choustník
+7403 Choustnik
 7408 Yoshihide
 7410 Kawazoe
 7412 Linnaeus
@@ -7117,15 +7117,15 @@
 7437 Torricelli
 7438 Misakatouge
 7439 Tetsufuse
-7440 Závist
-7441 Láska
+7440 Zavist
+7441 Laska
 7442 Inouehideo
 7443 Tsumura
 7445 Trajanus
 7446 Hadrianus
 7447 Marcusaurelius
-7448 Pöllath
-7449 Döllen
+7448 Pollath
+7449 Dollen
 7450 Shilling
 7451 Verbitskaya
 7452 Izabelyuria
@@ -7157,15 +7157,15 @@
 7487 Toshitanaka
 7488 Robertpaul
 7489 Oribe
-7490 Babička
+7490 Babicka
 7491 Linzerag
-7492 Kačenka
+7492 Kacenka
 7493 Hirzo
 7494 Xiwanggongcheng
 7495 Feynman
 7496 Miroslavholub
 7497 Guangcaishiye
-7498 Blaník
+7498 Blanik
 7499 L'Aquila
 7500 Sassi
 7501 Farra
@@ -7189,7 +7189,7 @@
 7529 Vagnozzi
 7530 Mizusawa
 7531 Pecorelli
-7532 Pelhřimov
+7532 Pelhrimov
 7533 Seiraiji
 7536 Fahrenheit
 7537 Solvay
@@ -7198,10 +7198,10 @@
 7542 Johnpond
 7543 Prylis
 7544 Tipografiyanauka
-7545 Smaklösa
+7545 Smaklosa
 7546 Meriam
 7547 Martinnakata
-7548 Engström
+7548 Engstrom
 7549 Woodard
 7550 Woolum
 7551 Edstolper
@@ -7221,7 +7221,7 @@
 7572 Znokai
 7573 Basfifty
 7575 Kimuraseiji
-7578 Georgböhm
+7578 Georgbohm
 7580 Schwabhausen
 7581 Yudovich
 7583 Rosegger
@@ -7232,7 +7232,7 @@
 7592 Takinemachi
 7593 Cernuschi
 7594 Shotaro
-7595 Växjö
+7595 Vaxjo
 7596 Yumi
 7597 Shigemi
 7599 Munari
@@ -7245,7 +7245,7 @@
 7608 Telegramia
 7610 Sudbury
 7611 Hashitatsu
-7613 ʻAkikiki
+7613 Akikiki
 7614 Masatomi
 7616 Sadako
 7618 Gotoyukichi
@@ -7260,7 +7260,7 @@
 7628 Evgenifedorov
 7629 Foros
 7630 Yidumduma
-7631 Vokrouhlický
+7631 Vokrouhlicky
 7632 Stanislav
 7633 Volodymyr
 7634 Shizutani-Kou
@@ -7272,7 +7272,7 @@
 7641 Cteatus
 7644 Cslewis
 7645 Pons
-7647 Etrépigny
+7647 Etrepigny
 7648 Tomboles
 7649 Bougainville
 7650 Kaname
@@ -7286,8 +7286,8 @@
 7665 Putignano
 7666 Keyaki
 7668 Mizunotakao
-7669 Malše
-7670 Kabeláč
+7669 Malse
+7670 Kabelac
 7671 Albis
 7672 Hawking
 7673 Inohara
@@ -7309,20 +7309,20 @@
 7691 Brady
 7692 Edhenderson
 7693 Hoshitakuhai
-7694 Krasetín
-7695 Přemysl
+7694 Krasetin
+7695 Premysl
 7696 Liebe
 7698 Schweitzer
-7699 Božek
+7699 Bozek
 7700 Rote Kapelle
-7701 Zrzavý
+7701 Zrzavy
 7704 Dellen
 7705 Humeln
 7706 Mien
 7707 Yes
 7708 Fennimore
 7710 Ishibashi
-7711 Říp
+7711 Rip
 7713 Tsutomu
 7714 Briccialdi
 7715 Leonidarosino
@@ -7334,7 +7334,7 @@
 7722 Firneis
 7723 Lugger
 7724 Moroso
-7725 Selʹvinskij
+7725 Selvinskij
 7726 Olegbykov
 7727 Chepurova
 7728 Giblin
@@ -7347,11 +7347,11 @@
 7736 Nizhnij Novgorod
 7737 Sirrah
 7738 Heyman
-7739 Čech
+7739 Cech
 7740 Petit
 7741 Fedoseev
 7742 Altamira
-7747 Michałowski
+7747 Michaowski
 7749 Jackschmitt
 7750 McEwen
 7752 Otauchunokai
@@ -7365,7 +7365,7 @@
 7767 Tomatic
 7769 Okuni
 7770 Siljan
-7771 Tvären
+7771 Tvaren
 7773 Kyokuchiken
 7775 Taiko
 7776 Takeishi
@@ -7382,9 +7382,9 @@
 7790 Miselli
 7791 Ebicykl
 7794 Sanvito
-7796 Járacimrman
+7796 Jaracimrman
 7797 Morita
-7799 Martinšolc
+7799 Martinsolc
 7800 Zhongkeyuan
 7801 Goretti
 7802 Takiguchi
@@ -7408,7 +7408,7 @@
 7828 Noriyositosi
 7829 Jaroff
 7830 Akihikotago
-7831 François-Xavier
+7831 Francois-Xavier
 7833 Nilstamm
 7835 Myroncope
 7837 Mutsumi
@@ -7417,10 +7417,10 @@
 7842 Ishitsuka
 7844 Horikawa
 7845 Mckim
-7846 Setvák
+7846 Setvak
 7847 Mattiaorsi
 7848 Bernasconi
-7849 Janjosefrič
+7849 Janjosefric
 7850 Buenos Aires
 7851 Azumino
 7852 Itsukushima
@@ -7436,13 +7436,13 @@
 7862 Keikonakamura
 7863 Turnbull
 7864 Borucki
-7865 Françoisgros
+7865 Francoisgros
 7866 Sicoli
 7867 Burian
 7868 Barker
 7869 Pradun
 7871 Tunder
-7873 Böll
+7873 Boll
 7881 Schieferdecker
 7885 Levine
 7886 Redman
@@ -7452,8 +7452,8 @@
 7892 Musamurahigashi
 7894 Rogers
 7895 Kaseda
-7896 Švejk
-7897 Bohuška
+7896 Svejk
+7897 Bohuska
 7898 Ohkuma
 7899 Joya
 7900 Portule
@@ -7533,15 +7533,15 @@
 7995 Khvorostovsky
 7996 Vedernikov
 7998 Gonczi
-7999 Nesvorný
+7999 Nesvorny
 8000 Isaac Newton
 8001 Ramsden
 8002 Tonyevans
 8003 Kelvin
 8005 Albinadubois
 8006 Tacchini
-8009 Béguin
-8010 Böhnhardt
+8009 Beguin
+8010 Bohnhardt
 8011 Saijokeiichi
 8013 Gordonmoore
 8015 Marksimons
@@ -7646,7 +7646,7 @@
 8134 Minin
 8135 Davidmitchell
 8136 Landis
-8137 Kvíz
+8137 Kviz
 8138 Craigbowers
 8139 Paulabell
 8140 Hardersen
@@ -7671,7 +7671,7 @@
 8161 Newman
 8163 Ishizaki
 8164 Andreasdoppler
-8165 Gnädig
+8165 Gnadig
 8166 Buczynski
 8167 Ishii
 8168 Rogerbourke
@@ -7705,7 +7705,7 @@
 8214 Mirellalilli
 8215 Zanonato
 8216 Melosh
-8217 Dominikhašek
+8217 Dominikhasek
 8218 Hosty
 8220 Nanyou
 8221 La Condamine
@@ -7713,7 +7713,7 @@
 8223 Bradshaw
 8224 Fultonwright
 8225 Emerson
-8229 Kozelský
+8229 Kozelsky
 8230 Perona
 8231 Tetsujiyamada
 8232 Akiramizuno
@@ -7769,9 +7769,9 @@
 8294 Takayuki
 8295 Toshifukushima
 8296 Miyama
-8297 Gérardfaure
+8297 Gerardfaure
 8298 Loubna
-8299 Téaleoni
+8299 Tealeoni
 8300 Iga
 8301 Haseyuji
 8302 Kazukin
@@ -7780,7 +7780,7 @@
 8305 Teika
 8306 Shoko
 8307 Peltan
-8308 Julie-Mélissa
+8308 Julie-Melissa
 8310 Seelos
 8311 Zhangdaning
 8313 Christiansen
@@ -7794,7 +7794,7 @@
 8321 Akim
 8322 Kononovich
 8323 Krimigis
-8324 Juliadeleón
+8324 Juliadeleon
 8325 Trigo-Rodriguez
 8326 Paulkling
 8327 Weihenmayer
@@ -7805,7 +7805,7 @@
 8332 Ivantsvetaev
 8333 Medina
 8335 Sarton
-8336 Šafařík
+8336 Safarik
 8338 Ralhan
 8339 Kosovichia
 8340 Mumma
@@ -7860,7 +7860,7 @@
 8419 Terumikazumi
 8420 Angrogna
 8421 Montanari
-8422 Mohorovičıć
+8422 Mohorovicc
 8423 Macao
 8424 Toshitsumita
 8425 Zirankexuejijin
@@ -7902,7 +7902,7 @@
 8464 Polishook
 8465 Bancelin
 8466 Leyrat
-8467 Benoîtcarry
+8467 Benoitcarry
 8468 Rhondastroud
 8470 Dudinskaya
 8471 Obrant
@@ -7940,8 +7940,8 @@
 8531 Mineosaito
 8533 Oohira
 8534 Knutsson
-8535 Pellesvanslös
-8536 Måns
+8535 Pellesvanslos
+8536 Mans
 8537 Billochbull
 8538 Gammelmaja
 8539 Laban
@@ -7960,7 +7960,7 @@
 8554 Gabreta
 8555 Mirimao
 8556 Jana
-8557 Šaroun
+8557 Saroun
 8558 Hack
 8560 Tsubaki
 8561 Sikoruk
@@ -8027,7 +8027,7 @@
 8634 Neubauer
 8635 Yuriosipov
 8636 Malvina
-8639 Vonšovský
+8639 Vonsovsky
 8640 Ritaschulz
 8642 Shawnkerry
 8643 Quercus
@@ -8050,14 +8050,14 @@
 8672 Morse
 8676 Lully
 8677 Charlier
-8678 Bäl
-8679 Tingstäde
+8678 Bal
+8679 Tingstade
 8680 Rone
 8681 Burs
-8682 Kräklingbo
-8683 Sjölander
+8682 Kraklingbo
+8683 Sjolander
 8684 Reichwein
-8685 Fauré
+8685 Faure
 8686 Akenside
 8687 Caussols
 8688 Delaunay
@@ -8081,7 +8081,7 @@
 8713 Azusa
 8716 Ginestra
 8717 Richviktorov
-8719 Vesmír
+8719 Vesmir
 8720 Takamizawa
 8721 AMOS
 8722 Schirra
@@ -8101,10 +8101,10 @@
 8737 Takehiro
 8738 Saji
 8739 Morihisa
-8740 Václav
+8740 Vaclav
 8741 Suzukisuzuko
 8742 Bonazzoli
-8743 Kèneke
+8743 Keneke
 8744 Cilla
 8745 Delaney
 8747 Asahi
@@ -8149,7 +8149,7 @@
 8790 Michaelamato
 8791 Donyabradshaw
 8792 Christyljohnson
-8793 Thomasmüller
+8793 Thomasmuller
 8794 Joepatterson
 8795 Dudorov
 8796 Sonnett
@@ -8182,7 +8182,7 @@
 8826 Corneville
 8827 Kollwitz
 8829 Buczkowski
-8831 Brändström
+8831 Brandstrom
 8832 Altenrath
 8833 Acer
 8834 Anacardium
@@ -8317,7 +8317,7 @@
 9005 Sidorova
 9006 Voytkevych
 9007 James Bond
-9008 Bohšternberk
+9008 Bohsternberk
 9009 Tirso
 9010 Candelo
 9011 Angelou
@@ -8337,7 +8337,7 @@
 9025 Polanskey
 9026 Denevi
 9027 Graps
-9028 Konrádbeneš
+9028 Konradbenes
 9030 Othryoneus
 9032 Tanakami
 9033 Kawane
@@ -8427,10 +8427,10 @@
 9151 Kettnergriswold
 9152 Combe
 9153 Chikurinji
-9154 Kolʹtsovo
+9154 Koltsovo
 9155 Verkhodanov
 9156 Malanin
-9158 Platè
+9158 Plate
 9159 McDonnell
 9161 Beaufort
 9162 Kwiila
@@ -8449,8 +8449,8 @@
 9180 Samsagan
 9184 Vasilij
 9186 Fumikotsukimoto
-9187 Walterkröll
-9189 Hölderlin
+9187 Walterkroll
+9189 Holderlin
 9190 Masako
 9191 Hokuto
 9193 Geoffreycopland
@@ -8459,7 +8459,7 @@
 9197 Endo
 9198 Sasagamine
 9203 Myrtus
-9204 Mörike
+9204 Morike
 9205 Eddywally
 9206 Yanaikeizo
 9207 Petersmith
@@ -8474,7 +8474,7 @@
 9221 Wuliangyong
 9222 Chubey
 9223 Leifandersson
-9224 Železný
+9224 Zelezny
 9225 Daiki
 9226 Arimahiroshi
 9227 Ashida
@@ -8493,7 +8493,7 @@
 9241 Rosfranklin
 9242 Olea
 9243 Alag
-9244 Višnjan
+9244 Visnjan
 9246 Niemeyer
 9248 Sauer
 9249 Yen
@@ -8574,7 +8574,7 @@
 9351 Neumayer
 9356 Elineke
 9357 Venezuela
-9358 Fårö
+9358 Faro
 9359 Fleringe
 9362 Miyajima
 9364 Clusius
@@ -8588,10 +8588,10 @@
 9377 Metz
 9378 Nancy-Lorraine
 9379 Dijon
-9380 Mâcon
+9380 Macon
 9381 Lyon
 9382 Mihonoseki
-9383 Montélimar
+9383 Montelimar
 9384 Aransio
 9385 Avignon
 9386 Hitomi
@@ -8629,7 +8629,7 @@
 9426 Aliante
 9427 Righini
 9428 Angelalouise
-9429 Poreč
+9429 Porec
 9430 Erichthonios
 9431 Pytho
 9432 Iba
@@ -8667,8 +8667,8 @@
 9478 Caldeyro
 9479 Madresplazamayo
 9480 Inti
-9481 Menchú
-9482 Rubéndarío
+9481 Menchu
+9482 Rubendario
 9483 Chagas
 9484 Wanambi
 9485 Uluru
@@ -8713,7 +8713,7 @@
 9525 Amandasickafoose
 9526 Billmckinnon
 9527 Sherrypervan
-9528 Küppers
+9528 Kuppers
 9529 Protopapa
 9530 Kelleymichael
 9531 Jean-Luc
@@ -8764,7 +8764,7 @@
 9599 Onotomoko
 9602 Oya
 9604 Bellevanzuylen
-9605 A Coruña
+9605 A Coruna
 9609 Ponomarevalya
 9610 Vischer
 9611 Anouck
@@ -8791,9 +8791,9 @@
 9638 Fuchs
 9639 Scherer
 9640 Lippens
-9641 Demazière
+9641 Demaziere
 9642 Takatahiro
-9645 Grünewald
+9645 Grunewald
 9648 Gotouhideo
 9649 Junfukue
 9650 Okadaira
@@ -8801,7 +8801,7 @@
 9654 Seitennokai
 9655 Yaburanger
 9656 Kurokawahiroki
-9657 Učka
+9657 Ucka
 9658 Imabari
 9661 Hohmann
 9662 Frankhubbard
@@ -8850,7 +8850,7 @@
 9707 Petruskoning
 9708 Gouka
 9709 Chrisnell
-9711 Želetava
+9711 Zeletava
 9712 Nauplius
 9713 Oceax
 9714 Piazzismyth
@@ -8928,9 +8928,9 @@
 9818 Eurymachos
 9819 Sangerhausen
 9820 Hempel
-9821 Gitakresáková
-9822 Hajduková
-9823 Annantalová
+9821 Gitakresakova
+9822 Hajdukova
+9823 Annantalova
 9824 Marylea
 9825 Oetken
 9826 Ehrenfreund
@@ -8945,7 +8945,7 @@
 9837 Jerryhorow
 9838 Falz-Fein
 9839 Crabbegat
-9841 Mašek
+9841 Masek
 9842 Funakoshi
 9843 Braidwood
 9844 Otani
@@ -8954,7 +8954,7 @@
 9850 Ralphcopeland
 9851 Sakamoto
 9852 Gora
-9853 l'Épée
+9853 l'Epee
 9854 Karlheinz
 9855 Thomasdick
 9857 Hecamede
@@ -8975,7 +8975,7 @@
 9881 Sampson
 9882 Stallman
 9883 Veecas
-9884 Příbram
+9884 Pribram
 9885 Linux
 9886 Aoyagi
 9887 Ashikaga
@@ -9053,7 +9053,7 @@
 9987 Peano
 9988 Erictemplebell
 9990 Niiyaeki
-9991 Anežka
+9991 Anezka
 9993 Kumamoto
 9994 Grotius
 9995 Alouette
@@ -9109,7 +9109,7 @@
 10045 Dorarussell
 10046 Creighton
 10047 Davidchapman
-10048 Grönbech
+10048 Gronbech
 10049 Vorovich
 10050 Rayman
 10051 Albee
@@ -9161,12 +9161,12 @@
 10097 Humbroncos
 10098 Jaymiematthews
 10099 Glazebrook
-10100 Bürgel
+10100 Burgel
 10101 Fourier
 10102 Digerhuvud
 10103 Jungfrun
 10104 Hoburgsgubben
-10105 Holmhällar
+10105 Holmhallar
 10106 Lergrav
 10107 Kenny
 10108 Tomlinson
@@ -9182,16 +9182,16 @@
 10119 Remarque
 10120 Ypres
 10121 Arzamas
-10122 Fröding
-10123 Fideöja
+10122 Froding
+10123 Fideoja
 10124 Hemse
 10125 Stenkyrka
-10126 Lärbro
-10127 Fröjel
+10126 Larbro
+10127 Frojel
 10128 Bro
 10129 Fole
 10130 Ardre
-10131 Stånga
+10131 Stanga
 10132 Lummelunda
 10133 Gerdahorneck
 10134 Joycepenner
@@ -9227,11 +9227,11 @@
 10167 Yoshiwatiso
 10168 Stony Ridge
 10169 Ogasawara
-10170 Petrjakeš
+10170 Petrjakes
 10171 Takaotengu
 10172 Humphreys
 10173 Hanzelkazikmund
-10174 Emička
+10174 Emicka
 10175 Aenona
 10176 Gaiavettori
 10177 Ellison
@@ -9239,10 +9239,10 @@
 10179 Ishigaki
 10181 Davidacomba
 10182 Junkobiwaki
-10183 Ampère
+10183 Ampere
 10184 Galvani
 10185 Gaudi
-10186 Albéniz
+10186 Albeniz
 10188 Yasuoyoneda
 10189 Normanrockwell
 10190 Suzannedodd
@@ -9259,13 +9259,13 @@
 10202 Mioaramandea
 10203 Flinders
 10204 Turing
-10205 Pokorný
+10205 Pokorny
 10207 Comeniana
 10208 Germanicus
 10209 Izanaki
 10210 Nathues
 10211 La Spezia
-10213 Koukolík
+10213 Koukolik
 10215 Lavilledemirmont
 10216 Popastro
 10217 Richardcook
@@ -9284,10 +9284,10 @@
 10237 Adzic
 10238 Ananyakarthik
 10239 Hermann
-10241 Miličević
+10241 Milicevic
 10242 Wasserkuppe
 10243 Hohe Meissner
-10244 Thüringer Wald
+10244 Thuringer Wald
 10245 Inselsberg
 10246 Frankenwald
 10247 Amphiaraos
@@ -9297,13 +9297,13 @@
 10251 Mulisch
 10252 Heidigraf
 10253 Westerwald
-10254 Hunsrück
+10254 Hunsruck
 10255 Taunus
 10256 Vredevoogd
 10257 Garecynthia
-10258 Sárneczky
+10258 Sarneczky
 10259 Osipovyurij
-10261 Nikdollezhalʹ
+10261 Nikdollezhal
 10262 Samoilov
 10263 Vadimsimona
 10264 Marov
@@ -9311,7 +9311,7 @@
 10266 Vladishukhov
 10267 Giuppone
 10269 Tusi
-10270 Skoglöv
+10270 Skoglov
 10271 Dymond
 10272 Yuko
 10273 Katvolk
@@ -9326,7 +9326,7 @@
 10282 Emilykramer
 10283 Cromer
 10284 Damienlemay
-10285 Renémichelsen
+10285 Renemichelsen
 10286 Shnollia
 10287 Smale
 10288 Saville
@@ -9339,7 +9339,7 @@
 10298 Jiangchuanhuang
 10300 Tanakadate
 10301 Kataoka
-10303 Fréret
+10303 Freret
 10304 Iwaki
 10305 Grignard
 10306 Pagnol
@@ -9360,7 +9360,7 @@
 10327 Batens
 10330 Durkheim
 10331 Peterbluhm
-10332 Défi
+10332 Defi
 10333 Portnoff
 10334 Gibbon
 10340 Jostjahn
@@ -9372,7 +9372,7 @@
 10351 Seiichisato
 10352 Kawamura
 10353 Momotaro
-10354 Guillaumebudé
+10354 Guillaumebude
 10355 Kojiroharada
 10356 Rudolfsteiner
 10358 Kirchhoff
@@ -9407,16 +9407,16 @@
 10399 Nishiharima
 10400 Hakkaisan
 10401 Masakoba
-10403 Marcelgrün
+10403 Marcelgrun
 10404 McCall
 10405 Yoshiaki
 10410 Yangguanghua
 10412 Tsukuyomi
 10413 Pansecchi
-10415 Mali Lošinj
+10415 Mali Losinj
 10416 Kottler
 10421 Dalmatin
-10423 Dajčić
+10423 Dajcic
 10424 Gaillard
 10425 Landfermann
 10426 Charlierouse
@@ -9467,7 +9467,7 @@
 10472 Santana-Ros
 10473 Thirouin
 10474 Pecina
-10475 Maxpoilâne
+10475 Maxpoilane
 10476 Los Molinos
 10477 Lacumparsita
 10478 Alsabti
@@ -9512,16 +9512,16 @@
 10541 Malesherbes
 10542 Ruckers
 10543 Klee
-10544 Hörsnebara
-10545 Källunge
+10544 Horsnebara
+10545 Kallunge
 10546 Nakanomakoto
 10547 Yosakoi
 10549 Helsingborg
-10550 Malmö
-10551 Göteborg
+10550 Malmo
+10551 Goteborg
 10552 Stockholm
 10553 Stenkumla
-10554 Västerhejde
+10554 Vasterhejde
 10555 Tagaharue
 10557 Rowland
 10558 Karlstad
@@ -9536,9 +9536,9 @@
 10570 Shibayasuo
 10572 Kominejo
 10573 Piani
-10577 Jihčesmuzeum
+10577 Jihcesmuzeum
 10579 Diluca
-10581 Jeníkhollan
+10581 Jenikhollan
 10582 Harumi
 10583 Kanetugu
 10584 Ferrini
@@ -9566,7 +9566,7 @@
 10616 Inouetakeshi
 10617 Takumi
 10619 Ninigi
-10626 Zajíc
+10626 Zajic
 10627 Ookuninushi
 10628 Feuerbacher
 10629 Krishnamani
@@ -9578,7 +9578,7 @@
 10639 Gleason
 10640 Varunkumar
 10642 Charmaine
-10645 Brač
+10645 Brac
 10646 Machielalberts
 10647 Meesters
 10648 Plancius
@@ -9598,7 +9598,7 @@
 10662 Peterwisse
 10663 Schwarzwald
 10664 Phemios
-10665 Ortigão
+10665 Ortigao
 10666 Feldberg
 10667 van Marxveldt
 10668 Plansos
@@ -9607,7 +9607,7 @@
 10671 Mazurova
 10672 Kostyukova
 10673 Berezhnoy
-10674 de Elía
+10674 de Elia
 10675 Kharlamov
 10676 Jamesmcdanell
 10677 Colucci
@@ -9635,7 +9635,7 @@
 10700 Juanangelviera
 10701 Marilynsimons
 10702 Arizorcas
-10703 Saint–Jacques
+10703 SaintJacques
 10704 Sidey
 10707 Prunariu
 10708 Richardspalding
@@ -9646,7 +9646,7 @@
 10715 Nagler
 10716 Olivermorton
 10717 Dickwalker
-10718 Samusʹ
+10718 Samus
 10719 Andamar
 10720 Danzl
 10721 Tuterov
@@ -9663,29 +9663,29 @@
 10733 Georgesand
 10734 Wieck
 10735 Seine
-10736 Marybrück
-10737 Brück
+10736 Marybruck
+10737 Bruck
 10738 Marcoaldo
 10739 Lowman
 10740 Fallersleben
 10741 Valeriocarruba
 10744 Tsuruta
 10745 Arnstadt
-10746 Mühlhausen
-10747 Köthen
-10749 Musäus
+10746 Muhlhausen
+10747 Kothen
+10749 Musaus
 10753 van de Velde
 10758 Aldoushuxley
 10760 Ozeki
 10761 Lyubimets
 10762 von Laue
 10763 Hlawka
-10764 Rübezahl
+10764 Rubezahl
 10767 Toyomasu
 10768 Sarutahiko
 10769 Minas Gerais
 10770 Belo Horizonte
-10771 Ouro Prêto
+10771 Ouro Preto
 10773 Jamespaton
 10774 Eisenach
 10775 Leipzig
@@ -9702,14 +9702,14 @@
 10791 Uson
 10792 Ecuador
 10793 Quito
-10794 Vänge
+10794 Vange
 10795 Babben
 10796 Sollerman
 10797 Guatemala
-10799 Yucatán
-10801 Lüneburg
+10799 Yucatan
+10801 Luneburg
 10802 Masamifuruya
-10803 Caléyo
+10803 Caleyo
 10804 Amenouzume
 10805 Iwano
 10806 Mexico
@@ -9718,10 +9718,10 @@
 10809 Majsterrojr
 10810 Lejsturojr
 10811 Lau
-10812 Grötlingbo
-10813 Mästerby
-10814 Gnisvärd
-10815 Östergarn
+10812 Grotlingbo
+10813 Masterby
+10814 Gnisvard
+10815 Ostergarn
 10819 Mahakala
 10820 Offenbach
 10821 Kimuratakeshi
@@ -9735,7 +9735,7 @@
 10831 Takamagahara
 10832 Hazamashigetomi
 10834 Zembsch-Schreve
-10835 Fröbel
+10835 Frobel
 10837 Yuyakekoyake
 10838 Lebon
 10839 Hufeland
@@ -9745,7 +9745,7 @@
 10850 Denso
 10853 Aimoto
 10856 Bechstein
-10857 Blüthner
+10857 Bluthner
 10861 Ciske
 10863 Oye
 10864 Yamagatashi
@@ -9753,7 +9753,7 @@
 10866 Peru
 10867 Lima
 10870 Gwendolen
-10872 Vaculík
+10872 Vaculik
 10874 Locatelli
 10875 Veracini
 10877 Jiangnan Tianchi
@@ -9776,7 +9776,7 @@
 10914 Tucker
 10916 Okina-Ouna
 10918 Kodaly
-10919 Pepíkzicha
+10919 Pepikzicha
 10921 Romanozen
 10922 Thomaslam
 10923 Gabrielleliu
@@ -9797,7 +9797,7 @@
 10943 Brunier
 10947 Kaiserstuhl
 10948 Odenwald
-10949 Königstuhl
+10949 Konigstuhl
 10950 Albertjansen
 10951 Spessart
 10952 Vogelsberg
@@ -9826,7 +9826,7 @@
 10975 Schelderode
 10976 Wubbena
 10977 Mathlener
-10978 Bärbchen
+10978 Barbchen
 10979 Fristephenson
 10980 Breimer
 10981 Fransaris
@@ -9857,16 +9857,16 @@
 11011 KIAM
 11012 Henning
 11013 Kullander
-11014 Svätopluk
+11014 Svatopluk
 11015 Romanenko
 11016 Borisov
 11017 Billputnam
 11019 Hansrott
 11020 Orwell
-11021 Foderà
+11021 Fodera
 11022 Serio
 11026 Greatbotkin
-11027 Astafʹev
+11027 Astafev
 11033 Mazanek
 11037 Distler
 11039 Raynal
@@ -9874,12 +9874,12 @@
 11041 Fechner
 11042 Ernstweber
 11043 Pepping
-11050 Messiaën
+11050 Messiaen
 11051 Racine
 11055 Honduras
 11056 Volland
 11059 Nulliusinverba
-11061 Lagerlöf
+11061 Lagerlof
 11063 Poynting
 11064 Dogen
 11066 Sigurd
@@ -9888,12 +9888,12 @@
 11072 Hiraoka
 11073 Cavell
 11074 Kuniwake
-11075 Dönhoff
+11075 Donhoff
 11079 Mitsunori
-11081 Persäve
+11081 Persave
 11082 Spilliaert
 11083 Caracas
-11084 Giò
+11084 Gio
 11085 Isala
 11086 Nagatayuji
 11087 Yamasakimakoto
@@ -9905,11 +9905,11 @@
 11098 Ginsberg
 11099 Sonodamasaki
 11100 Lai
-11101 Českáfilharmonie
+11101 Ceskafilharmonie
 11102 Bertorighini
 11103 Miekerouppe
 11104 Airion
-11105 Puchnarová
+11105 Puchnarova
 11107 Hakkoda
 11108 Hachimantai
 11109 Iwatesan
@@ -9923,14 +9923,14 @@
 11121 Malpighi
 11122 Eliscolombini
 11123 Aliciaclaire
-11124 Mikulášek
-11126 Doleček
+11124 Mikulasek
+11126 Dolecek
 11127 Hagi
 11128 Ostravia
 11129 Hayachine
 11132 Horne
 11133 Kumotori
-11134 České Budějovice
+11134 Ceske Budejovice
 11135 Ryokami
 11136 Shirleymarinus
 11137 Yarigatake
@@ -9954,9 +9954,9 @@
 11158 Cirou
 11159 Mizugaki
 11161 Daibosatsu
-11163 Milešovka
+11163 Milesovka
 11166 Anatolefrance
-11167 Kunžak
+11167 Kunzak
 11169 Alkon
 11170 Bradenmilford
 11173 Jayanderson
@@ -9969,8 +9969,8 @@
 11187 Richoliver
 11189 Rabeaton
 11190 Jennibell
-11191 Paskvić
-11193 Mérida
+11191 Paskvic
+11193 Merida
 11194 Mirna
 11195 Woomera
 11196 Michanikos
@@ -9998,14 +9998,14 @@
 11241 Eckhout
 11242 Franspost
 11243 de Graauw
-11244 Andrékuipers
+11244 Andrekuipers
 11245 Hansderijk
 11246 Orvillewright
 11247 Wilburwright
-11248 Blériot
+11248 Bleriot
 11249 Etna
 11251 Icarion
-11252 Laërtes
+11252 Laertes
 11253 Mesyats
 11254 Konkohekisui
 11255 Fujiiekio
@@ -10040,21 +10040,21 @@
 11302 Rubicon
 11304 Cowra
 11305 Ahlqvist
-11306 Åkesson
+11306 Akesson
 11307 Erikolsson
 11308 Tofta
 11309 Malus
 11311 Peleus
-11313 Kügelgen
+11313 Kugelgen
 11314 Charcot
-11315 Salpêtrière
+11315 Salpetriere
 11316 Fuchitatsuo
 11317 Hitoshi
 11321 Tosimatumoto
 11322 Aquamarine
 11323 Nasu
 11324 Hayamizu
-11325 Slavický
+11325 Slavicky
 11326 Ladislavschmied
 11328 Mariotozzi
 11332 Jameswatt
@@ -10064,7 +10064,7 @@
 11336 Piranesi
 11337 Sandro
 11338 Schiele
-11339 Orlík
+11339 Orlik
 11341 Babbage
 11348 Allegra
 11349 Witten
@@ -10077,7 +10077,7 @@
 11360 Formigine
 11361 Orbinskij
 11363 Vives
-11364 Karlštejn
+11364 Karlstejn
 11365 NASA
 11367 Rachelseevers
 11369 Brazelton
@@ -10097,12 +10097,12 @@
 11392 Paulpeeters
 11395 Iphinous
 11397 Eriopis
-11400 Raša
+11400 Rasa
 11401 Pierralba
 11404 Wittig
 11406 Ucciocontin
 11407 Madsubramanian
-11408 Zahradník
+11408 Zahradnik
 11409 Horkheimer
 11413 Catanach
 11414 Allanchu
@@ -10116,7 +10116,7 @@
 11425 Wearydunlop
 11426 Molster
 11427 Willemkolff
-11428 Alcinoös
+11428 Alcinoos
 11429 Demodokus
 11430 Lodewijkberg
 11431 Karelbosscha
@@ -10132,17 +10132,17 @@
 11444 Peshekhonov
 11445 Fedotov
 11446 Betankur
-11448 Miahajduková
+11448 Miahajdukova
 11449 Stephwerner
 11450 Shearer
 11451 Aarongolden
-11453 Cañada-Assandri
+11453 Canada-Assandri
 11454 Mariomelita
 11455 Richardstarr
 11456 Cotto-Figueroa
 11457 Hitomikobayashi
 11458 Rosemarypike
-11459 Andráspál
+11459 Andraspal
 11460 Juliafang
 11461 Wladimirneumann
 11462 Hsingwenlin
@@ -10156,7 +10156,7 @@
 11470 Davidminton
 11471 Toshihirabayashi
 11473 Barbaresco
-11475 Velinský
+11475 Velinsky
 11476 Stefanosimoni
 11480 Velikij Ustyug
 11481 Znannya
@@ -10188,7 +10188,7 @@
 11528 Mie
 11530 d'Indy
 11532 Gullin
-11533 Akebäck
+11533 Akeback
 11537 Guericke
 11538 Brunico
 11542 Solikamsk
@@ -10219,7 +10219,7 @@
 11593 Uchikawa
 11595 Monsummano
 11596 Francetic
-11598 Kubík
+11598 Kubik
 11600 Cipolla
 11602 Miryang
 11604 Novigrad
@@ -10324,7 +10324,7 @@
 11772 Jacoblemaire
 11773 Schouten
 11774 Jerne
-11775 Köhler
+11775 Kohler
 11776 Milstein
 11777 Hargrave
 11778 Kingsford Smith
@@ -10352,7 +10352,7 @@
 11802 Ivanovski
 11803 Turrini
 11804 Zambon
-11805 Novaković
+11805 Novakovic
 11806 Thangjam
 11807 Wannberg
 11808 Platz
@@ -10400,7 +10400,7 @@
 11871 Norge
 11873 Kokuseibi
 11874 Gringauz
-11875 Rhône
+11875 Rhone
 11876 Doncarpenter
 11878 Hanamiyama
 11881 Mirstation
@@ -10414,7 +10414,7 @@
 11899 Weill
 11900 Spinoy
 11905 Giacometti
-11907 Näränen
+11907 Naranen
 11908 Nicaragua
 11911 Angel
 11912 Piedade
@@ -10440,7 +10440,7 @@
 11945 Amsterdam
 11946 Bayle
 11947 Kimclijsters
-11948 Justinehénin
+11948 Justinehenin
 11949 Kagayayutaka
 11950 Morellet
 11955 Russrobb
@@ -10472,7 +10472,7 @@
 12006 Hruschka
 12007 Fermat
 12008 Kandrup
-12010 Kovářov
+12010 Kovarov
 12012 Kitahiroshima
 12013 Sibatahosimi
 12014 Bobhawkes
@@ -10490,12 +10490,12 @@
 12045 Klein
 12047 Hideomitani
 12050 Humecronyn
-12051 Pícha
+12051 Picha
 12052 Aretaon
 12053 Turtlestar
 12056 Yoshigeru
 12057 Alfredsturm
-12059 du Châtelet
+12059 du Chatelet
 12061 Alena
 12062 Tilmanspohn
 12064 Guiraudon
@@ -10550,7 +10550,7 @@
 12128 Palermiti
 12130 Mousa
 12131 Echternach
-12132 Wimfröger
+12132 Wimfroger
 12133 Titulaer
 12134 Hansfriedeman
 12135 Terlingen
@@ -10575,7 +10575,7 @@
 12154 Callimachus
 12155 Hyginus
 12156 Ubels
-12157 Können
+12157 Konnen
 12158 Tape
 12159 Bettybiegel
 12160 Karelwakker
@@ -10585,7 +10585,7 @@
 12164 Lowellgreen
 12165 Ringleb
 12166 Oliverherrmann
-12167 Olivermüller
+12167 Olivermuller
 12168 Polko
 12169 Munsterman
 12170 Vanvollenhoven
@@ -10629,13 +10629,13 @@
 12214 Miroshnikov
 12215 Jessicalounsbury
 12218 Fleischer
-12219 Grigorʹev
+12219 Grigorev
 12220 Semenchur
 12221 Ogatakoan
 12222 Perotto
 12223 Hoskin
 12224 Jimcornell
-12225 Yanfernández
+12225 Yanfernandez
 12226 Caseylisse
 12227 Penney
 12229 Paulsson
@@ -10644,7 +10644,7 @@
 12237 Coughlin
 12238 Actor
 12239 Carolinakou
-12240 Droste-Hülshoff
+12240 Droste-Hulshoff
 12241 Lefort
 12242 Koon
 12244 Werfel
@@ -10679,21 +10679,21 @@
 12294 Avogadro
 12295 Tasso
 12298 Brecht
-12301 Eötvös
+12301 Eotvos
 12306 Pebronstein
 12309 Tommygrav
 12310 Londontario
 12311 Ingemyr
-12312 Väte
+12312 Vate
 12317 Madicampbell
-12318 Kästner
+12318 Kastner
 12320 Loschmidt
 12321 Zurakowski
 12323 Haeckel
 12324 Van Rompaey
 12325 Bogota
 12326 Shirasaki
-12327 Terbrüggen
+12327 Terbruggen
 12329 Liebermann
 12335 Tatsukushi
 12339 Carloo
@@ -10704,7 +10704,7 @@
 12349 Akebonozou
 12350 Feuchtwanger
 12352 Jepejacobsen
-12353 Màrquez
+12353 Marquez
 12354 Hemmerechts
 12355 Coelho
 12356 Carlscheele
@@ -10744,10 +10744,10 @@
 12400 Katumaru
 12401 Tucholsky
 12405 Nespoli
-12406 Zvíkov
+12406 Zvikov
 12407 Riccardi
 12408 Fujioka
-12409 Bukovanská
+12409 Bukovanska
 12410 Donald Duck
 12411 Tannokayo
 12412 Muchisachie
@@ -10776,7 +10776,7 @@
 12460 Mando
 12464 Manhattan
 12465 Perth Amboy
-12468 Zachotín
+12468 Zachotin
 12469 Katsuura
 12470 Pinotti
 12471 Larryscherr
@@ -10872,7 +10872,7 @@
 12607 Alcaeus
 12608 Aesop
 12609 Apollodoros
-12610 Hãfez
+12610 Hafez
 12611 Ingres
 12612 Daumier
 12613 Hogarth
@@ -10900,7 +10900,7 @@
 12635 Hennylamers
 12636 Padrielli
 12637 Gustavleonhardt
-12638 Fransbrüggen
+12638 Fransbruggen
 12639 Tonkoopman
 12640 Reinbertdeleeuw
 12641 Hubertushenrichs
@@ -10923,14 +10923,14 @@
 12658 Peiraios
 12659 Schlegel
 12661 Schelling
-12663 Björkegren
+12663 Bjorkegren
 12664 Sonisenia
 12665 Chriscarson
 12668 Scottstarin
 12669 Emilybrisnehan
 12670 Passargea
-12671 Thörnqvist
-12672 Nygårdh
+12671 Thornqvist
+12672 Nygardh
 12673 Kiselman
 12674 Rybalka
 12675 Chabot
@@ -10949,7 +10949,7 @@
 12695 Utrecht
 12696 Camus
 12697 Verhaeren
-12701 Chénier
+12701 Chenier
 12702 Panamarenko
 12704 Tupolev
 12706 Tanezaki
@@ -10961,7 +10961,7 @@
 12715 Godin
 12716 Delft
 12718 Le Gentil
-12719 Pingré
+12719 Pingre
 12722 Petrarca
 12727 Cavendish
 12729 Berger
@@ -11013,7 +11013,7 @@
 12820 Robinwilliams
 12823 Pochintesta
 12828 Batteas
-12833 Kamenný Újezd
+12833 Kamenny Ujezd
 12834 Bomben
 12835 Stropek
 12838 Adamsmith
@@ -11033,7 +11033,7 @@
 12863 Whitfield
 12864 Ryandrake
 12866 Yanamadala
-12867 Joëloïc
+12867 Joeloic
 12868 Onken
 12869 Ejiaga
 12870 Rolandmeier
@@ -11086,7 +11086,7 @@
 12976 Kalinenkov
 12977 Nanettevigil
 12978 Ivashov
-12979 Evgalvasilʹev
+12979 Evgalvasilev
 12980 Pruetz
 12981 Tracicase
 12982 Kaseybond
@@ -11106,7 +11106,7 @@
 12996 Claudedomingue
 12997 Lizjensen
 12998 Thomas-Keprta
-12999 Toruń
+12999 Torun
 13001 Woodney
 13002 Vickihorner
 13003 Dickbeasley
@@ -11121,7 +11121,7 @@
 13017 Owakenoomi
 13018 Geoffjames
 13024 Conradferdinand
-13025 Zürich
+13025 Zurich
 13027 Geeraerts
 13028 Klaustschira
 13031 Durance
@@ -11147,13 +11147,13 @@
 13070 Seanconnery
 13077 Edschneider
 13079 Toots
-13082 Gutiérrez
+13082 Gutierrez
 13084 Virchow
 13085 Borlaug
 13086 Sauerbruch
 13087 Chastellux
 13088 Filipportera
-13092 Schrödinger
+13092 Schrodinger
 13093 Wolfgangpauli
 13094 Shinshuueda
 13096 Tigris
@@ -11224,7 +11224,7 @@
 13223 Cenaceneri
 13224 Takamatsuda
 13225 Manfredi
-13226 Soulié
+13226 Soulie
 13227 Poor
 13229 Echion
 13231 Blondelet
@@ -11244,7 +11244,7 @@
 13250 Danieladucato
 13251 Viot
 13253 Stejneger
-13254 Kekulé
+13254 Kekule
 13256 Marne
 13257 Seanntorres
 13258 Bej
@@ -11289,7 +11289,7 @@
 13316 Llano
 13319 Michaelmi
 13320 Jessicamiles
-13325 Valérienataf
+13325 Valerienataf
 13326 Ferri
 13327 Reitsema
 13328 Guetter
@@ -11312,15 +11312,15 @@
 13357 Werkhoven
 13358 Revelle
 13365 Tenzinyama
-13367 Jiří
+13367 Jiri
 13368 Wlodekofman
 13369 Youngblood
-13370 Júliusbreza
+13370 Juliusbreza
 13376 Dunphy
 13380 Yamamohammed
 13387 Irus
 13389 Stacey
-13390 Bouška
+13390 Bouska
 13395 Deconihout
 13396 Midavaine
 13403 Sarahmousa
@@ -11353,7 +11353,7 @@
 13449 Margaretgarland
 13463 Antiphos
 13473 Hokema
-13474 Vʹyus
+13474 Vyus
 13475 Orestes
 13477 Utkin
 13478 Fraunhofer
@@ -11376,13 +11376,13 @@
 13509 Guayaquil
 13513 Manila
 13514 Mikerudenko
-13520 Félicienrops
+13520 Felicienrops
 13523 Vanhassel
 13525 Paulledoux
 13526 Libbrecht
 13529 Yokaboshi
 13530 Ninnemann
-13531 Weizsäcker
+13531 Weizsacker
 13533 Junili
 13534 Alain-Fournier
 13540 Kazukitakahashi
@@ -11392,7 +11392,7 @@
 13554 Decleir
 13557 Lievetruwant
 13559 Werth
-13560 La Pérouse
+13560 La Perouse
 13561 Kudogou
 13562 Bobeggleton
 13564 Kodomomiraikan
@@ -11492,12 +11492,12 @@
 13766 Bonham
 13770 Commerson
 13772 Livius
-13774 Spurný
-13775 Thébault
+13774 Spurny
+13775 Thebault
 13777 Cielobuio
 13787 Nagaishi
 13788 Dansolander
-13792 Kuščynskyj
+13792 Kuscynskyj
 13793 Laubernasconi
 13798 Cecchini
 13801 Kohlhase
@@ -11505,7 +11505,7 @@
 13806 Darmstrong
 13808 Davewilliams
 13815 Furuya
-13816 Stülpner
+13816 Stulpner
 13817 Genobechetti
 13818 Ullery
 13820 Schwartz
@@ -11536,13 +11536,13 @@
 13904 Univinnitsa
 13905 Maxbernstein
 13906 Shunda
-13908 Wölbern
+13908 Wolbern
 13910 Iranolt
 13911 Stempels
 13912 Gammelgarn
 13914 Galegant
 13915 Yalow
-13916 Bernolák
+13916 Bernolak
 13917 Correggia
 13918 Tsukinada
 13920 Montecorvino
@@ -11566,7 +11566,7 @@
 13957 NARIT
 13962 Delambre
 13963 Euphrates
-13964 La Billardière
+13964 La Billardiere
 13975 Beatrixpotter
 13977 Frisch
 13978 Hiwasa
@@ -11577,7 +11577,7 @@
 13992 Cesarebarbieri
 13993 Clemenssimmer
 13994 Tuominen
-13995 Tõravere
+13995 Toravere
 14002 Johngoodhue
 14003 Waynegilmore
 14004 Chikama
@@ -11586,7 +11586,7 @@
 14008 Toniscarmato
 14010 Jomonaomori
 14012 Amedee
-14014 Münchhausen
+14014 Munchhausen
 14015 Senancour
 14016 Steller
 14019 Pourbus
@@ -11600,18 +11600,18 @@
 14036 Yasuhirotoyama
 14037 Takakikasahara
 14040 Andrejka
-14041 Dürrenmatt
+14041 Durrenmatt
 14042 Agafonov
 14046 Keikai
 14047 Kohichiro
-14054 Dušek
+14054 Dusek
 14056 Kainar
 14057 Manfredstoll
 14060 Patersonewen
 14061 Nagincox
 14062 Cremaschini
 14065 Flegel
-14068 Hauserová
+14068 Hauserova
 14069 Krasheninnikov
 14071 Gadabird
 14072 Volterra
@@ -11623,7 +11623,7 @@
 14092 Gaily
 14094 Garneau
 14097 Capdepera
-14098 Šimek
+14098 Simek
 14100 Weierstrass
 14103 Manzoni
 14104 Delpino
@@ -11634,7 +11634,7 @@
 14116 Ogea
 14119 Johnprince
 14120 Espenak
-14121 Stüwe
+14121 Stuwe
 14122 Josties
 14124 Kamil
 14129 Dibucci
@@ -11657,12 +11657,12 @@
 14172 Amanolivere
 14174 Deborahsmall
 14179 Skinner
-14181 Koromházi
+14181 Koromhazi
 14182 Alley
 14185 Van Ness
 14186 Virgiliofos
-14189 Sèvre
-14190 Soldán
+14189 Sevre
+14190 Soldan
 14203 Hocking
 14206 Sehnal
 14214 Hirsch
@@ -11725,7 +11725,7 @@
 14400 Baudot
 14401 Reikoyukawa
 14403 de Machault
-14411 Clérambault
+14411 Clerambault
 14412 Wolflojewski
 14413 Geiger
 14420 Massey
@@ -11760,7 +11760,7 @@
 14502 Morden
 14504 Tsujimura
 14505 Barentine
-14509 Lučenec
+14509 Lucenec
 14511 Nickel
 14513 Alicelindner
 14515 Koichisato
@@ -11769,18 +11769,18 @@
 14526 Xenocrates
 14533 Roy
 14535 Kazuyukihanda
-14537 Týn nad Vltavou
+14537 Tyn nad Vltavou
 14539 Clocke Roeland
 14541 Sacrobosco
 14542 Karitskaya
 14543 Sajigawasuiseki
 14544 Ericjones
-14550 Lehký
+14550 Lehky
 14551 Itagaki
 14555 Shinohara
 14558 Wangganchang
 14564 Heasley
-14566 Hokuleʻa
+14566 Hokulea
 14567 Nicovincenti
 14568 Zanotta
 14570 Burkam
@@ -11796,7 +11796,7 @@
 14588 Pharrams
 14589 Stevenbyrnes
 14593 Everett
-14594 Jindrašilhán
+14594 Jindrasilhan
 14595 Peaker
 14596 Bergstralh
 14597 Waynerichie
@@ -11881,7 +11881,7 @@
 14872 Hoher List
 14873 Shoyo
 14876 Dampier
-14877 Zauberflöte
+14877 Zauberflote
 14880 Moa
 14885 Paskoff
 14888 Kanazawashi
@@ -11902,7 +11902,7 @@
 14941 Tomswift
 14942 Stevebaker
 14947 Luigibussolino
-14948 Bartuška
+14948 Bartuska
 14950 Alexandradelbo
 14953 Bevilacqua
 14959 TRIUMF
@@ -11914,13 +11914,13 @@
 14965 Bonk
 14966 Jurijvega
 14967 Madrid
-14968 Kubáček
+14968 Kubacek
 14969 Willacather
 14972 Olihainaut
 14973 Rossirosina
-14974 Počátky
+14974 Pocatky
 14975 Serasin
-14976 Josefčapek
+14976 Josefcapek
 14977 Bressler
 14980 Gustavbrom
 14981 Uenoiwakura
@@ -11953,7 +11953,7 @@
 15030 Matthewkroll
 15031 Lemus
 15032 Alexlevin
-15034 Décines
+15034 Decines
 15036 Giovannianselmi
 15037 Chassagne
 15041 Paperetti
@@ -11961,7 +11961,7 @@
 15045 Walesdymond
 15050 Heddal
 15052 Emileschweitzer
-15053 Bochníček
+15053 Bochnicek
 15056 Barbaradixon
 15057 Whitson
 15058 Billcooke
@@ -11985,7 +11985,7 @@
 15115 Yvonneroe
 15116 Jaytate
 15118 Elizabethsears
-15120 Mariafélix
+15120 Mariafelix
 15126 Brittanyanderson
 15128 Patrickjones
 15129 Sparks
@@ -12010,11 +12010,11 @@
 15199 Rodnyanskaya
 15202 Yamada-Houkoku
 15203 Grishanin
-15212 Yaroslavlʹ
+15212 Yaroslavl
 15214 Duart
 15215 Lachlanmaclean
 15220 Sumerkin
-15224 Penttilä
+15224 Penttila
 15228 Ronmiller
 15230 Alona
 15231 Ehdita
@@ -12028,13 +12028,13 @@
 15258 Alfilipenko
 15262 Abderhalden
 15263 Erwingroten
-15264 Delbrück
+15264 Delbruck
 15265 Ernsting
 15267 Kolyma
 15268 Wendelinefroger
 15273 Ruhmkorff
 15276 Diebel
-15278 Pâquet
+15278 Paquet
 15282 Franzmarc
 15294 Underwood
 15295 Tante Riek
@@ -12070,12 +12070,12 @@
 15372 Agrigento
 15374 Teta
 15375 Laetitiafoglia
-15376 Marták
+15376 Martak
 15378 Artin
 15379 Alefranz
 15381 Spadolini
 15382 Vian
-15384 Samková
+15384 Samkova
 15385 Dallolmo
 15386 Nicolini
 15387 Hanazukayama
@@ -12083,8 +12083,8 @@
 15389 Geflorsch
 15390 Znojil
 15391 Steliomancinelli
-15392 Budějický
-15395 Rükl
+15392 Budejicky
+15395 Rukl
 15396 Howardmoore
 15397 Ksoari
 15399 Hudec
@@ -12210,7 +12210,7 @@
 15651 Tlepolemos
 15663 Periphas
 15669 Pshenichner
-15671 Suzannedébarbat
+15671 Suzannedebarbat
 15672 Sato-Norio
 15673 Chetaev
 15674 Elfving
@@ -12220,9 +12220,9 @@
 15695 Fedorshpig
 15699 Lyytinen
 15702 Olegkotov
-15703 Yrjölä
+15703 Yrjola
 15705 Hautot
-15710 Böcklin
+15710 Bocklin
 15716 Narahara
 15718 Imokawa
 15723 Girraween
@@ -12240,7 +12240,7 @@
 15752 Eluard
 15760 Albion
 15761 Schumi
-15762 Rühmann
+15762 Ruhmann
 15763 Nagakubo
 15766 Strahlenberg
 15779 Scottroberts
@@ -12255,7 +12255,7 @@
 15806 Kohei
 15808 Zelter
 15810 Arawn
-15811 Nüsslein-Volhard
+15811 Nusslein-Volhard
 15817 Lucianotesi
 15818 DeVeny
 15819 Alisterling
@@ -12279,11 +12279,11 @@
 15856 Yanokoji
 15857 Touji
 15858 Davidwoods
-15860 Siráň
+15860 Siran
 15861 Ispahan
 15868 Akiyoshidai
 15869 Tullius
-15870 Obůrka
+15870 Oburka
 15882 Dingzhong
 15884 Maspalomas
 15887 Daveclark
@@ -12291,10 +12291,10 @@
 15890 Prachatice
 15891 Alissazhang
 15896 Birkhoff
-15897 Beňačková
+15897 Benackova
 15898 Kharasterteam
 15899 Silvain
-15902 Dostál
+15902 Dostal
 15903 Rolandflorrie
 15904 Halstead
 15905 Berthier
@@ -12316,14 +12316,14 @@
 15939 Fessenden
 15941 Stevegauthier
 15945 Raymondavid
-15946 Satinský
+15946 Satinsky
 15947 Milligan
 15949 Rhaeticus
 15950 Dallago
 15954 Divjotbedi
 15955 Johannesgmunden
 15957 Gemoore
-15960 Hluboká
+15960 Hluboka
 15963 Koeberl
 15964 Billgray
 15965 Robertcox
@@ -12458,7 +12458,7 @@
 16193 Nickaiser
 16194 Roderick
 16197 Bluepeter
-16198 Búzios
+16198 Buzios
 16199 Rozenblyum
 16202 Srivastava
 16203 Jessicastahl
@@ -12491,13 +12491,13 @@
 16241 Dvorsky
 16242 Licato
 16243 Rosenbauer
-16244 Brož
+16244 Broz
 16245 Katielu
 16246 Cantor
 16247 Esner
 16248 Fox
 16249 Cauchy
-16250 Delbó
+16250 Delbo
 16251 Barbifrank
 16252 Franfrost
 16253 Griffis
@@ -12527,7 +12527,7 @@
 16357 Risanpei
 16358 Plesetsk
 16367 Astronomiasvecia
-16368 Città di Alba
+16368 Citta di Alba
 16372 Demichele
 16395 Ioannpravednyj
 16397 Carlahayden
@@ -12544,8 +12544,8 @@
 16421 Roadrunner
 16424 Davaine
 16425 Chuckyeager
-16435 Fándly
-16438 Knöfel
+16435 Fandly
+16438 Knofel
 16439 Yamehoshinokawa
 16441 Kirchner
 16444 Godefroy
@@ -12568,7 +12568,7 @@
 16507 Fuuren
 16513 Vasks
 16514 Stevelia
-16515 Usmanʹgrad
+16515 Usmangrad
 16516 Efremlevitan
 16518 Akihikoito
 16522 Tell
@@ -12628,7 +12628,7 @@
 16703 Richardstrauss
 16704 Taisukekaneko
 16705 Reinhardt
-16706 Svojsík
+16706 Svojsik
 16707 Norman
 16709 Auratian
 16710 Kluyver
@@ -12661,21 +12661,21 @@
 16770 Angkor Wat
 16777 Bosma
 16779 Mittelman
-16781 Renčín
+16781 Rencin
 16783 Bychkov
 16788 Alyssarose
 16790 Yuuzou
 16794 Cucullia
 16796 Shinji
 16797 Wilkerson
-16801 Petřínpragensis
+16801 Petrinpragensis
 16802 Rainer
 16804 Bonini
 16807 Terasako
-16809 Galápagos
+16809 Galapagos
 16810 Pavelaleksandrov
 16813 Ronmastaler
-16817 Onderlička
+16817 Onderlicka
 16826 Daisuke
 16829 Richardfrench
 16847 Sanpoloamosciano
@@ -12684,7 +12684,7 @@
 16856 Banach
 16857 Goodall
 16861 Lipovetsky
-16869 Košinár
+16869 Kosinar
 16874 Kurtwahl
 16878 Tombickler
 16879 Campai
@@ -12692,8 +12692,8 @@
 16883 Adeenedenton
 16887 Blouke
 16888 Michaelbarber
-16892 Vaissière
-16900 Lozère
+16892 Vaissiere
+16900 Lozere
 16901 Johnbrooks
 16906 Giovannisilva
 16908 Groeselenberg
@@ -12701,7 +12701,7 @@
 16912 Rhiannon
 16915 Bredthauer
 16920 Larrywalker
-16929 Hurník
+16929 Hurnik
 16930 Respighi
 16934 Kevinmeng
 16938 Nalanimiller
@@ -12894,7 +12894,7 @@
 17253 Vonsecker
 17257 Strazzulla
 17258 Whalen
-17260 Kušnirák
+17260 Kusnirak
 17262 Winokur
 17265 Debennett
 17268 Yasonik
@@ -12977,15 +12977,15 @@
 17567 Hoshinoyakata
 17579 Lewkopelew
 17597 Stefanzweig
-17600 Dobřichovice
+17600 Dobrichovice
 17601 Sheldonschafer
 17602 Dr. G.
 17603 Qoyllurwasi
 17606 Wumengchao
-17607 Táborsko
-17608 Terezín
+17607 Taborsko
+17608 Terezin
 17610 Riggsbee
-17611 Jožkakubík
+17611 Jozkakubik
 17612 Whiteknight
 17615 Takeomasaru
 17617 Takimotoikuo
@@ -13007,18 +13007,18 @@
 17681 Tweedledum
 17683 Kanagawa
 17693 Wangdaheng
-17694 Jiránek
+17694 Jiranek
 17696 Bombelli
 17697 Evanchen
 17698 Racheldavis
 17700 Oleksiygolubov
-17702 Kryštofharant
+17702 Krystofharant
 17703 Bombieri
 17712 Fatherwilliam
 17720 Manuboccuni
 17734 Boole
 17736 Zhifeiyu
-17737 Sigmundjähn
+17737 Sigmundjahn
 17744 Jodiefoster
 17746 Haigha
 17748 Uedashoji
@@ -13026,7 +13026,7 @@
 17759 Hatta
 17764 Schatzman
 17768 Tigerlily
-17770 Baumé
+17770 Baume
 17771 Elsheimer
 17776 Troska
 17777 Ornicar
@@ -13045,13 +13045,13 @@
 17799 Petewilliams
 17801 Zelkowitz
 17803 Barish
-17805 Švestka
+17805 Svestka
 17806 Adolfborn
 17807 Ericpearce
 17810 Brittholden
 17813 Alisonhuenger
 17815 Kulawik
-17821 Bölsche
+17821 Bolsche
 17822 Tonireland
 17823 Bartels
 17825 Juranitch
@@ -13071,7 +13071,7 @@
 17855 Geffert
 17856 Gomes
 17857 Hsieh
-17858 Beaugé
+17858 Beauge
 17859 Galinaryabova
 17860 Roig
 17865 Odden
@@ -13271,7 +13271,7 @@
 18294 Rudenko
 18295 Borispetrov
 18301 Konyukhov
-18302 Körner
+18302 Korner
 18321 Bobrov
 18322 Korokan
 18334 Drozdov
@@ -13284,7 +13284,7 @@
 18368 Flandrau
 18376 Quirk
 18377 Vetter
-18379 Josévandam
+18379 Josevandam
 18381 Massenet
 18395 Schmiedmayer
 18396 Nellysachs
@@ -13303,18 +13303,18 @@
 18441 Cittadivinci
 18449 Rikwouters
 18453 Nishiyamayukio
-18456 Mišík
+18456 Misik
 18457 Syoheiyamamoto
 18458 Caesar
-18460 Pecková
+18460 Peckova
 18461 Seiichikanno
-18462 Riccò
+18462 Ricco
 18467 Nagatatsu
 18469 Hakodate
 18472 Hatada
 18473 Kikuchijun
 18493 Demoleon
-18497 Nevězice
+18497 Nevezice
 18498 Cesaro
 18499 Showalter
 18501 Luria
@@ -13354,7 +13354,7 @@
 18611 Baudelaire
 18617 Puntel
 18623 Pises
-18624 Prévert
+18624 Prevert
 18626 Michaelcarr
 18627 Rogerbonnet
 18628 Taniasagrati
@@ -13368,9 +13368,9 @@
 18639 Aoyunzhiyuanzhe
 18643 van Rysselberghe
 18644 Arashiyama
-18647 Václavhübner
+18647 Vaclavhubner
 18649 Fabrega
-18653 Christagünt
+18653 Christagunt
 18656 Mergler
 18658 Rajdev
 18659 Megangross
@@ -13385,7 +13385,7 @@
 18671 Zacharyrice
 18672 Ashleyamini
 18675 Amiamini
-18676 Zdeňkaplavcová
+18676 Zdenkaplavcova
 18679 Heatherenae
 18680 Weirather
 18681 Caseylipp
@@ -13404,7 +13404,7 @@
 18728 Grammier
 18729 Potentino
 18730 Wingip
-18731 Vilʹbakirov
+18731 Vilbakirov
 18734 Darboux
 18735 Chubko
 18737 Aliciaworley
@@ -13456,7 +13456,7 @@
 18838 Shannon
 18839 Whiteley
 18840 Yoshioba
-18841 Hruška
+18841 Hruska
 18843 Ningzhou
 18845 Cichocki
 18851 Winmesser
@@ -13533,8 +13533,8 @@
 19029 Briede
 19034 Santorini
 19066 Ellarie
-19079 Hernández
-19080 Martínfierro
+19079 Hernandez
+19080 Martinfierro
 19081 Mravinskij
 19082 Vikchernov
 19083 Mizuki
@@ -13549,10 +13549,10 @@
 19127 Olegefremov
 19129 Loos
 19130 Tytgat
-19132 Le Clézio
+19132 Le Clezio
 19135 Takashionaka
 19136 Strassmann
-19137 Copiapó
+19137 Copiapo
 19139 Apian
 19140 Jansmit
 19141 Poelkapelle
@@ -13566,7 +13566,7 @@
 19161 Sakawa
 19162 Wambsganss
 19165 Nariyuki
-19173 Virginiaterése
+19173 Virginiaterese
 19175 Peterpiot
 19178 Walterbothe
 19182 Pitz
@@ -13741,7 +13741,7 @@
 19612 Noordung
 19614 Montelongo
 19617 Duhamel
-19618 Maša
+19618 Masa
 19619 Bethbell
 19620 Auckland
 19625 Ovaitt
@@ -13836,7 +13836,7 @@
 19952 Ashkinazi
 19953 Takeo
 19954 Shigeyoshi
-19955 Hollý
+19955 Holly
 19962 Martynenko
 19968 Palazzolascaris
 19969 Davidfreedman
@@ -13845,12 +13845,12 @@
 19981 Bialystock
 19982 Barbaradoore
 19983 Inagekiyokazu
-19992 Schönbein
-19993 Günterseeber
+19992 Schonbein
+19993 Gunterseeber
 19994 Tresini
 19998 Binoche
 19999 Depardieu
- 
+ 
 20000 Varuna
 20001 Marinakoren
 20002 Tillysmith
@@ -13875,7 +13875,7 @@
 20021 Kevinkell
 20022 Dontown
 20023 Jackmegas
-20024 Mayrémartínez
+20024 Mayremartinez
 20025 Petronaviera
 20026 Bettyrobinson
 20027 Michaelwatson
@@ -13905,8 +13905,8 @@
 20051 Phanostrate
 20052 Kellman
 20053 Cavefish
-20054 Lágrimaríos
-20055 Maríaespínola
+20054 Lagrimarios
+20055 Mariaespinola
 20056 Roccati
 20057 Fabiorubeo
 20058 Bundalian
@@ -13945,10 +13945,10 @@
 20151 Utsunomiya
 20155 Utewindolf
 20156 Herbwindolf
-20164 Janzajíc
+20164 Janzajic
 20174 Eisenstein
-20180 Annakolény
-20187 Janapittichová
+20180 Annakoleny
+20187 Janapittichova
 20193 Yakushima
 20194 Ilarialocantore
 20195 Mariovinci
@@ -13973,9 +13973,9 @@
 20242 Sagot
 20243 Den Bosch
 20246 Frappa
-20252 Eyjafjallajökull
-20254 Úpice
-20256 Adolfneckař
+20252 Eyjafjallajokull
+20254 Upice
+20256 Adolfneckar
 20259 Alanhoffman
 20264 Chauhan
 20265 Yuyinchen
@@ -14047,7 +14047,7 @@
 20361 Romanishin
 20362 Trilling
 20363 Komitov
-20364 Zdeněkmiler
+20364 Zdenekmiler
 20366 Bonev
 20367 Erikagibb
 20371 Ekladyous
@@ -14097,9 +14097,9 @@
 20484 Janetsong
 20488 Pic-du-Midi
 20491 Ericstrege
-20495 Rimavská Sobota
-20496 Jeník
-20497 Mařenka
+20495 Rimavska Sobota
+20496 Jenik
+20497 Marenka
 20500 Avner
 20503 Adamtazi
 20512 Rothenberg
@@ -14190,8 +14190,8 @@
 20722 Aaronclevenson
 20729 Opheltius
 20730 Jorgecarvano
-20731 Mothédiniz
-20740 Sémery
+20731 Mothediniz
+20740 Semery
 20741 Jeanmichelreess
 20760 Chanmatchun
 20768 Langberg
@@ -14251,7 +14251,7 @@
 20878 Uwetreske
 20879 Chengyuhsuan
 20880 Yiyideng
-20882 Paulsánchez
+20882 Paulsanchez
 20883 Gervais
 20887 Ngwaikin
 20888 Siyueguo
@@ -14273,15 +14273,15 @@
 20965 Kutafin
 20969 Samo
 20990 Maryannehervey
-20991 Jánkollár
+20991 Jankollar
 20992 Marypearse
 20993 Virginiediscry
 20994 Atreya
 20996 Pandrosion
 20998 Houzeaudelehaie
-21000 L'Encyclopédie
+21000 L'Encyclopedie
 21001 Trogrlic
-21004 Thérèsemarjou
+21004 Theresemarjou
 21007 Lo Campo
 21009 Agilkia
 21010 Kishon
@@ -14303,7 +14303,7 @@
 21064 Yangliwei
 21065 Jamesmelka
 21073 Darksky
-21074 Rügen
+21074 Rugen
 21075 Heussinger
 21076 Kokoschka
 21082 Araimasaru
@@ -14311,7 +14311,7 @@
 21088 Chelyabinsk
 21089 Mochizuki
 21104 Sveshnikov
-21109 Sünkel
+21109 Sunkel
 21110 Karlvalentin
 21114 Bernson
 21117 Tashimaseizo
@@ -14333,7 +14333,7 @@
 21190 Martamaffei
 21192 Seccisergio
 21219 Mascagni
-21229 Sušil
+21229 Susil
 21234 Nakashima
 21236 Moneta
 21237 Suematsu
@@ -14341,7 +14341,7 @@
 21250 Kamikouchi
 21254 Jonan
 21256 Robertobattiston
-21257 Jižní Čechy
+21257 Jizni Cechy
 21258 Huckins
 21262 Kanba
 21269 Bechini
@@ -14519,8 +14519,8 @@
 21529 Johnjames
 21530 Despiau
 21531 Billcollin
-21537 Fréchet
-21539 Josefhlávka
+21537 Frechet
+21539 Josefhlavka
 21540 Itthipanyanan
 21541 Friskop
 21542 Kennajeannet
@@ -14545,7 +14545,7 @@
 21561 Masterman
 21562 Chrismessick
 21563 Chetgervais
-21564 Widmanstätten
+21564 Widmanstatten
 21568 Evanmorikawa
 21570 Muralidhar
 21571 Naegeli
@@ -14634,7 +14634,7 @@
 21678 Lindner
 21679 Bettypalermiti
 21680 Richardschwartz
-21682 Peštafrantišek
+21682 Pestafrantisek
 21683 Segal
 21684 Alinafiocca
 21685 Francomallia
@@ -14701,18 +14701,18 @@
 21770 Wangyiran
 21774 O'Brien
 21775 Tsiganis
-21776 Kryszczyńska
+21776 Kryszczynska
 21778 Andrewarren
 21782 Davemcdonald
-21785 Méchain
+21785 Mechain
 21789 Frankwasser
 21791 Mattweegman
 21795 Masi
 21798 Mitchweegman
 21799 Ciociaria
-21801 Ančerl
-21802 Svoreň
-21804 Václavneumann
+21801 Ancerl
+21802 Svoren
+21804 Vaclavneumann
 21811 Burroughs
 21813 Danwinegar
 21814 Shanawolff
@@ -14736,9 +14736,9 @@
 21860 Joannaguy
 21861 Maryhedberg
 21862 Joshuajones
-21873 Jindřichůvhradec
+21873 Jindrichuvhradec
 21887 Dipippo
-21888 Ďurech
+21888 Durech
 21891 Andreabocelli
 21900 Orus
 21903 Wallace
@@ -14771,7 +14771,7 @@
 21965 Dones
 21966 Hamadori
 21970 Tyle
-21985 Šejna
+21985 Sejna
 21986 Alexanduribe
 21989 Werntz
 21990 Garretyazzie
@@ -14836,10 +14836,10 @@
 22180 Paeon
 22183 Canonlau
 22184 Rudolfveltman
-22185 Štiavnica
+22185 Stiavnica
 22189 Gijskatgert
 22190 Stellakwee
-22191 Achúcarro
+22191 Achucarro
 22192 Vivienreuter
 22195 Nevadodelruiz
 22199 Klonios
@@ -14901,7 +14901,7 @@
 22422 Kenmount Hill
 22423 Kudlacek
 22426 Mikehanes
-22429 Jurašek
+22429 Jurasek
 22432 Pamgriffin
 22434 Peredery
 22435 Pierfederici
@@ -14910,12 +14910,12 @@
 22446 Philwhitney
 22448 Ricksaunders
 22449 Ottijeff
-22450 Nové Hrady
+22450 Nove Hrady
 22451 Tymothycoons
 22453 Shibusawaeiichi
 22454 Rosalylopes
 22456 Salopek
-22465 Karelanděl
+22465 Karelandel
 22467 Koharumi
 22469 Poloniny
 22470 Shirakawa-go
@@ -15017,7 +15017,7 @@
 22640 Shalilabaena
 22644 Matejbel
 22645 Rotblat
-22647 Lévi-Strauss
+22647 Levi-Strauss
 22656 Aaronburrows
 22666 Josephchurch
 22675 Davidcohn
@@ -15026,7 +15026,7 @@
 22686 Mishchenko
 22692 Carfrekahl
 22694 Tyndall
-22697 Mánek
+22697 Manek
 22701 Cyannaskye
 22705 Erinedwards
 22706 Ganguly
@@ -15319,9 +15319,9 @@
 23410 Vikuznetsov
 23411 Bayanova
 23436 Alekfursenko
-23437 Šíma
+23437 Sima
 23443 Kikwaya
-23444 Kukučín
+23444 Kukucin
 23448 Yasudatakeshi
 23450 Birkenstock
 23452 Drew
@@ -15349,7 +15349,7 @@
 23564 Ungaretti
 23571 Zuaboni
 23578 Baedeker
-23583 Křivský
+23583 Krivsky
 23587 Abukumado
 23608 Alpiapuane
 23612 Ramzel
@@ -15358,9 +15358,9 @@
 23628 Ichimura
 23638 Nagano
 23644 Yamaneko
-23648 Kolář
+23648 Kolar
 23649 Tohoku
-23650 Čvančara
+23650 Cvancara
 23662 Jozankei
 23663 Kalou
 23667 Savinakim
@@ -15475,7 +15475,7 @@
 23896 Tatsuaki
 23897 Daikuroda
 23898 Takir
-23899 Kornoš
+23899 Kornos
 23900 Urakawa
 23904 Amytang
 23922 Tawadros
@@ -15576,7 +15576,7 @@
 24189 Lewasserman
 24190 Xiaoyunyin
 24191 Qiaochuyuan
-24194 Paľuš
+24194 Palus
 24198 Xiaomengzeng
 24199 Tsarevsky
 24200 Peterbrooks
@@ -15602,7 +15602,7 @@
 24249 Bobbiolson
 24250 Luteolson
 24259 Chriswalker
-24260 Kriváň
+24260 Krivan
 24261 Judilegault
 24265 Banthonytwarog
 24268 Charconley
@@ -15666,7 +15666,7 @@
 24441 Jopek
 24450 Victorchang
 24451 Molion
-24455 Kaňuchová
+24455 Kanuchova
 24464 Williamkalb
 24474 Ananthram
 24480 Glavin
@@ -15686,7 +15686,7 @@
 24529 Urbach
 24532 Csabakiss
 24533 Kokhirova
-24535 Neslušan
+24535 Neslusan
 24538 Charliexie
 24541 Hangzou
 24546 Darnell
@@ -15705,12 +15705,12 @@
 24611 Svetochka
 24619 Danielarsham
 24626 Astrowizard
-24637 Olʹgusha
+24637 Olgusha
 24639 Mukhametdinov
 24640 Omiwa
 24641 Enver
 24643 MacCready
-24645 Šegon
+24645 Segon
 24646 Stober
 24647 Maksimachev
 24648 Evpatoria
@@ -15726,7 +15726,7 @@
 24679 Van Rensbergen
 24680 Alleven
 24681 Granados
-24695 Štyrský
+24695 Styrsky
 24697 Rastrelli
 24699 Schwekendiek
 24701 Elyu-Ene
@@ -15757,11 +15757,11 @@
 24827 Maryphil
 24829 Berounurbi
 24830 Kawanotomoyoshi
-24837 Mšecké Žehrovice
+24837 Msecke Zehrovice
 24838 Abilunon
 24841 Imatani
 24844 Hwanginjoon
-24847 Polesný
+24847 Polesny
 24850 Biagiomarin
 24856 Messidoro
 24857 Sperello
@@ -15794,17 +15794,17 @@
 24946 Foscolo
 24947 Hausdorff
 24948 Babote
-24949 Klačka
+24949 Klacka
 24950 Nikhilas
 24956 Qiannan
 24959 Zielenbach
 24960 Usukikenichi
 24962 Kenjitoba
 24965 Akayu
-24967 Frištenský
+24967 Fristensky
 24968 Chernyakhovsky
 24969 Lucafini
-24974 Macúch
+24974 Macuch
 24976 Jurajtoth
 24977 Tongzhan
 24981 Shigekimurakami
@@ -15869,7 +15869,7 @@
 25104 Chohyunghoon
 25105 Kimnayeon
 25106 Ryoojungmin
-25108 Boström
+25108 Bostrom
 25109 Hofving
 25111 Klokun
 25112 Mymeshkovych
@@ -15893,7 +15893,7 @@
 25142 Hopf
 25143 Itokawa
 25146 Xiada
-25151 Stefanschröder
+25151 Stefanschroder
 25152 Toplis
 25153 Tomhockey
 25154 Ayers
@@ -15982,7 +15982,7 @@
 25378 Erinlambert
 25381 Jerrynelson
 25383 Lindacker
-25384 Partizánske
+25384 Partizanske
 25399 Vonnegut
 25402 Angelanorse
 25403 Carlapiazza
@@ -16188,7 +16188,7 @@
 25836 Harishvemuri
 25851 Browning
 25858 Donherbert
-25864 Banič
+25864 Banic
 25867 DeMuth
 25869 Jacoby
 25870 Panchovigil
@@ -16285,7 +16285,7 @@
 26183 Henrigodard
 26188 Zengqingcun
 26194 Chasolivier
-26195 Černohlávek
+26195 Cernohlavek
 26197 Bormio
 26199 Aileenperry
 26200 Van Doren
@@ -16335,17 +16335,17 @@
 26307 Friedafein
 26312 Ciardi
 26313 Lorilombardi
-26314 Škvorecký
+26314 Skvorecky
 26319 Miyauchi
 26323 Wuqijin
-26328 Litomyšl
+26328 Litomysl
 26331 Kondamuri
 26332 Alyssehrlich
 26333 Joachim
 26334 Melimcdowell
 26336 Mikemcdowell
 26337 Matthewagam
-26340 Evamarková
+26340 Evamarkova
 26345 Gedankien
 26355 Grueber
 26356 Aventini
@@ -16355,7 +16355,7 @@
 26382 Charlieduke
 26386 Adelinacozma
 26389 Poojarambhia
-26390 Rušin
+26390 Rusin
 26393 Scaffa
 26394 Kandola
 26395 Megkurohara
@@ -16363,7 +16363,7 @@
 26397 Carolynsinow
 26399 Rileyennis
 26400 Roshanpalli
-26401 Sobotište
+26401 Sobotiste
 26411 Jocorbferg
 26412 Charlesyu
 26414 Amychyao
@@ -16446,8 +16446,8 @@
 26629 Zahller
 26634 Balasubramanian
 26636 Ericabroman
-26639 Murgaš
-26640 Bahýľ
+26639 Murgas
+26640 Bahyl
 26642 Schlenoff
 26652 Klinglesmith
 26653 Amymeyer
@@ -16530,7 +16530,7 @@
 26887 Tokyogiants
 26891 Johnbutler
 26896 Josefhudec
-26897 Červená
+26897 Cervena
 26906 Rubidia
 26908 Lebesgue
 26909 Lefschetz
@@ -16554,13 +16554,13 @@
 26954 Skadiang
 26955 Lie
 26960 Liouville
-26963 Palorapavý
+26963 Palorapavy
 26969 Biver
-26970 Eliáš
-26971 Sezimovo Ústí
-26973 Lála
+26970 Elias
+26971 Sezimovo Usti
+26973 Lala
 26984 Fernand-Roland
-26986 Čáslavská
+26986 Caslavska
 26990 Culbertson
 26993 Littlewood
 26998 Iriso
@@ -16582,7 +16582,7 @@
 27071 Rangwala
 27072 Aggarwal
 27074 Etatolia
-27079 Vsetín
+27079 Vsetin
 27082 Donaldson-Hanna
 27083 Alethialittle
 27084 Heidilarson
@@ -16610,7 +16610,7 @@
 27125 Siyilee
 27126 Bonnielei
 27130 Dipaola
-27132 Ježek
+27132 Jezek
 27141 Krystleleung
 27147 Mercedessosa
 27150 Annasante
@@ -16832,7 +16832,7 @@
 27748 Vivianhoette
 27749 Tsukadaken
 27758 Michelson
-27764 von Flüe
+27764 von Flue
 27765 Brockhaus
 27775 Lilialmanzor
 27776 Cortland
@@ -16881,8 +16881,8 @@
 27955 Yasumasa
 27958 Giussano
 27959 Fagioli
-27960 Dobiáš
-27961 Kostelecký
+27960 Dobias
+27961 Kostelecky
 27963 Hartkopf
 27966 Changguang
 27967 Beppebianchi
@@ -16895,7 +16895,7 @@
 27983 Bernardi
 27984 Herminefranz
 27985 Remanzacco
-27986 Hanuš
+27986 Hanus
 27988 Menabrea
 27991 Koheijimiura
 27997 Bandos
@@ -17001,7 +17001,7 @@
 28321 Arnabdey
 28322 Kaeberich
 28324 Davidcampeau
-28331 Dianebérard
+28331 Dianeberard
 28340 Yukihiro
 28341 Bingaman
 28342 Haverhals
@@ -17074,7 +17074,7 @@
 28511 Marggraff
 28512 Tanyuan
 28513 Guo
-28516 Möbius
+28516 Mobius
 28519 Sweetman
 28521 Mattmcintyre
 28524 Ebright
@@ -17090,7 +17090,7 @@
 28538 Ruisong
 28542 Cespedes-Nano
 28543 Solis-Gozar
-28547 Johannschröter
+28547 Johannschroter
 28551 Paulomi
 28553 Bhupatiraju
 28554 Adambowman
@@ -17240,7 +17240,7 @@
 28801 Maryanderson
 28802 Boborino
 28803 Roe
-28805 Föhring
+28805 Fohring
 28807 Lisawaller
 28808 Ananthnarayan
 28809 Pierrebeck
@@ -17338,7 +17338,7 @@
 29148 Palzer
 29157 Higashinihon
 29159 Asakawa
-29160 São Paulo
+29160 Sao Paulo
 29167 Masataka
 29185 Reich
 29186 Lake Tekapo
@@ -17390,7 +17390,7 @@
 29402 Obelix
 29404 Hikarusato
 29408 Katoyuko
-29419 Mládková
+29419 Mladkova
 29420 Ikuo
 29427 Oswaldthomas
 29428 Ettoremajorana
@@ -17407,21 +17407,21 @@
 29448 Pappos
 29449 Taharbenjelloun
 29450 Tomohiroohno
-29456 Evakrchová
+29456 Evakrchova
 29457 Marcopolo
 29458 Pearson
 29463 Benjaminpeirce
-29464 Leonmiš
+29464 Leonmis
 29467 Shandongdaxue
 29470 Higgs
 29471 Spejbl
-29472 Hurvínek
-29473 Krejčí
+29472 Hurvinek
+29473 Krejci
 29474 Toyoshima
-29476 Kvíčala
-29477 Zdíkšíma
+29476 Kvicala
+29477 Zdiksima
 29483 Boeker
-29484 Honzaveselý
+29484 Honzavesely
 29490 Myslbek
 29491 Pfaff
 29508 Bottinelli
@@ -17457,7 +17457,7 @@
 29638 Eeshakhare
 29641 Kaikloepfer
 29642 Archiekong
-29643 Plücker
+29643 Plucker
 29645 Kutsenok
 29646 Polya
 29647 Poncelet
@@ -17472,7 +17472,7 @@
 29663 Evanmackay
 29668 Ipf
 29672 Salvo
-29674 Raušal
+29674 Rausal
 29675 Ippolitonievo
 29681 Saramanshad
 29685 Soibamansoor
@@ -17516,7 +17516,7 @@
 29808 Youssoliman
 29812 Aaronsolomon
 29818 Aryosorayya
-29824 Kalmančok
+29824 Kalmancok
 29825 Dunyazade
 29827 Chrisbennett
 29829 Engels
@@ -17562,7 +17562,7 @@
 29992 Yasminezubi
 29994 Zuoyu
 29995 Arshavsky
- 
+ 
 30000 Camenzind
 30004 Mikewilliams
 30005 Stevenchen
@@ -17610,7 +17610,7 @@
 30081 Zarinrahman
 30085 Kevingarbe
 30087 Georgeputnam
-30088 Deprá
+30088 Depra
 30089 Terikelley
 30090 Grossano
 30091 Stephenbrown
@@ -17705,7 +17705,7 @@
 30230 Ralucarufu
 30231 Patorojo
 30232 Stephaniejarmak
-30234 Dudziński
+30234 Dudzinski
 30235 Kimmiller
 30240 Morgensen
 30241 Donnamower
@@ -17715,14 +17715,14 @@
 30248 Kimstinson
 30249 Zamora
 30251 Ashkin
-30252 Textorisová
-30253 Vítek
-30254 Kamiński
+30252 Textorisova
+30253 Vitek
+30254 Kaminski
 30255 Bohner
 30257 Leejanel
 30259 Catherineli
 30264 Galluccio
-30265 Rominagarcía
+30265 Rominagarcia
 30267 Raghuvanshi
 30268 Jessezhang
 30269 Anandapadmanaban
@@ -17742,7 +17742,7 @@
 30289 Richardcarlson
 30295 Anvitagupta
 30296 Bricehuang
-30297 Cupák
+30297 Cupak
 30298 Somyakhare
 30299 Shashkishore
 30301 Kuditipudi
@@ -17832,16 +17832,16 @@
 30533 Saeidzoonemat
 30534 Holler
 30535 Sarahgreenstreet
-30536 Erondón
+30536 Erondon
 30537 Matteocrismani
 30539 Raissamuller
 30548 Markburchell
 30553 Arcoverde
 30558 Jamesoconnor
-30562 Güttler
+30562 Guttler
 30564 Olomouc
 30566 Stokes
-30569 Dybczyński
+30569 Dybczynski
 30575 Anacarolina
 30577 Pinchuk
 30585 Firenze
@@ -17853,7 +17853,7 @@
 30708 Echepolos
 30718 Records
 30719 Isserstedt
-30720 Fernándezlajús
+30720 Fernandezlajus
 30722 Biblioran
 30724 Peterburgtrista
 30725 Klimov
@@ -17861,17 +17861,17 @@
 30769 Kaydash
 30773 Schelde
 30775 Lattu
-30778 Döblin
+30778 Doblin
 30779 Sankt-Stephan
 30785 Greeley
 30786 Karkoschka
 30788 Angekauffmann
 30797 Chimborazo
-30798 Graubünden
+30798 Graubunden
 30805 Mikimasa
 30821 Chernetenko
 30826 Coulomb
-30827 Lautenschläger
+30827 Lautenschlager
 30828 Bethe
 30829 Wolfwacker
 30830 Jahn
@@ -17885,7 +17885,7 @@
 30844 Hukeller
 30847 Lampert
 30850 Vonsiemens
-30851 Reißfelder
+30851 Reifelder
 30852 Debye
 30857 Parsec
 30879 Hiroshikanai
@@ -17930,11 +17930,11 @@
 31098 Frankhill
 31104 Annanetrebko
 31105 Oguniyamagata
-31109 Janpalouš
+31109 Janpalous
 31110 Clapas
 31113 Stull
 31122 Brooktaylor
-31124 Slavíček
+31124 Slavicek
 31129 Langyatai
 31134 Zurria
 31139 Garnavich
@@ -17955,11 +17955,11 @@
 31231 Uthmann
 31232 Slavonice
 31234 Bea
-31238 Kroměříž
+31238 Kromeriz
 31239 Michaeljames
 31240 Katrianne
 31244 Guidomonzino
-31249 Renéefleming
+31249 Reneefleming
 31254 Totucciogrisanti
 31266 Tournefort
 31267 Kuldiga
@@ -17976,8 +17976,8 @@
 31312 Fangerhai
 31313 Kanwingyi
 31319 Vespucci
-31323 Lysá hora
-31324 Jiřímrázek
+31323 Lysa hora
+31324 Jirimrazek
 31336 Chenyuhsin
 31338 Lipperhey
 31344 Agathon
@@ -18106,7 +18106,7 @@
 31642 Soyounchoi
 31643 Natashachugh
 31648 Pedrosada
-31650 Frýdek-Místek
+31650 Frydek-Mistek
 31655 Averyclowes
 31660 Maximiliandu
 31661 Eggebraaten
@@ -18149,7 +18149,7 @@
 31778 Richardschnur
 31787 Darcylawson
 31807 Shaunalennon
-31823 Viète
+31823 Viete
 31824 Elatus
 31828 Martincordiner
 31836 Poshedly
@@ -18166,7 +18166,7 @@
 31861 Darleshimizu
 31862 Garfinkle
 31863 Hazelcoffman
-31872 Terkán
+31872 Terkan
 31873 Toliou
 31874 Kosiarek
 31875 Saksena
@@ -18244,7 +18244,7 @@
 32005 Roberthalfon
 32006 Hallisey
 32007 Amirhelmy
-32008 Adriángalád
+32008 Adriangalad
 32013 Elkekersten
 32014 Bida
 32018 Robhenning
@@ -18298,7 +18298,7 @@
 32093 Zhengyan
 32096 Puckett
 32101 Williamyin
-32103 Reʼemsari
+32103 Reemsari
 32104 Emmarainey
 32105 Plesko
 32106 Dawngraninger
@@ -18401,7 +18401,7 @@
 32483 Kumar
 32486 Leospohl
 32487 Eschrig
-32496 Deïopites
+32496 Deiopites
 32516 Simoneieva
 32518 Ktramesh
 32519 Timholt
@@ -18410,7 +18410,7 @@
 32524 Roberthowie
 32525 Kynanhughson
 32527 Junko
-32531 Ulrikababiaková
+32531 Ulrikababiakova
 32532 Thereus
 32533 Tranpham
 32544 Debjaniroy
@@ -18434,7 +18434,7 @@
 32590 Cynthiachen
 32593 Crotty
 32594 Nathandeng
-32596 Čepek
+32596 Cepek
 32597 Alicelucchetti
 32598 Vanialorenzi
 32599 Pedromachado
@@ -18480,7 +18480,7 @@
 32810 Steinbach
 32811 Apisaon
 32821 Posch
-32853 Döbereiner
+32853 Dobereiner
 32855 Zollitsch
 32858 Kitakamigawa
 32890 Schwob
@@ -18516,8 +18516,8 @@
 33044 Erikdavy
 33054 Eduardorossi
 33056 Ogunimachi
-33058 Kovařík
-33061 Václavmorava
+33058 Kovarik
+33061 Vaclavmorava
 33100 Udine
 33103 Pintar
 33113 Julabeth
@@ -18525,17 +18525,17 @@
 33118 Naiknaware
 33129 Ivankrasko
 33135 Davidrisoldi
-33137 Strejček
+33137 Strejcek
 33151 Tomasobelloni
 33154 Talent
 33157 Pertile
-33158 Rúfus
+33158 Rufus
 33160 Denismukwege
 33162 Sofiarandich
 33163 Alainaspect
 33165 Joschhambsch
 33175 Isabellegleeson
-33179 Arsènewenger
+33179 Arsenewenger
 33181 Aalokpatwa
 33187 Pizzolato
 33188 Shreya
@@ -18577,7 +18577,7 @@
 33270 Katiecrysup
 33274 Beaubingham
 33282 Arjunramani
-33285 Martínleiva
+33285 Martinleiva
 33287 Lasue
 33288 Shixian
 33290 Carloszuluaga
@@ -18586,7 +18586,7 @@
 33323 Lucaspaganini
 33328 Archanaverma
 33329 Stefanwan
-33330 Barèges
+33330 Bareges
 33334 Turon
 33335 Guibert
 33337 Amberyang
@@ -18599,7 +18599,7 @@
 33353 Chattopadhyay
 33372 Jonathanchung
 33376 Medi
-33377 Večerníček
+33377 Vecernicek
 33379 Rohandalvi
 33382 Indranidas
 33383 Edupuganti
@@ -18820,7 +18820,7 @@
 33872 Kristichung
 33875 Laurencooney
 33879 Kierstendeen
-33882 Schönbächler
+33882 Schonbachler
 33886 Lilydeveau
 33889 Jengebo
 33892 Meligingrich
@@ -18857,7 +18857,7 @@
 33964 Patrickshober
 33970 Conorbenson
 33971 Alexdavis
-33972 Fuentesmuñoz
+33972 Fuentesmunoz
 33973 Xiyunhou
 33974 Alexmeyer
 33975 Shotatakahashi
@@ -19214,7 +19214,7 @@
 34743 Kollipara
 34746 Thoon
 34752 Venkatkrishnan
-34753 Zdeněkmatyáš
+34753 Zdenekmatyas
 34760 Ciccone
 34766 Everettkroll
 34769 Remilabeille
@@ -19278,11 +19278,11 @@
 35087 von Sydow
 35093 Akicity
 35137 Meudon
-35165 Québec
+35165 Quebec
 35197 Longmire
 35222 Delbarrio
 35229 Benckert
-35233 Krčín
+35233 Krcin
 35237 Matzner
 35239 Ottoseydl
 35265 Takeosaitou
@@ -19303,15 +19303,15 @@
 35347 Tallinn
 35350 Lespaul
 35352 Texas
-35353 Nadapravcová
-35355 Honzík
-35356 Vondrák
+35353 Nadapravcova
+35355 Honzik
+35356 Vondrak
 35357 Haraldlesch
 35358 Lorifini
 35364 Donaldpray
 35365 Cooney
 35366 Kaifeng
-35367 Dobrédílo
+35367 Dobredilo
 35370 Daisakyu
 35371 Yokonozaki
 35391 Uzan
@@ -19323,7 +19323,7 @@
 35435 Erikayang
 35441 Kyoko
 35444 Giuliamarconcini
-35446 Stáňa
+35446 Stana
 35459 Klaurieger
 35461 Mazzucato
 35462 Maramkaire
@@ -19334,7 +19334,7 @@
 35621 Lorius
 35623 Pedrodavid
 35646 Estela
-35655 Étienneklein
+35655 Etienneklein
 35683 Broumov
 35703 Lafiascaia
 35725 Tramuntana
@@ -19349,13 +19349,13 @@
 36036 Bonucci
 36037 Linenschmidt
 36039 Joandunham
-36060 Babuška
+36060 Babuska
 36061 Haldane
 36169 Grosseteste
-36174 Podolský
+36174 Podolsky
 36177 Tonysharon
 36182 Montigiani
-36184 Pavelbožek
+36184 Pavelbozek
 36187 Travisbarman
 36213 Robertotisgreen
 36226 Mackerras
@@ -19377,7 +19377,7 @@
 36782 Okauchitakashige
 36783 Kagamino
 36800 Katarinawitt
-36888 Škrabal
+36888 Skrabal
 36983 Sumner
 36986 Stickle
 36992 Jakubek
@@ -19386,7 +19386,7 @@
 37022 Robertovittori
 37044 Papymarcel
 37117 Narcissus
-37141 Povolný
+37141 Povolny
 37163 Huachucaclub
 37218 Kimyoonyoung
 37222 Sansom
@@ -19398,7 +19398,7 @@
 37349 Lynnaequick
 37391 Ebre
 37392 Yukiniall
-37432 Piszkéstető
+37432 Piszkesteto
 37452 Spirit
 37471 Popocatepetl
 37519 Amphios
@@ -19415,7 +19415,7 @@
 37596 Cotahuasi
 37601 Vicjen
 37607 Regineolsen
-37608 Löns
+37608 Lons
 37609 LaVelle
 37623 Valmiera
 37627 Lucaparmitano
@@ -19448,7 +19448,7 @@
 37853 Danielbarbier
 37859 Bobkoff
 37865 Georgesattard
-37939 Hašler
+37939 Hasler
 37941 Dawidowicz
 38018 Louisneefs
 38019 Jeanmariepelt
@@ -19464,17 +19464,17 @@
 38086 Beowulf
 38203 Sanner
 38237 Roche
-38238 Holíč
+38238 Holic
 38245 Marcospontes
-38246 Palupín
+38246 Palupin
 38250 Tartois
 38268 Zenkert
 38269 Gueymard
 38270 Wettzell
 38431 Jeffbeck
-38442 Szilárd
+38442 Szilard
 38454 Boroson
-38461 Jiřítrnka
+38461 Jiritrnka
 38470 Deleflie
 38540 Stevens
 38541 Rustichelli
@@ -19488,7 +19488,7 @@
 38667 de Lignie
 38669 Michikawa
 38671 Verdaguer
-38674 Těšínsko
+38674 Tesinsko
 38684 Velehrad
 38821 Linchinghsia
 38823 Nijland
@@ -19516,14 +19516,14 @@
 39405 Mosigkau
 39415 Janeausten
 39420 Elizabethgaskell
-39427 Charlottebrontë
-39428 Emilybrontë
-39429 Annebrontë
+39427 Charlottebronte
+39428 Emilybronte
+39429 Annebronte
 39463 Phyleus
-39464 Pöppelmann
+39464 Poppelmann
 39509 Kardashev
 39516 Lusigny
-39529 Vatnajökull
+39529 Vatnajokull
 39536 Lenhof
 39539 Emmadesmet
 39540 Borchert
@@ -19533,9 +19533,9 @@
 39558 Kishine
 39564 Tarsia
 39566 Carllewis
-39571 Pückler
+39571 Puckler
 39635 Kusatao
-39641 Pézy
+39641 Pezy
 39645 Davelharris
 39653 Carnera
 39655 Muneharuasada
@@ -19562,13 +19562,13 @@
 39864 Poggiali
 39871 Lucagrazzini
 39875 Matteolombardo
-39877 Deverchére
-39880 Dobšinský
+39877 Deverchere
+39880 Dobsinsky
 39882 Edgarmitchell
 39890 Bobstephens
-39892 Evaseidlová
+39892 Evaseidlova
 39930 Kalauch
-39971 József
+39971 Jozsef
 39991 Iochroma
 40007 Vieuxtemps
 40023 ANPCEN
@@ -19583,17 +19583,17 @@
 40209 Morrispodolak
 40210 Peixinho
 40227 Tahiti
-40230 Rožmberk
+40230 Rozmberk
 40233 Baradeau
 40241 Deienno
 40248 Yukikajiura
 40328 Dow
 40409 Taichikato
-40410 Příhoda
+40410 Prihoda
 40436 Sylviecoyaud
-40440 Dobrovský
+40440 Dobrovsky
 40441 Jungmann
-40444 Palacký
+40444 Palacky
 40447 Lorenzoni
 40457 Williamkuhn
 40459 Rektorys
@@ -19611,11 +19611,11 @@
 40956 Ericamsel
 40981 Stephenholland
 40994 Tekaridake
-40995 Mühleis
+40995 Muhleis
 41030 Mariawomack
 41049 Van Citters
 41107 Ropakov
-41184 Devogèle
+41184 Devogele
 41199 Wakanaootaki
 41206 Sciannameo
 41213 Mimoun
@@ -19657,8 +19657,8 @@
 42479 Tolik
 42482 Fischer-Dieskau
 42485 Stendhal
-42487 Ångström
-42492 Brüggenthies
+42487 Angstrom
+42492 Bruggenthies
 42516 Oistrach
 42522 Chuckberry
 42523 Ragazzileonardo
@@ -19673,14 +19673,14 @@
 42618 Bardabelias
 42665 Kristinblock
 42697 Lucapaolini
-42733 Andrébaranne
+42733 Andrebaranne
 42747 Fuser
 42748 Andrisani
 42772 Kokotanekova
 42775 Bianchini
 42776 Casablanca
 42795 Derekmuller
-42849 Podjavorinská
+42849 Podjavorinska
 42910 Samanthalawler
 42924 Betlem
 42929 Francini
@@ -19712,7 +19712,7 @@
 43597 Changshaopo
 43605 Gakuho
 43657 Bobmiller
-43667 Dumlupınar
+43667 Dumlupnar
 43669 Winterthur
 43706 Iphiklos
 43722 Carloseduardo
@@ -19732,7 +19732,7 @@
 43803 Wakakinosakura
 43804 Peterting
 43806 Augustepiccard
-43813 Kühner
+43813 Kuhner
 43841 Marcustacitus
 43843 Cleynaerts
 43844 Rowling
@@ -19747,8 +19747,8 @@
 43924 Martoni
 43931 Yoshimi
 43935 Danshechtman
-43954 Chýnov
-43955 Fixlmüller
+43954 Chynov
+43955 Fixlmuller
 43956 Elidoro
 43957 Invernizzi
 43971 Gabzdyl
@@ -19763,8 +19763,8 @@
 44016 Jimmypage
 44027 Termain
 44033 Michez
-44039 de Sahagún
-44041 Françoiselaunay
+44039 de Sahagun
+44041 Francoiselaunay
 44103 Aldana
 44110 Cassegrain
 44117 Haroldlarson
@@ -19782,9 +19782,9 @@
 44456 Vidal-Madjar
 44473 Randytatum
 44475 Hikarumasai
-44479 Oláheszter
+44479 Olaheszter
 44527 Tonnon
-44530 Horáková
+44530 Horakova
 44570 Yuribeletsky
 44574 Lavoratti
 44597 Thoreau
@@ -19794,7 +19794,7 @@
 44715 Paolovezzosi
 44717 Borgoamozzano
 44821 Amadora
-44885 Vodička
+44885 Vodicka
 45027 Cosquer
 45073 Doyanrose
 45261 Decoen
@@ -19803,7 +19803,7 @@
 45300 Thewrewk
 45305 Paulscherrer
 45338 Ericevans
-45492 Sławomirbreiter
+45492 Sawomirbreiter
 45500 Motegi
 45509 Robertward
 45510 Kashuba
@@ -19812,7 +19812,7 @@
 45517 Jett
 45518 Larrykrozel
 45519 Triebold
-45580 Renéracine
+45580 Reneracine
 45594 Wendyrichard
 45595 Inman
 45596 Molliesugden
@@ -19835,7 +19835,7 @@
 46053 Davidpatterson
 46076 Robertschottland
 46083 Aaronkingery
-46095 Frédérickoby
+46095 Frederickoby
 46110 Altheamoorhead
 46208 Gicquel
 46270 Margaretlandis
@@ -19854,7 +19854,7 @@
 46592 Marinawatanabe
 46595 Kita-Kyushu
 46596 Tobata
-46610 Bésixdouze
+46610 Besixdouze
 46632 RISE
 46643 Yanase
 46644 Lagia
@@ -19879,7 +19879,7 @@
 46917 Rogercayrel
 46920 Suzanedwards
 46925 Bradyharan
-46977 Kraków
+46977 Krakow
 46991 Carolinesoubiran
 47002 Harlingten
 47005 Chengmaolan
@@ -19900,7 +19900,7 @@
 47171 Lempo
 47219 Heatherkoehler
 47293 Masamitsu
-47294 Blanský les
+47294 Blansky les
 47466 Mayatoyoshima
 47473 Lorenzopinna
 47494 Gerhardangl
@@ -19916,11 +19916,11 @@
 47843 Maxson
 47851 Budine
 47862 Nancyramos
-47891 García-Migani
+47891 Garcia-Migani
 47931 Stifler
 48047 Houghten
 48070 Zizza
-48159 Saint-Véran
+48159 Saint-Veran
 48171 Juza
 48200 Nishiokatakashi
 48295 Liamgroah
@@ -19943,14 +19943,14 @@
 48458 Merian
 48461 Sabrinamaricia
 48471 Orchiston
-48472 Mössbauer
+48472 Mossbauer
 48480 Falk
 48482 Oruki
 48492 Utewielen
 48495 Ryugado
 48529 von Wrangel
 48575 Hawaii
-48588 Raschröder
+48588 Raschroder
 48607 Yamagatatemodai
 48616 Yeminghan
 48619 Jianli
@@ -19958,7 +19958,7 @@
 48628 Janetfender
 48631 Hasantufan
 48636 Huangkun
-48638 Třebíč
+48638 Trebic
 48640 Eziobosso
 48643 Allen-Beach
 48650 Kazanuniversity
@@ -19976,7 +19976,7 @@
 48779 Mariko
 48782 Fierz
 48785 Pitter
-48794 Stolzová
+48794 Stolzova
 48798 Penghuanwu
 48799 Tashikuergan
 48801 Penninger
@@ -19984,24 +19984,24 @@
 48838 Markackermann
 48842 Alexmazzanti
 48844 Belloves
-48846 Agnésacker
+48846 Agnesacker
 48886 Jonanderson
 48888 REXIS
 48909 Laurake
 48915 Patbrandebourg
-48934 Kočanová
+48934 Kocanova
 48960 Clouet
 49036 Pelion
 49106 Janry
 49108 Gouttesolard
 49109 Agnesraab
-49110 Květafialová
+49110 Kvetafialova
 49118 Sergerochain
 49187 Zucchini
 49265 Raphaeljimenez
 49272 Bryce Canyon
 49291 Thechills
-49294 Jacqclairnoëns
+49294 Jacqclairnoens
 49296 Lucdettwiller
 49350 Katheynix
 49382 Lynnokamoto
@@ -20016,7 +20016,7 @@
 49481 Gisellarubini
 49500 Ishitoshi
 49501 Basso
-49698 Váchal
+49698 Vachal
 49699 Hidetakasato
 49700 Mather
 49702 Koikeda
@@ -20055,7 +20055,7 @@
 51023 Benavidezlozano
 51166 Huimanto
 51178 Geraintjones
-51261 Holuša
+51261 Holusa
 51406 Massimocalvani
 51415 Tovinder
 51419 Deshapriya
@@ -20080,7 +20080,7 @@
 51874 Alessiosquilloni
 51895 Biblialexa
 51915 Andry
-51983 Hönig
+51983 Honig
 51985 Kirby
 52005 Maik
 52008 Johnnaka
@@ -20103,9 +20103,9 @@
 52292 Kamdzhalov
 52293 Mommsen
 52294 Detlef
-52295 Köppen
+52295 Koppen
 52301 Qumran
-52308 Hanspeterröser
+52308 Hanspeterroser
 52309 Philnicolai
 52316 Daveslater
 52334 Oberammergau
@@ -20137,7 +20137,7 @@
 52691 Maryrobinettek
 52703 Bernardleblanc
 52767 Ophelestes
-52860 Méganediet
+52860 Meganediet
 52872 Okyrhoe
 52873 Grootaerd
 52959 Danieladepaulis
@@ -20156,26 +20156,26 @@
 53127 Adrienklotz
 53137 Gabytutty
 53157 Akaishidake
-53159 Mysliveček
+53159 Myslivecek
 53237 Simonson
 53250 Beucher
 53252 Sardegna
 53253 Zeiler
 53256 Sinitiere
 53258 Kerryannlecky
-53285 Mojmír
+53285 Mojmir
 53311 Deucalion
 53316 Michielford
 53435 Leonard
 53468 Varros
 53537 Zhangyun
 53629 Andrewpotter
-53640 Marché
+53640 Marche
 53817 Gertrudebacon
 53818 Isispogson
-53839 Schölkopf
+53839 Scholkopf
 53843 Antjiekrog
-53910 Jánfischer
+53910 Janfischer
 54182 Galsarid
 54237 Hiroshimanabe
 54288 Daikikawasaki
@@ -20247,7 +20247,7 @@
 55810 Fabiofazio
 55815 Melindakim
 55838 Hagongda
-55844 Bičák
+55844 Bicak
 55845 Marco
 55854 Stoppani
 55863 Jeffwayne
@@ -20289,7 +20289,7 @@
 58097 Alimov
 58098 Quirrenbach
 58145 Gus
-58152 Natsöderblom
+58152 Natsoderblom
 58163 Minnesang
 58164 Reiwanohoshi
 58184 Masayukiyamamoto
@@ -20309,19 +20309,19 @@
 58417 Belzoni
 58418 Luguhu
 58424 Jamesdunlop
-58440 Zdeněkstuchlík
+58440 Zdenekstuchlik
 58441 Thomastestoni
-58460 Le Mouélic
+58460 Le Mouelic
 58466 Santoka
 58495 Hajin
 58498 Octaviopaz
-58499 Stüber
+58499 Stuber
 58534 Logos
 58535 Pattillo
 58569 Eboshiyamakouen
 58572 Romanella
 58573 Serpieri
-58578 Žídek
+58578 Zidek
 58579 Ehrenberg
 58580 Elenacuoghi
 58595 Joepollock
@@ -20335,18 +20335,18 @@
 58671 Diplodocus
 58672 Remigio
 58679 Brenig
-58682 Alenašolcová
+58682 Alenasolcova
 58691 Luigisannino
 58702 Tizianabitossi
 58707 Kyoshi
-58709 Zenocolò
+58709 Zenocolo
 58714 Boya
 58896 Schlosser
 58931 Palmys
 58941 Guishida
 59000 Beiguan
 59001 Senftenberg
-59045 Gérardlemaitre
+59045 Gerardlemaitre
 59087 Maccacaro
 59232 Sfiligoi
 59238 Lilin
@@ -20356,11 +20356,11 @@
 59389 Oskarvonmiller
 59390 Habermas
 59417 Giocasilli
-59419 Prešov
+59419 Presov
 59425 Xuyangsheng
 59470 Paveltoufar
-59793 Clapiès
-59797 Píšala
+59793 Clapies
+59797 Pisala
 59800 Astropis
 59804 Dickjoyce
 59828 Ossikar
@@ -20369,7 +20369,7 @@
 59964 Pierremartin
 59970 Morate
 60000 Miminko
-60001 Adélka
+60001 Adelka
 60006 Holgermandel
 60008 Jarda
 60148 Seanurban
@@ -20389,14 +20389,14 @@
 61189 Ohsadaharu
 61190 Johnschutt
 61195 Martinoli
-61208 Stonařov
+61208 Stonarov
 61342 Lovejoy
 61384 Arturoromer
 61386 Namikoshi
 61400 Voxandreae
 61401 Schiff
 61402 Franciseveritt
-61404 Očenášek
+61404 Ocenasek
 61444 Katokimiko
 61912 Storrs
 61913 Lanning
@@ -20411,14 +20411,14 @@
 63129 Courtemanche
 63145 Choemuseon
 63156 Yicheon
-63162 Davidčapek
+63162 Davidcapek
 63163 Jerusalem
 63305 Bobkepple
 63307 Barbarawilson
 63363 Guengerich
 63387 Brazos Bend
 63389 Noshiro
-63440 Rożek
+63440 Rozek
 63463 Calamandrei
 63498 Whitehead
 63528 Kocherhans
@@ -20465,7 +20465,7 @@
 65697 Paulandrew
 65698 Emmarochelle
 65708 Ehrlich
-65712 Schneidmüller
+65712 Schneidmuller
 65716 Ohkinohama
 65769 Mahalia
 65770 Leonardotestoni
@@ -20476,12 +20476,12 @@
 65821 De Curtis
 65848 Enricomari
 65852 Alle
-65859 Mädler
+65859 Madler
 65866 Wynneozrics
 65885 Lubenow
 65894 Echizenmisaki
 66000 Duilialoncao
-66151 Josefhanuš
+66151 Josefhanus
 66207 Carpi
 66250 Giovanardi
 66391 Moshup
@@ -20491,28 +20491,28 @@
 66583 Nicandra
 66652 Borasisi
 66661 Wallin
-66667 Kambič
+66667 Kambic
 66669 Aradac
 66671 Sfasu
 66843 Pulido
 66846 Franklederer
 66856 Stephenvoss
 66885 Wangxiaomo
-66934 Kálalová
+66934 Kalalova
 66939 Franscini
 66999 Cudnik
 67019 Hlohovec
 67070 Rinaldi
 67085 Oppenheimer
 67235 Fairbank
-67308 Öveges
+67308 Oveges
 67711 Mitsuotoyokawa
 67712 Kimotsuki
 67853 Iwamura
 67979 Michelory
 68021 Taiki
 68109 Naomipasachoff
-68114 Deákferenc
+68114 Deakferenc
 68144 Mizser
 68218 Nealgalt
 68325 Begues
@@ -20521,7 +20521,7 @@
 68718 Safi
 68719 Jangyeongsil
 68730 Straizys
-68779 Schöninger
+68779 Schoninger
 68853 Vaimaca
 68947 Brunofunk
 68948 Mikeoates
@@ -20538,7 +20538,7 @@
 69273 Derbyastro
 69275 Wiesenthal
 69286 von Liebig
-69287 Günthereichhorn
+69287 Gunthereichhorn
 69288 Berlioz
 69295 Stecklum
 69311 Russ
@@ -20566,7 +20566,7 @@
 70207 Davidunlap
 70210 Cesarelombardi
 70401 Davidbishop
-70409 Srnín
+70409 Srnin
 70418 Kholopov
 70444 Genovali
 70446 Pugh
@@ -20589,7 +20589,7 @@
 70782 Vinceelliott
 70783 Kenwilliams
 70850 Schur
-70936 Kámen
+70936 Kamen
 70942 Vandanashiva
 70995 Mikemorton
 71000 Hughdowns
@@ -20618,9 +20618,9 @@
 72042 Dequeiroz
 72059 Heojun
 72060 Hohhot
-72071 Gábor
+72071 Gabor
 72432 Kimrobinson
-72447 Polińska
+72447 Polinska
 72543 Simonemarchi
 72545 Robbiiwessen
 72596 Zilkha
@@ -20663,7 +20663,7 @@
 73670 Kurthopf
 73686 Nussdorf
 73687 Thomas Aquinas
-73692 Gürtler
+73692 Gurtler
 73693 Dorschner
 73699 Landaupfalz
 73700 von Kues
@@ -20684,18 +20684,18 @@
 73936 Takeyamamoto
 73955 Asaka
 73984 Claudebernard
-74024 Hrabě
+74024 Hrabe
 74092 Xiangda
-74370 Kolářjan
+74370 Kolarjan
 74400 Streaky
 74439 Brenden
 74503 Madola
 74509 Gillett
 74625 Tieproject
-74764 Rudolfpešek
+74764 Rudolfpesek
 74818 Iten
 74824 Tarter
-75009 Petervereš
+75009 Peterveres
 75058 Hanau
 75063 Koestler
 75072 Timerskine
@@ -20707,7 +20707,7 @@
 75562 Wilkening
 75564 Audubon
 75569 IRSOL
-75570 Jenőwigner
+75570 Jenowigner
 75591 Stonemose
 75823 Csokonai
 75829 Alyea
@@ -20726,7 +20726,7 @@
 76000 Juliuserving
 76272 De Jong
 76309 Ronferdie
-76628 Kozí Hrádek
+76628 Kozi Hradek
 76713 Wudia
 76818 Brianenke
 77044 Galera-Rosillo
@@ -20739,7 +20739,7 @@
 77560 Furusato
 77621 Koten
 77696 Patriciann
-77755 Delémont
+77755 Delemont
 77856 Noblitt
 77870 MOTESS
 77971 Donnolo
@@ -20747,7 +20747,7 @@
 78115 Skiantonucci
 78118 Bharat
 78123 Dimare
-78124 Cicalò
+78124 Cicalo
 78125 Salimbeni
 78221 Leonmow
 78249 Capaccioni
@@ -20756,7 +20756,7 @@
 78310 Spoto
 78383 Philmassey
 78386 Deuzelur
-78391 Michaeljäger
+78391 Michaeljager
 78392 Dellinger
 78393 Dillon
 78394 Garossino
@@ -20769,7 +20769,7 @@
 78453 Bullock
 78534 Renmir
 78535 Carloconti
-78536 Shrbený
+78536 Shrbeny
 78577 JPL
 78578 Donpettit
 78652 Quero
@@ -20798,7 +20798,7 @@
 79333 Yusaku
 79347 Medlov
 79353 Andrewalday
-79354 Brundibár
+79354 Brundibar
 79360 Sila-Nunam
 79375 Valetti
 79382 Aliprandi
@@ -20822,7 +20822,7 @@
 79996 Vittoria
 80008 Danielarhodes
 80135 Zanzanini
-80179 Václavknoll
+80179 Vaclavknoll
 80180 Elko
 80184 Hekigoto
 80451 Alwoods
@@ -20849,10 +20849,10 @@
 82346 Hakos
 82361 Benitoloyola
 82463 Mluigiaborsi
-82464 Jaroslavboček
-82559 Emilbřezina
+82464 Jaroslavbocek
+82559 Emilbrezina
 82638 Bottariclaudio
-82656 Puskás
+82656 Puskas
 82896 Vaubaillon
 82926 Jacquey
 82927 Ferrucci
@@ -20889,7 +20889,7 @@
 84884 Dorismcmillan
 84902 Porrentruy
 84919 Karinthy
-84921 Morkoláb
+84921 Morkolab
 84926 Marywalker
 84928 Oliversacks
 84943 Timothylinn
@@ -20898,7 +20898,7 @@
 84991 Bettyphilpotts
 84994 Amysimon
 84995 Zselic
-84996 Hortobágy
+84996 Hortobagy
 85004 Crombie
 85014 Sutter
 85015 Gaskell
@@ -20910,7 +20910,7 @@
 85158 Phyllistrapp
 85168 Albertacentenary
 85179 Meistereckhart
-85183 Marcelaymé
+85183 Marcelayme
 85185 Lederman
 85190 Birgitroth
 85195 von Helfta
@@ -20927,7 +20927,7 @@
 85293 Tengzhou
 85299 Neander
 85308 Atsushimori
-85317 Lehár
+85317 Lehar
 85320 Bertram
 85368 Elisabettacioni
 85386 Payton
@@ -20944,7 +20944,7 @@
 85511 Celnik
 85512 Rieugnie
 85515 Annakukharskaya
-85516 Vaclík
+85516 Vaclik
 85558 Tianjinshida
 85559 Villecroze
 85564 Emilia
@@ -20952,8 +20952,8 @@
 85728 Yangfujia
 85773 Gutbezahl
 85878 Guzik
-85970 Fundaçãoterra
-86043 Cévennes
+85970 Fundacaoterra
+86043 Cevennes
 86048 Saint-Tropez
 86195 Cireglio
 86196 Specula
@@ -20993,23 +20993,23 @@
 89734 Orsoperuzzi
 89735 Tommei
 89739 Rampazzi
-89818 Jureskvarč
+89818 Jureskvarc
 89903 Post
 89909 Linie
 89956 Leibacher
-89973 Aranyjános
+89973 Aranyjanos
 90022 Apache Point
 90125 Chrissquire
 90138 Diehl
-90140 Gómezdonet
+90140 Gomezdonet
 90226 Byronsmith
 90278 Caprese
-90279 Devětsil
+90279 Devetsil
 90288 Dalleave
 90308 Johney
 90317 Williamcutlip
 90328 Haryou
-90370 Jókaimór
+90370 Jokaimor
 90376 Kossuth
 90377 Sedna
 90383 Johnloiacono
@@ -21042,7 +21042,7 @@
 90564 Markjarnyk
 90579 Gordonnelson
 90672 Metrorheinneckar
-90698 Kościuszko
+90698 Kosciuszko
 90703 Indulgentia
 90709 Wettin
 90711 Stotternheim
@@ -21055,16 +21055,16 @@
 90817 Doylehall
 90818 Daverichards
 90820 McCann
-90821 Augustsedláček
+90821 Augustsedlacek
 90825 Lizhensheng
 90826 Xuzhihong
 90830 Beihang
 90837 Raoulvalentini
 90875 Hoshitori
-90892 Betlémská kaple
+90892 Betlemska kaple
 90918 Jasinski
 90919 Luoliaofu
-90926 Stáhalík
+90926 Stahalik
 90936 Neronet
 90937 Josefdufek
 90944 Pujol
@@ -21073,7 +21073,7 @@
 91006 Fleming
 91007 Ianfleming
 91023 Lutan
-91024 Széchenyi
+91024 Szechenyi
 91035 Hezehui
 91199 Johngray
 91212 Virgiliogonano
@@ -21124,14 +21124,14 @@
 94291 Django
 94356 Naruto
 94400 Hongdaeyong
-94556 Janstarý
+94556 Janstary
 94884 Takuya
 95008 Ivanobertini
 95016 Kimjeongho
 95020 Nencini
 95024 Ericaellingson
-95072 ČVUT
-95179 Berkó
+95072 CVUT
+95179 Berko
 95219 Borgman
 95247 Schalansky
 95449 Frederickgregory
@@ -21141,7 +21141,7 @@
 95771 Lachat
 95782 Hansgraf
 95783 Marceloemilio
-95785 Csányivilmos
+95785 Csanyivilmos
 95793 Brock
 95802 Francismuir
 95824 Elger
@@ -21154,7 +21154,7 @@
 95935 Grego
 95939 Thagnesland
 95951 Ernestopalomba
-95954 Bayzoltán
+95954 Bayzoltan
 95955 Claragianni
 95959 Covadonga
 95962 Copito
@@ -21176,12 +21176,12 @@
 96327 Ullmann
 96344 Scottweaver
 96348 Toshiyukimariko
-96506 Oberösterreich
+96506 Oberosterreich
 96591 Emiliemartin
 96612 Litipei
 96623 Leani
 96747 Crespodasilva
-96765 Poznańuni
+96765 Poznanuni
 96876 Andreamanna
 97069 Stek
 97186 Tore
@@ -21195,7 +21195,7 @@
 97637 Blennert
 97677 Rachelfreed
 97786 Oauam
-98127 Vilgusová
+98127 Vilgusova
 98494 Marsupilami
 98722 Elenaumberto
 98825 Maryellen
@@ -21227,15 +21227,15 @@
 100027 Hannaharendt
 100028 von Canstein
 100029 Varnhagen
-100033 Taizé
+100033 Taize
 100046 Worms
 100047 Leobaeck
-100049 Césarann
+100049 Cesarann
 100050 Carloshernandez
 100051 Davidhernandez
 100053 Danstinebring
 100077 Tertzakian
-100084 Gußmann
+100084 Gumann
 100122 Alpes Maritimes
 100133 Demosthenes
 100229 Jeanbailly
@@ -21244,20 +21244,20 @@
 100267 JAXA
 100268 Rosenthal
 100292 Harmandir
-100308 ČAS
+100308 CAS
 100309 Misuzukaneko
 100416 Syang
 100417 Philipglass
 100433 Hyakusyuko
 100434 Jinyilian
 100445 Pisa
-100456 Chichén Itzá
+100456 Chichen Itza
 100483 NAOJ
 100485 Russelldavies
 100519 Bombig
 100553 Dariofo
 100596 Perrett
-100600 Davidfossé
+100600 Davidfosse
 100604 Lundy
 100641 Cledassou
 100675 Chuyanakahara
@@ -21266,16 +21266,16 @@
 100728 Kamenice n Lipou
 100731 Ara Pacis
 100732 Blankavalois
-100733 Annafalcká
-100734 Annasvídnická
-100735 Alpomořanská
+100733 Annafalcka
+100734 Annasvidnicka
+100735 Alpomoranska
 100897 Piatra Neamt
 100924 Luctuymans
 100934 Marthanussbaum
 100936 Mekong
 100940 Maunder
 101101 Carmichael
-101331 Sjöström
+101331 Sjostrom
 101383 Karloff
 101432 Adamwest
 101461 Dunedin
@@ -21303,10 +21303,10 @@
 102619 Crespino
 102621 Goshinosato
 103015 Gianfrancomarcon
-103016 Davidčástek
+103016 Davidcastek
 103220 Kwongchuikuen
 103421 Laurmatt
-103422 Laurisirén
+103422 Laurisiren
 103460 Dieterherrmann
 103560 Peate
 103733 Bernardharris
@@ -21377,7 +21377,7 @@
 110405 Itoyumi
 110408 Nakajima
 110416 Cardille
-110625 Feryalözel
+110625 Feryalozel
 110627 Psaltis
 110702 Titostagno
 110742 Tetuokudo
@@ -21385,9 +21385,9 @@
 111468 Alba Regia
 111558 Barrett
 111561 Giovanniallevi
-111570 Ágasvár
+111570 Agasvar
 111571 Bebevio
-111594 Ráktanya
+111594 Raktanya
 111660 Jimgray
 111661 Mamiegeorge
 111696 Helenorman
@@ -21409,13 +21409,13 @@
 112797 Grantjudy
 112798 Kelindsey
 112900 Tonyhoffman
-113202 Kisslászló
-113203 Szabó
+113202 Kisslaszlo
+113203 Szabo
 113208 Lea
 113210 Petrfatka
 113213 Marcoolmo
-113214 Vinkó
-113256 Prüm
+113214 Vinko
+113256 Prum
 113333 Tyler
 113355 Gessler
 113388 Davidmartinez
@@ -21466,13 +21466,13 @@
 114829 Chierchia
 114987 Tittel
 114990 Szeidl
-114991 Balázs
-115015 Chang Díaz
+114991 Balazs
+115015 Chang Diaz
 115051 Safaeinili
 115058 Tassantal
-115059 Nagykároly
+115059 Nagykaroly
 115210 Mutvicens
-115254 Fényi
+115254 Fenyi
 115312 Whither
 115326 Wehinger
 115331 Shrylmiles
@@ -21486,13 +21486,13 @@
 115891 Scottmichael
 115950 Kocherpeter
 116162 Sidneygutierrez
-116166 Andrémaeder
+116166 Andremaeder
 116446 McDermid
 116903 Jeromeapt
 116939 Jonstewart
 117020 Janeconlin
 117032 Davidlane
-117086 Lóczy
+117086 Loczy
 117093 Umbria
 117156 Altschwendt
 117240 Zhytomyr
@@ -21504,7 +21504,7 @@
 117387 Javiercerna
 117388 Jamiemoore
 117390 Stephanegendron
-117406 Blasgámez
+117406 Blasgamez
 117413 Ramonycajal
 117430 Achosyx
 117435 Severochoa
@@ -21525,13 +21525,13 @@
 117610 Keithmahoney
 117614 Hannahmclain
 117640 Millsellie
-117652 Joséaponte
+117652 Joseaponte
 117657 Jamieelsila
 117703 Ochoa
 117704 Lopez-Alegria
 117711 Degenfeld
 117712 Podmaniczky
-117713 Kövesligethy
+117713 Kovesligethy
 117714 Kiskartal
 117715 Carlkirby
 117736 Sherrod
@@ -21562,7 +21562,7 @@
 119890 Zamka
 119961 Nastasi
 119967 Daniellong
-119993 Acabá
+119993 Acaba
 120038 Franlainsher
 120040 Pagliarini
 120074 Bass
@@ -21586,7 +21586,7 @@
 120285 Brentbos
 120299 Billlynch
 120308 Deebradel
-120324 Falusandrás
+120324 Falusandras
 120347 Salacia
 120349 Kalas
 120350 Richburns
@@ -21619,7 +21619,7 @@
 121019 Minodamato
 121022 Galliano
 121032 Wadesisler
-121089 Vyšší Brod
+121089 Vyssi Brod
 121103 Ericneilsen
 121121 Koyoharugotoge
 121132 Garydavis
@@ -21636,7 +21636,7 @@
 121330 Colbygoodloe
 121331 Savannahsalazar
 121332 Jasonhair
-121336 Žiarnadhronom
+121336 Ziarnadhronom
 121352 Taylorhale
 121468 Msovinskihaskell
 121469 Sarahaugh
@@ -21673,22 +21673,22 @@
 121719 Georgeshaw
 121725 Aphidas
 121756 Sotomejias
-121817 Szatmáry
+121817 Szatmary
 121865 Dauvergne
-122554 Joséhernández
-122555 Auñón-Chancellor
+122554 Josehernandez
+122555 Aunon-Chancellor
 122632 Riccioli
 123120 Peternewman
 123290 Manoa
-123647 Tomáško
+123647 Tomasko
 123794 Deadwood
 123818 Helenzier
-123852 Jánboďa
+123852 Janboda
 123860 Davederrick
 124075 Ketelsen
 124104 Balcony
 124114 Bergersen
-124143 Joséluiscorral
+124143 Joseluiscorral
 124192 Moletai
 124368 Nickphoenix
 124398 Iraklisimonia
@@ -21697,7 +21697,7 @@
 124845 Clinteastwood
 125071 Lugosi
 125076 Michelmayor
-125371 Vojáček
+125371 Vojacek
 125473 Keisaku
 125476 Frangarcia
 125592 Buthiers
@@ -21705,12 +21705,12 @@
 126160 Fabienkuntz
 126177 Filippofrontera
 126183 Larrymitchell
-126245 Kandókálmán
+126245 Kandokalman
 126246 Losignore
 126247 Laurafaggioli
 126248 Dariooliviero
 126249 Gabrielgraur
-126315 Bláthy
+126315 Blathy
 126444 Wylie
 126445 Prestonreeves
 126578 Suhhosoo
@@ -21724,7 +21724,7 @@
 126965 Neri
 127005 Pratchett
 127030 Herrington
-127196 Hanaceplechová
+127196 Hanaceplechova
 127415 Annacalderara
 127477 Fredalee
 127515 Nitta
@@ -21752,7 +21752,7 @@
 128166 Carora
 128177 Griffioen
 128228 Williammarsh
-128242 Šmahel
+128242 Smahel
 128297 Ashlevi
 128314 Coraliejackman
 128315 Dereknelson
@@ -21784,7 +21784,7 @@
 128611 Paulnowak
 128614 Juliabest
 128615 Jimharris
-128622 Rudiš
+128622 Rudis
 128627 Ottmarsheim
 128633 Queyras
 128795 Douglaswalker
@@ -21794,7 +21794,7 @@
 129026 Conormcmenamin
 129050 Lowellcogburn
 129051 Chrismay
-129052 Nîmeshdave
+129052 Nimeshdave
 129053 Derekshannon
 129060 Huntskretsch
 129061 Karlfortney
@@ -21911,22 +21911,22 @@
 130314 Williamodonnell
 130319 Danielpelham
 130320 Maherrassas
-131181 Žebrák
+131181 Zebrak
 131186 Pauluckas
 131245 Bakich
 131762 Csonka
-131763 Donátbánki
+131763 Donatbanki
 132005 Scottmcgregor
 132329 Tomandert
 132445 Gaertner
 132524 APL
 132661 Carlbaeker
-132718 Kemény
+132718 Kemeny
 132719 Lambey
 132741 Liliacapocaccia
 132791 Jeremybauman
 132792 Scottsmith
-132798 Kürti
+132798 Kurti
 132820 Miskotte
 132824 Galamb
 132825 Shizu-Mao
@@ -21939,7 +21939,7 @@
 133066 Beddingfield
 133068 Lisaschulze
 133074 Kenshamordola
-133077 Jirsík
+133077 Jirsik
 133142 Violapiciu
 133161 Ruttkai
 133243 Essen
@@ -22002,7 +22002,7 @@
 134124 Subirachs
 134125 Shaundaly
 134127 Basher
-134130 Apáczai
+134130 Apaczai
 134131 Skipowens
 134134 Kristoferdrozd
 134135 Steigerwald
@@ -22025,10 +22025,10 @@
 134419 Hippothous
 135041 Lorenzofranco
 135069 Gagnereau
-135268 Haigneré
+135268 Haignere
 135561 Tautvaisiene
-135799 Ráczmiklós
-135978 Agüeros
+135799 Raczmiklos
+135978 Agueros
 135979 Allam
 135980 Scottanderson
 135991 Danarmstrong
@@ -22040,7 +22040,7 @@
 136367 Gierlinger
 136432 Allenlunsford
 136472 Makemake
-136473 Bakosgáspár
+136473 Bakosgaspar
 136518 Opitz
 136557 Neleus
 136666 Seidel
@@ -22054,7 +22054,7 @@
 136922 Brianbauer
 137039 Lisiguang
 137052 Tjelvar
-137066 Gellért-hegy
+137066 Gellert-hegy
 137082 Maurobachini
 137165 Annis
 137166 Netabahcall
@@ -22065,7 +22065,7 @@
 138221 Baldry
 138445 Westenburger
 138626 Tanguybertrand
-138979 Černice
+138979 Cernice
 139028 Haynald
 139233 Henych
 140038 Kurushima
@@ -22100,8 +22100,8 @@
 142760 Csabai
 142822 Czarapata
 143048 Margaretpenston
-143139 Kučáková
-143579 Dérimiksa
+143139 Kucakova
+143579 Derimiksa
 143622 Robertbloch
 143641 Sapello
 143750 Shyamkumar
@@ -22133,14 +22133,14 @@
 145545 Wensayling
 145546 Suiqizhong
 145558 Raiatea
-145559 Didiermüller
+145559 Didiermuller
 145562 Zurbriggen
 145566 Andreasphilipp
 145588 Sudongpo
-145593 Xántus
+145593 Xantus
 145709 Rocknowar
 145732 Kanmon
-145768 Petiška
+145768 Petiska
 145820 Valeromeo
 145962 Lacchini
 146040 Alicebowman
@@ -22148,8 +22148,8 @@
 146442 Dwaynebrown
 146921 Michaelbuckley
 147397 Bobhazel
-147421 Gárdonyi
-147595 Gojkomitić
+147421 Gardonyi
+147595 Gojkomitic
 147693 Piccioni
 147736 Raxavinic
 147766 Elisatoffoli
@@ -22168,7 +22168,7 @@
 149163 Stevenconard
 149243 Dorothynorton
 149244 Kriegh
-149528 Simónrodríguez
+149528 Simonrodriguez
 149573 Mamorudoi
 149728 Klostermann
 149865 Michelhernandez
@@ -22186,7 +22186,7 @@
 150316 Ivaniosifovich
 150374 Jasoncook
 150520 Dong
-151242 Hajós
+151242 Hajos
 151349 Stanleycooper
 151351 Dalleore
 151362 Chenkegong
@@ -22212,11 +22212,11 @@
 152336 Nicolecarr
 152337 Sakeenaburson
 152454 Darnyi
-152472 Brendlé
+152472 Brendle
 152481 Stabia
 152533 Aggas
 152559 Bodelschwingh
-152583 Saône
+152583 Saone
 152641 Fredreed
 152647 Rinako
 152657 Yukifumi
@@ -22233,7 +22233,7 @@
 154004 Haolei
 154005 Hughharris
 154006 Suzannehawley
-154141 Kertész
+154141 Kertesz
 154378 Hennessy
 154493 Portisch
 154554 Heatherelliott
@@ -22250,23 +22250,23 @@
 155116 Verkhivnya
 155138 Pucinskas
 155142 Tenagra
-155215 Vámostibor
-155217 Radnóti
+155215 Vamostibor
+155217 Radnoti
 155270 Dianawheeler
 155290 Anniegrauer
-155438 Velásquez
+155438 Velasquez
 155784 Ercol
 155948 Maquet
 156542 Hogg
-156580 Madách
+156580 Madach
 156631 Margitan
 156751 Chelseaferrell
-156879 Eloïs
+156879 Elois
 156880 Bernardtregon
 156939 Odegard
 156990 Claerbout
 157015 Walterstraube
-157020 Fertőszentmiklós
+157020 Fertoszentmiklos
 157064 Sedona
 157141 Sopron
 157194 Saddlemyer
@@ -22278,7 +22278,7 @@
 157421 Carolpercy
 157456 Pivatte
 157473 Emuno
-157491 Rüdigerkollar
+157491 Rudigerkollar
 157494 Durham
 157533 Stellamarie
 157534 Siauliai
@@ -22286,7 +22286,7 @@
 157599 Verdery
 157640 Baumeler
 157693 Amandamarty
-157721 Kölcsey
+157721 Kolcsey
 157747 Mandryka
 157894 Yasminwalter
 158092 Frasercain
@@ -22297,20 +22297,20 @@
 158520 Ricardoferreira
 158589 Snodgrass
 158623 Perali
-158657 Célian
+158657 Celian
 158899 Malloryvale
 158913 Kreider
 159011 Radomyshl
 159013 Kyleturner
 159102 Sarahflanigan
-159164 La Cañada
+159164 La Canada
 159181 Berdychiv
 159215 Apan
 159351 Leonpascal
 159409 Ratte
 159629 Brunszvik
 159743 Kluk
-159776 Eduardoröhl
+159776 Eduardorohl
 159778 Bobshelton
 159799 Kralice
 159814 Saguaro
@@ -22321,7 +22321,7 @@
 159974 Badacsony
 159999 Michaelgriffin
 160000 Lemmon
-160001 Bakonybél
+160001 Bakonybel
 160013 Elbrus
 160105 Gobi
 160215 Haines-Stiles
@@ -22334,7 +22334,7 @@
 161092 Zsigmond
 161207 Lidz
 161215 Loveday
-161230 Martinbacháček
+161230 Martinbachacek
 161278 Cesarmendoza
 161315 de Shalit
 161349 Mecsek
@@ -22358,14 +22358,14 @@
 162002 Spalatin
 162011 Konnohmaru
 162035 Jirotakahashi
-162059 Mészáros
+162059 Meszaros
 162158 Merrillhess
 162166 Mantsch
 162173 Ryugu
 162395 Michaelbird
 162466 Margon
 162755 Spacesora
-162937 Prêtre
+162937 Pretre
 162978 Helenhart
 163119 Timmckay
 163153 Takuyaonishi
@@ -22386,7 +22386,7 @@
 164130 Jonckheere
 164207 Cardea
 164215 Doloreshill
-164268 Hajmási
+164268 Hajmasi
 164405 Fennell
 164518 Patoche
 164536 Davehinson
@@ -22403,9 +22403,9 @@
 165574 Deidre
 165612 Stackpole
 165659 Michaelhicks
-166028 Karikókatalin
+166028 Karikokatalin
 166229 Palanga
-166570 Adolfträger
+166570 Adolftrager
 166614 Zsazsa
 166622 Sebastien
 166745 Pindor
@@ -22420,10 +22420,10 @@
 167018 Csontoscsaba
 167113 Robertwick
 167208 Lelekovice
-167341 Börzsöny
+167341 Borzsony
 167748 Markkelly
 167852 Maturana
-167855 Natalinistéphane
+167855 Natalinistephane
 167875 Kromminga
 167960 Rudzikas
 167971 Carlyhowett
@@ -22461,7 +22461,7 @@
 170073 Ivanlinscott
 170162 Nicolashayek
 170193 Joanguillem
-170306 Augustzátka
+170306 Augustzatka
 170395 Nicolevogt
 170487 Mallder
 170644 Tepliczky
@@ -22474,7 +22474,7 @@
 170927 Dgebessire
 170995 Ritajoewright
 171112 Sickafoose
-171118 Szigetköz
+171118 Szigetkoz
 171153 Allanrahill
 171171 Prior
 171183 Haleakala
@@ -22488,7 +22488,7 @@
 171448 Guchaohao
 171458 Pepaprats
 171465 Evamaria
-171588 Náprstek
+171588 Naprstek
 171624 Nicolemartin
 172090 Davidmccomas
 172191 Ralphmcnutt
@@ -22501,7 +22501,7 @@
 172505 Kimberlyespy
 172525 Adamblock
 172526 Carolinegarcia
-172593 Vörösmarty
+172593 Vorosmarty
 172734 Giansimon
 172850 Coppens
 172932 Bachleitner
@@ -22521,7 +22521,7 @@
 173649 Jeffreymoore
 173872 Andrewwest
 173936 Yuribo
-174281 Lonský
+174281 Lonsky
 174361 Rickwhite
 174362 Bethwillman
 174363 Donyork
@@ -22531,7 +22531,7 @@
 174515 Pamelaivezic
 174567 Varda
 174801 Etscorn
-175017 Záboří
+175017 Zabori
 175046 Corporon
 175109 Sharickaer
 175152 Marthafarkas
@@ -22548,7 +22548,7 @@
 175410 Tsayweanshun
 175411 Yilan
 175419 Albiesachs
-175437 Zsivótzky
+175437 Zsivotzky
 175450 Phillipklu
 175451 Linchisheng
 175452 Chenggong
@@ -22574,7 +22574,7 @@
 176103 Waynejohnson
 176380 Goran
 176532 Boskri
-176610 Nuñez
+176610 Nunez
 176710 Banff
 176711 Canmore
 176866 Kuropatkin
@@ -22582,8 +22582,8 @@
 176884 Jallynsmith
 176981 Anteradonic
 177065 Samuelnoah
-177120 Ocampo Uría
-177148 Pätzold
+177120 Ocampo Uria
+177148 Patzold
 177157 Skoffelza
 177415 Queloz
 177625 Dembicky
@@ -22604,7 +22604,7 @@
 178150 Taiyuinkwei
 178151 Kulangsu
 178155 Kenzaarraki
-178156 Borbála
+178156 Borbala
 178226 Rebeccalouise
 178243 Schaerding
 178256 Juanmi
@@ -22616,22 +22616,22 @@
 178679 Piquette
 178796 Posztoczky
 178803 Kristenjohnson
-178830 Anne-Véronique
+178830 Anne-Veronique
 178987 Jillianredfern
-179221 Hrvojebožić
+179221 Hrvojebozic
 179223 Tonytyson
-179411 Draganroša
+179411 Draganrosa
 179413 Stevekahn
 179593 Penglangxiaoxue
 179595 Belkovich
 179647 Stuartrobbins
 179678 Rietmeijer
 179764 Myriamsarah
-179874 Bojanvršnak
+179874 Bojanvrsnak
 179875 Budavari
 179876 Goranpichler
 179877 Pavlovski
-179901 Romanbrajša
+179901 Romanbrajsa
 180141 Sperauskas
 180143 Gaberogers
 180367 Vonfeldt
@@ -22639,15 +22639,15 @@
 180739 Barbet
 180824 Kabos
 180855 Debrarose
-180857 Hofigéza
+180857 Hofigeza
 180940 Bighornfire
 181043 Anan
 181136 Losonczrita
 181241 Dipasquale
 181249 Tkachenko
 181279 Iapyx
-181298 Ladányi
-181392 Katonajózsef
+181298 Ladanyi
+181392 Katonajozsef
 181419 Dragonera
 181483 Ampleforth
 181494 Forestale
@@ -22659,12 +22659,12 @@
 181670 Kengyun
 181702 Forcalquier
 181751 Phaenops
-181824 Königsleiten
+181824 Konigsleiten
 181829 Houyunde
 181872 Cathaysa
 182044 Ryschkewitsch
 182122 Sepan
-182262 Solène
+182262 Solene
 182590 Vladisvujnovic
 182591 Mocescobedo
 182592 Jolana
@@ -22677,7 +22677,7 @@
 183294 Langbroek
 183357 Rickshelton
 183403 Gal
-183560 Křišťan
+183560 Kristan
 183635 Helmi
 184011 Andypuckett
 184064 Miner
@@ -22701,7 +22701,7 @@
 185101 Balearicuni
 185150 Panevezys
 185164 Ingeburgherz
-185196 Vámbéry
+185196 Vambery
 185216 Gueiren
 185250 Korostyshiv
 185321 Kammerlander
@@ -22735,7 +22735,7 @@
 186832 Mosser
 186835 Normanspinrad
 187123 Schorderet
-187125 Marxgyörgy
+187125 Marxgyorgy
 187276 Meistas
 187283 Jeffhopkins
 187410 Anitabrockie
@@ -22769,7 +22769,7 @@
 189011 Ogmios
 189018 Guokeda
 189035 Michaelsummers
-189188 Floraliën
+189188 Floralien
 189202 Calar Alto
 189261 Hiroo
 189264 Gerardjeong
@@ -22787,22 +22787,22 @@
 189948 Richswanson
 190026 Iskorosten
 190057 Nakagawa
-190139 Hansküng
+190139 Hanskung
 190283 Schielicke
 190310 De Martin
 190333 Jirous
-190504 Hermanottó
+190504 Hermanotto
 190617 Alexandergerst
 190710 Marktapley
 190730 Lorenzonesi
 191282 Feustel
-191341 Lánczos
+191341 Lanczos
 191494 Berndkoch
-191551 Glücklich
+191551 Glucklich
 191582 Kikadolfi
 191775 Poczobut
-191856 Almáriván
-191857 Illéserzsébet
+191856 Almarivan
+191857 Illeserzsebet
 191910 Elizawilliams
 191911 Nilerodgers
 192001 Raynatedford
@@ -22815,16 +22815,16 @@
 192293 Dominikbrunner
 192353 Wangdazhong
 192391 Yunda
-192439 Cílek
+192439 Cilek
 192450 Xinjiangdaxue
 192626 Glennunderhill
 192686 Aljuroma
 193158 Haechan
 193736 Henrythroop
 193818 Polidoro
-194262 Nové Zámky
+194262 Nove Zamky
 194837 Paolomasetti
-194970 Márai
+194970 Marai
 194982 Furia
 195191 Constantinetsang
 195405 Lentyler
@@ -22835,14 +22835,14 @@
 195900 Rogersudbury
 195998 Skipwilson
 196000 Izzard
-196005 Róbertschiller
+196005 Robertschiller
 196035 Haraldbill
 196411 Umurhan
 196476 Humfernandez
 196481 VATT
 196540 Weinbaum
-196640 Mulhacén
-196736 Munkácsy
+196640 Mulhacen
+196736 Munkacsy
 196772 Fritzleiber
 196807 Beshore
 196938 Delgordon
@@ -22864,7 +22864,7 @@
 198616 Lucabracali
 198634 Burgaymarta
 198673 Herrero
-198700 Nataliegrünewald
+198700 Nataliegrunewald
 198717 Szymczyk
 198820 Iwanowska
 198963 Robsnyder
@@ -22879,8 +22879,8 @@
 199631 Giuseppesprizzi
 199632 Mahlerede
 199677 Terzani
-199687 Erősszsolt
-199688 Kisspéter
+199687 Erosszsolt
+199688 Kisspeter
 199696 Kemenesi
 199741 Weidner
 199757 Shagunsingh
@@ -22918,7 +22918,7 @@
 202092 Algirdas
 202093 Jogaila
 202373 Ubuntu
-202599 Harkányi
+202599 Harkanyi
 202605 Shenchunshan
 202614 Kayleigh
 202686 Birkfellner
@@ -22933,20 +22933,20 @@
 202819 Carlosanchez
 202907 Meisenheimer
 202909 Jakoten
-202930 Ivezić
+202930 Ivezic
 203602 Danjoyce
 203773 Magyarics
 203823 Zdanavicius
-204370 Ferdinandvaněk
+204370 Ferdinandvanek
 204570 Veronicabray
 204602 Lawrencebrown
 204632 Jamesburch
-204702 Péquignat
+204702 Pequignat
 204710 Gaoxing
 204711 Luojialun
 204764 Lindaburke
 204786 Wehlau
-204805 Šipöcz
+204805 Sipocz
 204816 Andreacamilleri
 204831 Levski
 204836 Xiexiaosi
@@ -22963,16 +22963,16 @@
 206185 Yip
 206241 Dubois
 206265 Radian
-206574 Illyés
+206574 Illyes
 207013 Fischetti
-207109 Stürmenchopf
+207109 Sturmenchopf
 207319 Eugenemar
 207321 Crawshaw
 207341 Isabelmartin
 207385 Maxou
 207394 Rickfitzgerald
 207420 Jehin
-207481 Kékes
+207481 Kekes
 207504 Markusovszky
 207547 Charito
 207563 Toscana
@@ -23004,11 +23004,11 @@
 208915 Andrewashcraft
 208916 Robertcaldwell
 208917 Traviscarter
-209054 Lombkató
+209054 Lombkato
 209075 Kathleenharmon
 209083 Rioja
-209089 Csépevaléria
-209107 Šafránek
+209089 Csepevaleria
+209107 Safranek
 209148 Dustindeford
 209149 Chrismackenzie
 209206 Richardhenry
@@ -23039,19 +23039,19 @@
 210345 Barbon
 210350 Mariolisa
 210414 Gebartolomei
-210421 Freundtamás
+210421 Freundtamas
 210425 Imogene
 210432 Dietmarhopp
 210433 Ullithiele
 210434 Fungyuancheng
-210435 Pollackmihály
+210435 Pollackmihaly
 210444 Frithjof
 210532 Grantmckee
 210533 Seanmisner
 210686 Scottnorris
 210854 Stevejaskulek
 210874 Perijohnson
-210939 Bödök
+210939 Bodok
 210983 Wadeparker
 210997 Guenat
 211021 Johnpercin
@@ -23084,27 +23084,27 @@
 212606 Janulis
 212631 Hsinchu
 212692 Lazauskaite
-212705 Friûl
+212705 Friul
 212723 Klitschko
 212795 Fangjiancheng
 212796 Guoyonghuai
 212797 Lipei
 212924 Yurishevchuk
 212929 Satovski
-212977 Birutė
-212981 Majalitović
-212991 Garcíalorca
+212977 Birute
+212981 Majalitovic
+212991 Garcialorca
 212998 Tolbachik
 213197 Lessac-Chenen
 213255 Kimiyayui
 213269 Angelbarbero
 213629 Binford
-213636 Gajdoš
+213636 Gajdos
 213637 Lemarchal
 213770 Fignon
 213771 Johndee
 213772 Blaheta
-213775 Zdeněkdostál
+213775 Zdenekdostal
 213800 Stefanwul
 214081 Balavoine
 214136 Alinghi
@@ -23117,8 +23117,8 @@
 214476 Stephencolbert
 214485 Dupouy
 214487 Baranivka
-214558 Korányi
-214678 Slavėnas
+214558 Koranyi
+214678 Slavenas
 214715 Silvanofuso
 214772 UNICEF
 214819 Gianotti
@@ -23131,7 +23131,7 @@
 215016 Catherinegriffin
 215021 Fanjingshan
 215023 Huangjiqing
-215044 Joãoalves
+215044 Joaoalves
 215080 Kaohsiung
 215089 Hermanfrid
 215423 Winnecke
@@ -23140,14 +23140,14 @@
 215592 Normarose
 215685 Cherylalexander
 215809 Hugoschwarz
-215841 Čimelice
+215841 Cimelice
 215868 Rohrer
 215884 Jayantmurthy
 215886 Barryarnold
 215905 Andrewpoppe
 215970 Campidoglio
 216164 Simonkrughoff
-216194 Újvárosy
+216194 Ujvarosy
 216241 Renzopiano
 216261 Mapihsia
 216295 Menorca
@@ -23168,7 +23168,7 @@
 216752 Kirbyrunyon
 216757 Vasari
 216780 Lilianne
-216808 Tolmárgyula
+216808 Tolmargyula
 216888 Sankovich
 216893 Navina
 216897 Golubev
@@ -23187,7 +23187,7 @@
 218069 Lisaturner
 218087 Kaniansky
 218097 Maoxianxin
-218268 Pierremariepelé
+218268 Pierremariepele
 218274 Albertferenc
 218400 Marquardt
 218570 Jonvandegriff
@@ -23206,7 +23206,7 @@
 219286 Helenewinters
 219861 Robertdecker
 219983 Yangtongyu
-220229 Hegedüs
+220229 Hegedus
 220331 Stevearnold
 220346 Nedabehrooz
 220418 Golovyno
@@ -23223,14 +23223,14 @@
 221454 Mayerlambert
 221465 Rapa Nui
 221516 Bergen-Enkheim
-221528 Kosztolányi
+221528 Kosztolanyi
 221566 Omarcustodio
 221628 Hyatt
 221673 Duschl
 221698 Juliusolsen
 221712 Moleson
 221769 Cima Rest
-221853 Gábrisgyula
+221853 Gabrisgyula
 221908 Agastrophus
 221917 Opites
 221923 Jayeff
@@ -23241,24 +23241,24 @@
 223263 Cheikhoumardia
 223278 Brianduncan
 223339 Gregdunn
-223360 Švankmajer
+223360 Svankmajer
 223566 Petignat
-223633 Rosnyaîné
+223633 Rosnyaine
 223685 Hartopp
 223877 Kutler
 223879 Anthonyegan
 223912 Jacobeisig
 223950 Mississauga
-224027 Grégoire
+224027 Gregoire
 224067 Colemila
 224206 Pietchisson
 224591 Fattig
 224592 Carnac
-224617 Micromégas
+224617 Micromegas
 224693 Morganfreeman
 224831 Neeffisis
 224888 Cochingchu
-224962 Michaelgrünewald
+224962 Michaelgrunewald
 225033 Maskoliunas
 225076 Vallemare
 225088 Gonggong
@@ -23268,28 +23268,28 @@
 225239 Ruthproell
 225250 Georgfranziska
 225254 Flury
-225276 Leïtos
+225276 Leitos
 225277 Stino
 225321 Stevenkoenig
 225438 Jacobfirer
 225711 Danyzy
-225991 Françoisforget
+225991 Francoisforget
 226356 Madelinefosbury
 226672 Kucinskas
 226858 Ivanpuluj
 226861 Elimaor
 227033 Adamjmckay
 227065 Romandia
-227147 Coggiajérôme
+227147 Coggiajerome
 227151 Desargues
 227152 Zupi
-227218 Rényi
+227218 Renyi
 227310 Scottkardel
 227326 Narodychi
 227641 Nothomb
 227767 Enkibilal
 227770 Wischnewski
-227928 Ludoferrière
+227928 Ludoferriere
 227930 Athos
 227962 Aramis
 227997 NIGLAS
@@ -23298,7 +23298,7 @@
 228133 Ripoll
 228135 Sodnik
 228136 Billary
-228147 Miquelbarceló
+228147 Miquelbarcelo
 228158 Mamankei
 228165 Mezentsev
 228180 Puertollano
@@ -23316,7 +23316,7 @@
 229631 Cluny
 229723 Marcoludwig
 229737 Porthos
-229762 Gǃkúnǁʼhòmdímà
+229762 Gkunhomdima
 229777 ENIAC
 229781 Arthurmcdonald
 229836 Wladimarinello
@@ -23328,8 +23328,8 @@
 230434 Johnhanley
 230631 Justino
 230648 Zikmund
-230656 Kovácspál
-230667 Janmlynář
+230656 Kovacspal
+230667 Janmlynar
 230691 Van Vogt
 230728 Tedstryk
 230736 Jalyhome
@@ -23339,7 +23339,7 @@
 231040 Kakaras
 231042 Johnhayes
 231265 Saulperlmutter
-231278 Kárpáti
+231278 Karpati
 231307 Peterfalk
 231346 Taofanlin
 231368 Hunfalvy
@@ -23359,7 +23359,7 @@
 231969 Sebvauclair
 232233 Taihu
 232259 Georgelawrence
-232306 Bekuška
+232306 Bekuska
 232363 Jeanettethorn
 232409 Dubes
 232553 Randypeterson
@@ -23385,29 +23385,29 @@
 233967 Vierkant
 234026 Unioneastrofili
 234292 Wolfganghansch
-234294 Pappsándor
+234294 Pappsandor
 234750 Amymainzer
 234761 Rainerkracht
 234923 Bonnell
 235027 Pommard
 235145 Ericquirico
-235201 Lorántffy
+235201 Lorantffy
 235281 Jackwilliamson
 235403 Alysenregiec
 235615 Rosromkondratyuk
-235621 Kratochvíle
+235621 Kratochvile
 235750 Leahrobertson
 235837 Iota
 235852 Theogeuens
 235985 Dougrodgers
 235990 Laennec
 235999 Bucciantini
-236111 Wolfgangbüttner
+236111 Wolfgangbuttner
 236129 Oysterbay
 236170 Cholnoky
 236232 Joshalbers
 236305 Adamriess
-236463 Bretécher
+236463 Bretecher
 236484 Luchijen
 236616 Gray
 236617 Loriglaze
@@ -23416,7 +23416,7 @@
 236743 Zhejiangdaxue
 236746 Chareslindos
 236784 Livorno
-236785 Hilendàrski
+236785 Hilendarski
 236788 Nanxinda
 236800 Broder
 236810 Rutten
@@ -23438,7 +23438,7 @@
 238129 Bernardwolfe
 238593 Paysdegex
 238710 Halassy
-238771 Juhászbalázs
+238771 Juhaszbalazs
 238817 Titeuf
 239046 Judysyd
 239071 Penghu
@@ -23455,7 +23455,7 @@
 239672 SOFIA
 239675 Mottez
 239716 Felixbaumgartner
-239792 Hankakováčová
+239792 Hankakovacova
 239890 Edudeldon
 240021 Radzo
 240022 Demitra
@@ -23472,9 +23472,9 @@
 241192 Pulyny
 241276 Guntramlampert
 241362 Nesiotites
-241363 Érdibálint
+241363 Erdibalint
 241364 Reneangelil
-241368 Hildjózsef
+241368 Hildjozsef
 241418 Darmstadt
 241442 Shandongkexie
 241475 Martinagedeck
@@ -23486,7 +23486,7 @@
 242479 Marijampole
 242492 Fantomas
 242516 Lindseystirling
-242523 Kreszgéza
+242523 Kreszgeza
 242529 Hilaomar
 242648 Fribourg
 242830 Richardwessling
@@ -23504,7 +23504,7 @@
 243381 Alessio
 243440 Colonia
 243458 Bubulina
-243491 Mühlviertel
+243491 Muhlviertel
 243516 Marklarsen
 243526 Russwalker
 243529 Petereisenhardt
@@ -23512,7 +23512,7 @@
 243546 Fengchuanliu
 243591 Ignacostantino
 243637 Frosinone
-244932 Méliés
+244932 Melies
 245158 Thomasandrews
 245417 Rostand
 245890 Krynychenka
@@ -23538,7 +23538,7 @@
 246861 Johnelwell
 246913 Slocum
 247341 Shaulladany
-247542 Ripplrónai
+247542 Ripplronai
 247553 Berndpauli
 247652 Hajossy
 247821 Coignet
@@ -23575,33 +23575,33 @@
 250164 Hannsruder
 250354 Lewicdeparis
 250370 Obertocitterio
-250374 Jírovec
+250374 Jirovec
 250526 Steinerzsuzsanna
 250606 Bichat
 250719 Jurajbardy
 250774 Syosset
-250840 Motörhead
+250840 Motorhead
 251001 Sluch
 251018 Liubirena
 251325 Leopoldjosefine
-251449 Olexakorolʹ
+251449 Olexakorol
 251485 Bois-d'Amont
-251595 Rudolfböttger
+251595 Rudolfbottger
 251619 Ravenna
-251621 Lüthen
+251621 Luthen
 251625 Timconrow
 251627 Joyceearl
 251642 Leonardodicaprio
 252470 Puigmarti
 252794 Maironis
-253412 Ráskaylea
+253412 Raskaylea
 253536 Tymchenko
 253587 Cloutier
 254000 Johncryan
 254299 Shambleau
 254422 Henrykent
 254749 Kurosawa
-254846 Csontváry
+254846 Csontvary
 254863 Robinwarren
 254876 Strommer
 255019 Fleurmaxwell
@@ -23628,8 +23628,8 @@
 257005 Arpadpal
 257084 Joanalcover
 257211 Kulizoli
-257212 Rózsahegyi
-257234 Güntherkurtze
+257212 Rozsahegyi
+257234 Guntherkurtze
 257248 Chouchiehlun
 257261 Ovechkin
 257296 Jessicaamy
@@ -23638,15 +23638,15 @@
 257439 Peppeprosperini
 257515 Zapperudi
 257533 Iquique
-258323 Róbertbarsa
-259344 Paré
+258323 Robertbarsa
+259344 Pare
 259387 Atauta
 259905 Vougeot
 260098 Staargyula
 260235 Attwood
 260366 Quanah
 260508 Alagna
-260601 Wesselényi
+260601 Wesselenyi
 260676 Evethuriere
 260724 Malherbe
 260824 Hermanus
@@ -23665,7 +23665,7 @@
 262418 Samofalov
 262419 Suzaka
 262536 Nowikow
-262705 Vosne-Romanée
+262705 Vosne-Romanee
 262876 Davidlynch
 262972 Petermansfield
 263251 Pandabear
@@ -23690,13 +23690,13 @@
 265059 Bajorgizi
 265380 Terzan
 265490 Szabados
-265594 Keletiágnes
+265594 Keletiagnes
 265924 Franceclemente
 266051 Hannawieser
 266081 Villyket
-266286 Bodenmüller
+266286 Bodenmuller
 266465 Andalucia
-266622 Málna
+266622 Malna
 266646 Zaphod
 266710 Pedrettiadriana
 266711 Tuttlingen
@@ -23707,7 +23707,7 @@
 266983 Josepbosch
 267003 Burkert
 267017 Yangzhifa
-267585 Popluhár
+267585 Popluhar
 268057 Michaelkaschke
 268115 Williamalbrecht
 268242 Pebble
@@ -23727,11 +23727,11 @@
 269550 Chur
 269567 Bakhtinov
 269589 Kryachko
-269742 Kroónorbert
+269742 Kroonorbert
 269762 Nocentini
 270373 William
 270374 Paolomanente
-270472 Csörgei
+270472 Csorgei
 270553 Loureed
 270556 Kolonica
 270558 Nemiroff
@@ -23764,11 +23764,11 @@
 274264 Piccolomini
 274300 UNESCO
 274301 Wikipedia
-274302 Abaházi
+274302 Abahazi
 274333 Voznyukigor
 274334 Kyivplaniy
-274472 Pietà
-274810 Fedáksári
+274472 Pieta
+274810 Fedaksari
 274835 Aachen
 274843 Mykhailopetrenko
 274856 Rosendosalvado
@@ -23784,11 +23784,11 @@
 275962 Chalverat
 276163 Tafreshi
 276389 Winkel
-276568 Joestübler
+276568 Joestubler
 276681 Loremaes
 276781 Montchaibeux
 276975 Heller
-277106 Forgó
+277106 Forgo
 277118 Zaandam
 277816 Varese
 277883 Basu
@@ -23800,9 +23800,9 @@
 278386 Sofivanna
 278447 Saviano
 278513 Schwope
-278591 Salò
+278591 Salo
 278609 Avrudenko
-278640 Elenačernienė
+278640 Elenacerniene
 278645 Kontsevych
 278735 Kamioka
 278956 Shei-Pa
@@ -23838,7 +23838,7 @@
 281820 Monnaves
 281880 Wuweiren
 282630 Caroljones
-282669 Erguël
+282669 Erguel
 282897 Kaltenbrunner
 282903 Masada
 283057 Casteldipiazza
@@ -23853,7 +23853,7 @@
 284029 Esplugafrancoli
 284357 Semseyandor
 284891 Kona
-284919 Kaçar
+284919 Kacar
 284945 Saint-Imier
 284984 Ikaunieks
 284996 Rosaparks
@@ -23863,20 +23863,20 @@
 286693 Kodaitis
 286841 Annemieke
 286842 Joris
-287347 Mézes
+287347 Mezes
 287374 Vreeland
 287432 Bril
 287433 de Groot
 287693 Hugonnaivilma
-287711 Filotáslili
-287787 Karády
+287711 Filotaslili
+287787 Karady
 287829 Juancarlos
 287875 Pavlokorsun
 288478 Fahlman
 288615 Tempesti
-288959 Biržai
+288959 Birzai
 288960 Steponasdarius
-288961 Stasysgirėnas
+288961 Stasysgirenas
 289020 Ukmerge
 289021 Juzeliunas
 289085 Andreweil
@@ -23891,7 +23891,7 @@
 290001 Uebersax
 290074 Donasadock
 290127 Linakostenko
-290129 Rátzlászló
+290129 Ratzlaszlo
 290156 Houde
 290180 Pattiekletter
 290181 Sigut
@@ -23901,7 +23901,7 @@
 291824 Cami
 291847 Ladoix
 291849 Orchestralondon
-291855 Calabròcorrado
+291855 Calabrocorrado
 291923 Kuzmaskryabin
 292051 Bohlender
 292159 Jongoldstein
@@ -23959,7 +23959,7 @@
 297082 Bygott
 297161 Subuchin
 297314 Ilterracottaio
-297409 Mållgan
+297409 Mallgan
 298232 Ericlimburg
 298762 Sarahgallagher
 298877 Michaelreynolds
@@ -24004,19 +24004,19 @@
 301638 Kressin
 301794 Antoninkapustin
 301946 Bugyi
-301949 Hambálek
+301949 Hambalek
 302542 Tilmann
 302652 Hauke
 302849 Richardboyle
 302932 Francoballoni
 303265 Littmann
 303546 Bourbaki
-303648 Mikszáth
+303648 Mikszath
 303710 Velpeau
 303909 Tomknops
 304122 Ameliawehlau
 304233 Majaess
-304368 Móricz
+304368 Moricz
 304557 Welling
 304788 Cresques
 304813 Cesarina
@@ -24042,24 +24042,24 @@
 308798 Teo
 308825 Siksika
 308856 Daniket
-308934 Merkinė
-309206 Mažvydas
+308934 Merkine
+309206 Mazvydas
 309227 Tsukiko
 309295 Hourenzhi
 309704 Baruffetti
-309706 Ávila
+309706 Avila
 309917 Sefyani
 310025 Marcuscooper
 310222 Vasipetropoulou
 310273 Paulsmeyers
-310652 Hansjörgdittus
+310652 Hansjorgdittus
 311119 Pacner
 311231 Anuradhapura
 311785 Erwanmazarico
 311957 Barryalbright
-312001 Siobhánhaughey
-312627 Brigitteyagüe
-313116 Pálvenetianer
+312001 Siobhanhaughey
+312627 Brigitteyague
+313116 Palvenetianer
 313384 Holetschek
 313892 Furnish
 313921 Daassou
@@ -24081,7 +24081,7 @@
 315493 Zimin
 315577 Carmenchu
 315579 Vandersyppe
-315941 Elenagómez
+315941 Elenagomez
 316010 Daviddubey
 316020 Linshuhow
 316028 Patrickwils
@@ -24094,7 +24094,7 @@
 316201 Malala
 316202 Johnfowler
 316450 Changhsiangtung
-316527 Jürgenoberst
+316527 Jurgenoberst
 316709 POSS
 316741 Janefletcher
 317000 Simonepastore
@@ -24112,7 +24112,7 @@
 318794 Uglia
 319009 Kudirka
 319090 Barbarahillary
-319227 Erichbär
+319227 Erichbar
 319601 Silute
 319636 Dziewulski
 319651 Topografo
@@ -24138,7 +24138,7 @@
 321673 Huber
 321802 Malaspina
 322390 Planes de Son
-322510 Heinrichgrüber
+322510 Heinrichgruber
 322539 Telsiai
 322574 Werckmeister
 322577 Stephanhellmich
@@ -24164,7 +24164,7 @@
 327030 Alanmaclure
 327082 Tournesol
 327421 Yanamandra
-327512 Bíró
+327512 Biro
 327632 Ferrarini
 327695 Yokoono
 327943 Xavierbarcons
@@ -24180,7 +24180,7 @@
 329018 Neufeld
 329025 Annekathrin
 329069 Russellporter
-329935 Prévôt
+329935 Prevot
 330420 Tomroman
 330440 Davinadon
 330455 Anbrysse
@@ -24244,23 +24244,23 @@
 333639 Yaima
 333717 Alexgreaves
 333744 Pau
-334756 Leövey
+334756 Leovey
 335500 Espresso
 335292 Larrey
 335306 Mouhot
 335533 Tarasprystavski
 335668 Ignalina
-335799 Zonglü
-335853 Valléedaoste
+335799 Zonglu
+335853 Valleedaoste
 335968 Xiejin
 336108 Luberon
-336109 Rokiškis
+336109 Rokiskis
 336177 Churri
 336203 Sandrobuss
 336204 Sardinas
 336392 Changhua
 336465 Deluna
-336680 Pavolpaulík
+336680 Pavolpaulik
 336694 Fey
 336698 Melbourne
 336811 Baratoux
@@ -24268,11 +24268,11 @@
 337044 Bobdylan
 337166 Ivanartioukhov
 337380 Lenormand
-337700 Korpás
+337700 Korpas
 338274 Valancius
-338284 Hodál
+338284 Hodal
 338371 Gerritsen
-338373 Fonóalbert
+338373 Fonoalbert
 339223 Stongemorin
 339486 Raimeux
 339855 Kedainiai
@@ -24287,8 +24287,8 @@
 341520 Mors-Somnus
 341590 Emmawatson
 341826 Aurelbaier
-341958 Chrétien
-342000 Neumünster
+341958 Chretien
+342000 Neumunster
 342017 Ramonin
 342372 Titia
 342431 Hilo
@@ -24343,15 +24343,15 @@
 346999 Evalilly
 347016 Haydnhuntley
 347017 Pui-Hin
-347028 Važec
-347266 Carrière
+347028 Vazec
+347266 Carriere
 347336 Changmeemann
 347940 Jorgezuluaga
 348034 Deslorieux
 348239 Societadante
 348383 Petibon
-348407 Patkósandrás
-348511 Žemaitė
+348407 Patkosandras
+348511 Zemaite
 349237 Quaglietti
 349386 Randywright
 349407 Stefaniafoglia
@@ -24363,7 +24363,7 @@
 350173 Yoshidanaoki
 350178 Eisleben
 350185 Linnell
-350509 Vepřoknedlozelo
+350509 Veproknedlozelo
 350838 Gorelysheva
 350969 Boiohaemum
 351785 Reguly
@@ -24376,9 +24376,9 @@
 352646 Blumbahs
 352704 Stevefleming
 352760 Tesorero
-352834 Málaga
+352834 Malaga
 352860 Monflier
-353171 Cosmebauçà
+353171 Cosmebauca
 353189 Iasus
 353232 Nolwenn
 353404 Laugalys
@@ -24417,7 +24417,7 @@
 360762 FRIPON
 361183 Tandon
 361193 Cheungtaklung
-361267 ʻIʻiwi
+361267 Iiwi
 361450 Houellebecq
 361524 Klimka
 361530 Victorfranzhess
@@ -24434,7 +24434,7 @@
 363115 Chuckwood
 363504 Belleau
 363582 Folpotat
-363623 Chelčický
+363623 Chelcicky
 363706 Karazija
 364166 Trebek
 364192 Qianruhu
@@ -24457,7 +24457,7 @@
 365761 Popovici
 365786 Florencelosse
 366252 Evanmillsap
-366272 Medellín
+366272 Medellin
 366487 Neilyoung
 366689 Rohrbaugh
 366852 Ti
@@ -24490,24 +24490,24 @@
 374131 Vitkauskas
 374338 Fontana
 374354 Pesquet
-374710 ʻOʻo
+374710 Oo
 374715 Dimpourbaix
 374848 Arturomalignani
 375005 Newsome
 375007 Buxy
 375043 Zengweizhou
 375067 Hewins
-375176 Béziau
-375303 Ikerjiménez
+375176 Beziau
+375303 Ikerjimenez
 375798 Divini
 375832 Yurijmedvedev
 375927 Ibara
-376029 Blahová
+376029 Blahova
 376084 Annettepeter
 376574 Michalkusiak
-376694 Kassák
+376694 Kassak
 377144 Okietex
-378002 ʻAkialoa
+378002 Akialoa
 378076 Campani
 378204 Bettyhesser
 378214 Sauron
@@ -24541,23 +24541,23 @@
 384533 Tenerelli
 384582 Juliasmith
 384584 Jenniferlawrence
-384815 Żołnowski
+384815 Zonowski
 385205 Michelvancamp
-385446 Manwë
+385446 Manwe
 385571 Otrera
 385695 Clete
-385980 Emiliosegrè
+385980 Emiliosegre
 386056 Taurage
-386528 Walterfürtig
+386528 Walterfurtig
 386618 Accomazzo
 386622 New Zealand
 386851 Streep
-388282 ʻAkepa
+388282 Akepa
 388370 Paulblu
 389293 Hasubick
 389470 Jan
-389478 Rivera-Valentín
-390743 Telkesmária
+389478 Rivera-Valentin
+390743 Telkesmaria
 390813 Debwatson
 390848 Veerle
 391042 Dubietis
@@ -24565,17 +24565,17 @@
 391496 Colineldridge
 391795 Univofutah
 391947 Tanithlee
-391988 Illmárton
+391988 Illmarton
 391996 Zhunenghong
 392070 Siurell
 392120 Heidiursula
 392142 Solheim
 392225 Lanzarote
 392655 Fengmin
-392728 Zdzisławłączny
+392728 Zdzisawaczny
 394445 Unst
 395124 Astonepia
-395141 Césarmanrique
+395141 Cesarmanrique
 395148 Kurnin
 396931 Nerliluca
 397278 Arvidson
@@ -24585,26 +24585,26 @@
 398188 Agni
 399411 Ayiomamitis
 399442 Radicofani
-399565 Dévényanna
+399565 Devenyanna
 399673 Kadenyuk
 399745 Ouchaou
 399979 Lewseaman
 400072 Radviliskis
 400162 SAIT
-400193 Castión
+400193 Castion
 400308 Antonkutter
 400309 Ralfhofner
 400673 Vitapolunina
 400796 Douglass
 400811 Gillesfontaine
-400881 Vladimírdolinay
-401820 Špilas
-402008 Laborfalviróza
+400881 Vladimirdolinay
+401820 Spilas
+402008 Laborfalviroza
 402920 Tsawout
 403491 Anthonygrayling
 403563 Ledbetter
 405207 Konstanz
-405571 Erdőspál
+405571 Erdospal
 406006 Ralys
 406308 Nanwai
 406737 Davet
@@ -24619,9 +24619,9 @@
 410928 Maidbronn
 411717 Cherylreed
 413033 Aerts
-413233 Várkonyiágnes
+413233 Varkonyiagnes
 414026 Bochonko
-414283 Lécureuil
+414283 Lecureuil
 416252 Manuelherrera
 416273 Glennsnyder
 416583 Jacereece
@@ -24637,14 +24637,14 @@
 419858 Abecheng
 420356 Praamzius
 420612 Nuptel
-420779 Świdwin
+420779 Swidwin
 421774 Jeffreyrose
 423097 Richardjarrell
 423205 Echezeaux
-423380 Juhászárpád
-423433 Harsányi
+423380 Juhaszarpad
+423433 Harsanyi
 423624 Udeantioquia
-423645 Quénisset
+423645 Quenisset
 424200 Tonicelia
 425442 Eberstadt
 427496 van de Weg
@@ -24655,7 +24655,7 @@
 428694 Saule
 429031 Hannavonhoerner
 429032 Sebvonhoerner
-429033 Günterwendt
+429033 Gunterwendt
 429084 Dietrichrex
 429120 Mikhaillavrov
 429136 Corsali
@@ -24666,7 +24666,7 @@
 432361 Rakovski
 432971 Loving
 433512 Hollyholman
-434050 Törökfece
+434050 Torokfece
 434180 Brosens
 434453 Ayerdhal
 434678 Curlin
@@ -24674,7 +24674,7 @@
 435186 Jovellanos
 435552 Morin
 435728 Yunlin
-435950 Bad Königshofen
+435950 Bad Konigshofen
 436048 Fritzhuber
 436149 Edabel
 437192 Frederikolsen
@@ -24684,7 +24684,7 @@
 438973 Masci
 439718 Danielcervantes
 440411 Piovani
-440670 Bécassine
+440670 Becassine
 440794 Wytrzyszczak
 440833 Kristenwalbolt
 441374 Wangjingxiu
@@ -24700,18 +24700,18 @@
 445818 Ronbeck
 445917 Ola
 446500 Katrinraynor
-446957 Priellekornélia
+446957 Priellekornelia
 447682 Rambaldi
 448051 Pepisensi
 448988 Changzhong
 449922 Bailey
-450297 Csákánybéla
+450297 Csakanybela
 450390 Pitchcomment
 450737 Sarbievius
 450931 Coculescu
 451138 Rizvanov
 452307 Manawydan
-453256 Gucevičius
+453256 Gucevicius
 454326 Donlee
 454329 Ericpiquette
 454350 Paolaamico
@@ -24725,37 +24725,37 @@
 456627 Cristianmartins
 456677 Yepeijian
 456695 Xingdingyu
-456731 Uligrözinger
+456731 Uligrozinger
 457248 Hondius
 457303 Daina
 457743 Balklavs
-457818 Ramírezmoreta
+457818 Ramirezmoreta
 458063 Gustavomuler
-461650 Paisdezső
+461650 Paisdezso
 461981 Chuyouhua
 462078 Carlosbriones
 464150 Kresken
-464743 Stanislavkomárek
-464745 Péterrózsa
+464743 Stanislavkomarek
+464745 Peterrozsa
 465036 Tatm
 465513 Chenchen
 468581 Maiajasperwhite
 468725 Khalat
-469219 Kamoʻoalewa
+469219 Kamooalewa
 469366 Watkins
-469705 ǂKá̦gára
+469705 Kagara
 469748 Volnay
 469773 Kitaibel
 470324 Debbanci
 470600 Calogero
-471109 Vladobahýl
+471109 Vladobahyl
 471143 Dziewanna
 471301 Robertajmolson
 471325 Taowu
-471926 Jörmungandr
+471926 Jormungandr
 472235 Zhulong
 473503 Minoruozima
-474440 Nemesnagyágnes
+474440 Nemesnagyagnes
 474640 Alicanto
 475080 Jarry
 475696 Fisiocritico
@@ -24763,7 +24763,7 @@
 479553 Garyzema
 481984 Cernunnos
 481993 Melaniezander
-483454 Hosszúkatinka
+483454 Hosszukatinka
 483488 Wudeshi
 483615 Martinmccarthy
 483636 Treanor
@@ -24790,7 +24790,7 @@
 498394 Zhangbosheng
 498797 Linshiawshin
 499367 Monikasirp
-499526 Romhányi
+499526 Romhanyi
 500170 Lusitano
 501132 Runkel
 503033 New Hampshire
@@ -24803,7 +24803,7 @@
 510466 Varna
 511238 Cuixiangqun
 513557 NIGPAS
-514107 Kaʻepaokaʻawela
+514107 Kaepaokaawela
 514986 Zhangweiguo
 515812 Pueo
 516560 Annapolisroyal
@@ -24833,33 +24833,33 @@
 534299 Parazynski
 534390 Huningsheng
 535353 Antoniwilk
-541132 Leleākūhonua
-541185 Boldogkői
-541200 Komjádibéla
+541132 Leleakuhonua
+541185 Boldogkoi
+541200 Komjadibela
 541487 Silviapablo
 541508 Liucixin
-541550 Schickbéla
-541565 Gucklerkároly
+541550 Schickbela
+541565 Gucklerkaroly
 541571 Schulekfrigyes
 541575 Mikhailnazarov
-541582 Tóthimre
-541587 Paparó
-541618 Magyaribéla
-541627 Halmospál
+541582 Tothimre
+541587 Paparo
+541618 Magyaribela
+541627 Halmospal
 541631 Kirbulychev
 541691 Ranschburg
 541741 Fado
-541776 Oláhkatalin
+541776 Olahkatalin
 541842 Amygreaves
 541878 Jessicatallulah
 541897 TRAPPIST
 541982 Grendel
 541983 Matthiaspenselin
-541992 Lukácsbéla
-542026 Kaszásattila
+541992 Lukacsbela
+542026 Kaszasattila
 542084 Olegverkhodanov
-542246 Kulcsár
-542461 Slovinský
+542246 Kulcsar
+542461 Slovinsky
 542509 Lyatoshynsky
 542561 Ritajochen
 542600 Lindahall
@@ -24868,38 +24868,38 @@
 543018 ROTAT
 543060 Liefke
 543081 Albertducrocq
-543198 Rastislavmráz
+543198 Rastislavmraz
 543229 Matiganis
-543302 Hamvasbéla
+543302 Hamvasbela
 543315 Asmakhammari
 543581 Laurenrubyjane
-543698 Miromesaroš
+543698 Miromesaros
 543914 Tessedik
 544033 Lihsing
 544309 Reuss
-544325 Péczbéla
+544325 Peczbela
 544541 Srholec
-544618 Bugátpál
+544618 Bugatpal
 545167 Bonfini
 545394 Rossetter
 545560 Fersman
-545561 Nesbø
+545561 Nesb
 545564 Sabonis
 545565 Borysten
 545571 Carlobaccigalupi
 545619 Lapuska
 545651 Lilyjames
-545784 Kelemenjános
-545839 Hernánletelier
+545784 Kelemenjanos
+545839 Hernanletelier
 545985 Galinaermolenko
-546025 Ábrahámpéter
+546025 Abrahampeter
 546049 Zhujin
 546186 Vasylivchenko
 546235 Kolbenheyer
-546275 Kozák
-546471 Szipál
-546498 Demjénferenc
-546515 Almásy
+546275 Kozak
+546471 Szipal
+546498 Demjenferenc
+546515 Almasy
 546756 Sunguoyou
 546842 Ruanjiangao
 546843 Xuzhijian
@@ -24907,70 +24907,70 @@
 546845 Wulumuqiyizhong
 546846 Sunpeiyuan
 547345 Kennethchambers
-547398 Turánpál
+547398 Turanpal
 547400 Szakcsilakatos
 547508 Perehorts
-547599 Virághalmy
-547612 Károligáspár
-547664 Ozdín
+547599 Viraghalmy
+547612 Karoligaspar
+547664 Ozdin
 547666 Morgon
-547705 Paálgyörgy
+547705 Paalgyorgy
 548032 Ensisheim
 548263 Alexandertutov
 548624 Ekwerike
 548690 Hazucha
 548715 Stus
-549107 Hackitamás
+549107 Hackitamas
 549151 Serra-Ricart
 549185 Herczeg
 549228 Labuda
-549229 Bánjános
+549229 Banjanos
 549418 Andreifesenko
 549648 Shirokov
 549663 Barczaszabolcs
 549676 Thanjavur
 549706 Spbuni
-549744 Heimpál
+549744 Heimpal
 549873 Portsevskii
-549961 Földesistván
+549961 Foldesistvan
 549996 Dmitriiguliutin
-550083 Szécsényi-Nagy
+550083 Szecsenyi-Nagy
 550139 Venn
 550525 Sigourneyweaver
 550666 Difrancesco
 550832 Silvanacopceski
-550942 Kurtág
+550942 Kurtag
 551014 Gorman
-551091 Flórferenc
-551231 Żywiec
+551091 Florferenc
+551231 Zywiec
 551233 Miguelanton
-551390 Thomaskeßler
+551390 Thomaskeler
 551510 Mariuszkukava
-551601 Antonijové
+551601 Antonijove
 551878 Stoeger
 551900 Laneways
 552385 Rochechouart
 552420 Flodubeyjames
-552681 Sósvera
-552708 Ödmangovender
+552681 Sosvera
+552708 Odmangovender
 552727 Hauszmann
-552733 Grétsylászló
+552733 Gretsylaszlo
 552746 Annanobili
-552748 Garasdezső
+552748 Garasdezso
 552750 Valasek
 552784 Jeanbrahier
-552847 Steinaurél
+552847 Steinaurel
 552855 Hoitsy
 552888 Felixrodriguez
 553035 Faikmusayev
-553438 Bércziszaniszló
+553438 Bercziszaniszlo
 553532 Alfiejohnpercy
 554239 Montseypedro
 554268 Marksylvester
 554317 Rorywoodhams
 554466 Pablomotos
 554648 Olaffischer
-554704 Széppataki
+554704 Szeppataki
 554709 Magdastavinschi
 554766 Dieterkasan
 554879 Kissgyula
@@ -24978,34 +24978,34 @@
 555092 Annasusanne
 555112 Monika
 555120 Ottoguthier
-555128 Birštonas
+555128 Birstonas
 555152 Oproiu
 555227 Claraisabella
 555292 Bakels
 555468 Tokarczuk
 555802 Chengyen
-555955 Lurçat
+555955 Lurcat
 557045 Nadolschi
 558195 Eugengindl
-558398 Nagysándor
+558398 Nagysandor
 559135 Richardgreaves
 559521 Sonbird
 560085 Perperikon
 560354 Chrisnolan
 560388 Normafa
-560522 Gombaszögi
+560522 Gombaszogi
 560794 Ugoboncompagni
 561490 Tonyforward
-561911 Kézandor
+561911 Kezandor
 562008 Samtackeff
 562237 Chentsov
 562446 Pilinszky
-562936 Bródyimre
+562936 Brodyimre
 562964 Hudin
 562971 Johannhagen
-562979 Barabásmiklós
+562979 Barabasmiklos
 563318 ten Kate
-563716 Szinyeimersepál
+563716 Szinyeimersepal
 563853 Andrewdubeyjames
 564280 Tudorica
 564808 Pallai
@@ -25013,10 +25013,10 @@
 565184 Janusz
 565571 Shtol
 565780 Kopaszimre
-566631 Svábhegy
-567010 Kanyósándor
+566631 Svabhegy
+567010 Kanyosandor
 567329 Zinaida
-567490 Bánkyvilma
+567490 Bankyvilma
 567580 Latuni
 569484 Irisdement
 570814 Nauru
@@ -25026,38 +25026,38 @@
 573759 Rocheva
 573814 Sergeyzvyagin
 574300 Curelaru
-574506 Sopronilíceum
-574546 Kondorgusztáv
-574635 Jánossy
+574506 Soproniliceum
+574546 Kondorgusztav
+574635 Janossy
 574691 Horgerantal
 574742 Annatsybuleva
 575108 Doyrantsi
 575195 Carpineti
-575498 Lampérthgyula
-575511 Bükk
+575498 Lamperthgyula
+575511 Bukk
 576373 Wolfgangbusch
 576465 Craigwoodhams
 576466 Scherpenisse
-576793 Károlyiamy
+576793 Karolyiamy
 576853 Rafalreszelewski
-576870 Országlili
+576870 Orszaglili
 576901 Adagio
-577881 Pálinkáslibor
+577881 Palinkaslibor
 577883 Yelenametyolkina
 578053 Jordillorca
-578164 Rerrichbéla
+578164 Rerrichbela
 578168 Miaochangwen
 578202 Philippetalbot
 578622 Fergezsuzsa
-579513 Saselemér
-579724 Rómerflóris
+579513 Saselemer
+579724 Romerfloris
 579785 Kepesgyula
 579787 Formentera
 579890 Mocnik
 580123 Gedek
-580301 Aznarmacías
+580301 Aznarmacias
 580619 Harangiszabolcs
-582910 Tormazsófia
+582910 Tormazsofia
 582928 Smriglio
 583972 Rybnikov
 584311 Pozhlakov
@@ -25077,8 +25077,8 @@
 590888 Chengda
 591426 Adalawson
 591592 Carlanderson
-591763 Orishutʹ
-591808 Dienesvaléria
+591763 Orishut
+591808 Dienesvaleria
 591861 Sergeyyazev
 591964 Jakucs
 592170 Arkadyinin
@@ -25089,40 +25089,40 @@
 594012 Bulavina
 594032 Reyhersamuel
 594782 Kacperwierzchos
-594913 'Ayló'chaxnim
+594913 'Aylo'chaxnim
 596543 Ubu
 596588 Jamesliebert
 596996 Suhantzong
 597148 Chungmingshen
 597966 Laihe
 597967 Pannai
-597993 Bélesta
+597993 Belesta
 598719 Alegalli
 598855 Agerer
 598895 Artjuhs
-599755 Alcarràs
+599755 Alcarras
 600379 Csortosgyula
 600539 Aldoatiglio
 600639 Gevreychambertin
 600665 Nuitsaintgeorges
 600867 Kinghu
-601036 Sassflóra
+601036 Sassflora
 601227 Ammann
 601476 Scharun
 601731 Kukuczka
 601894 Naiman
 601916 Sting
-602922 Juhászgyula
-603021 Galyatető
+602922 Juhaszgyula
+603021 Galyateto
 603200 Yuchichung
 603380 Dorisbrougham
 604001 Iagiellonica
 604468 Olenici
 604750 Marisabele
-604773 Michaelmöller
+604773 Michaelmoller
 604827 Rietavas
 605499 Krupko
-605901 Montághimre
+605901 Montaghimre
 605911 Cecily
 606017 Irimes
 606339 Kierpiec
@@ -25132,8 +25132,8 @@
 611070 Hsurueron
 611494 Gionti
 612163 Thelowes
-612477 Csörgeierika
-612787 Haumannpéter
+612477 Csorgeierika
+612787 Haumannpeter
 612916 Stirlingcolgate
 612946 Zirmunai
 613279 Isaacmiguel
@@ -25144,7 +25144,7 @@
 614664 Martinroth
 614667 Rogersmith
 614690 Conversimarcello
-615214 Molnárkristian
+615214 Molnarkristian
 615355 Jacobkuiper
 616688 Gaowei
 616689 Yihangyiyang
@@ -25155,10 +25155,10 @@
 618694 Gertrudegrice
 620096 Curupira
 620307 Casanovas
-622006 Vákárlajos
+622006 Vakarlajos
 622398 Fraser
-622467 Ignés
-622577 Miorița
+622467 Ignes
+622577 Miorita
 623031 Cartaya
 623826 Alekseyvarkin
 623827 Nikandrilyich
@@ -25176,13 +25176,13 @@
 634659 Colombo
 634981 Herbertgrice
 635057 Bangailona
-635338 Pécsieszter
+635338 Pecsieszter
 635381 Michaelcoates
 635478 Fotonikalv
-635771 Prahácsmargit
+635771 Prahacsmargit
 638624 Xueqikun
-638676 Žižek
-639292 Szabózoltán
+638676 Zizek
+639292 Szabozoltan
 646626 Valentingrigore
 646684 Boaca
 648709 Angissimo
@@ -25192,13 +25192,13 @@
 650474 Chungchaocheng
 651370 Kolen
 652031 Szczepaniak
-652410 Janmarszałek
+652410 Janmarszaek
 653564 Genersich
 658398 Lufonds
 658642 Carreira
 658787 Alksnis
-658882 Žemaitija
-661178 Żywiecmed
+658882 Zemaitija
+661178 Zywiecmed
 661666 Chenchengpo
 663271 Heinzreinhardt
 663467 Limeishu
@@ -25214,11 +25214,11 @@
 670740 Mihailsandu
 670744 Karsh
 673014 Kosakissattila
-676734 Wójcicki
+676734 Wojcicki
 677772 Bettonvil
 678198 Jeanmariferenbac
 678300 Herbertcouriol
-678471 Piermichelbergé
+678471 Piermichelberge
 679552 Efspringer
 679996 Mariyafilippovna
 679999 Mariyavarkina
@@ -25227,7 +25227,7 @@
 690780 Constantinescu
 690923 Predatu
 693043 Suhay
-694537 Vîntdevară
+694537 Vintdevara
 697402 Ao
 698609 Angli
 700818 Pauldelaney
@@ -25236,7 +25236,7 @@
 706348 Montcabrer
 707242 Denniscrabtree
 708341 Fredjudson
-708722 Timișoara
+708722 Timisoara
 709193 Concettafinardi
 711824 Infante
 714305 Panceri
@@ -25259,8 +25259,8 @@
 741647 Davidge
 741718 Simard
 741821 Lewisknee
-743062 Dianabeșliu
+743062 Dianabesliu
 745492 Saanich
-752263 Franciscosánchez
+752263 Franciscosanchez
 756832 Balogh
 773906 Larisaromanova
